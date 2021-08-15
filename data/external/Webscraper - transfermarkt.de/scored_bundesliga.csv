@@ -1,0 +1,1411 @@
+matchday,penalty_taker,penalty_taker_position,penalty_taker_club,goalkeeper,score_before_penalty,minute,home_team,away_team,final_score,season,scored
+1,Robert Lewandowski,Mittelstürmer,FC Bayern München,Rune Jarstein,2:2,60',FC Bayern München,Hertha BSC,2:2 ,2019/2020,1
+1,Luca Waldschmidt,Hängende Spitze,SC Freiburg,Florian Müller,3:0,87',SC Freiburg,1.FSV Mainz 05,3:0 ,2019/2020,1
+2,Wout Weghorst,Mittelstürmer,VfL Wolfsburg,Rune Jarstein,0:1,9',Hertha BSC,VfL Wolfsburg,0:3 ,2019/2020,1
+2,Robert Lewandowski,Mittelstürmer,FC Bayern München,Alexander Nübel,0:1,20',FC Schalke 04,FC Bayern München,0:3 ,2019/2020,1
+2,Luca Waldschmidt,Hängende Spitze,SC Freiburg,Jannik Huth,1:1,21',SC Paderborn 07,SC Freiburg,1:3 ,2019/2020,1
+4,Davy Klaassen,Zentrales Mittelfeld,SV Werder Bremen,Rafal Gikiewicz,0:1,5',1.FC Union Berlin,SV Werder Bremen,1:2 ,2019/2020,1
+4,Sebastian Andersson,Mittelstürmer,1.FC Union Berlin,Jiri Pavlenka,1:1,14',1.FC Union Berlin,SV Werder Bremen,1:2 ,2019/2020,1
+4,Emil Forsberg,Linksaußen,RasenBallsport Leipzig,Manuel Neuer,1:1,45',RasenBallsport Leipzig,FC Bayern München,1:1 ,2019/2020,1
+5,Philippe Coutinho,Offensives Mittelfeld,FC Bayern München,Timo Horn,3:0,62',FC Bayern München,1.FC Köln,4:0 ,2019/2020,1
+6,Amine Harit,Offensives Mittelfeld,FC Schalke 04,Péter Gulácsi,0:2,43',RasenBallsport Leipzig,FC Schalke 04,1:3 ,2019/2020,1
+1,Nabil Bentaleb,Zentrales Mittelfeld,FC Schalke 04,Péter Gulácsi,1:0,44',FC Schalke 04,RasenBallsport Leipzig,2:0 ,2017/2018,1
+1,Robert Lewandowski,Mittelstürmer,FC Bayern München,Bernd Leno,3:0,53',FC Bayern München,Bayer 04 Leverkusen,3:1 ,2017/2018,1
+2,Wendell,Linker Verteidiger,Bayer 04 Leverkusen,Oliver Baumann,1:0,32',Bayer 04 Leverkusen,TSG 1899 Hoffenheim,2:2 ,2017/2018,1
+3,Nabil Bentaleb,Zentrales Mittelfeld,FC Schalke 04,Ron-Robert Zieler,1:0,4',FC Schalke 04,VfB Stuttgart,3:1 ,2017/2018,1
+1,Salomon Kalou,Linksaußen,Hertha BSC,Marwin Hitz,0:1,48',FC Augsburg,Hertha BSC,0:1 ,2015/2016,1
+3,Alfred Finnbogason,Mittelstürmer,FC Augsburg,Timo Horn,2:0,33',FC Augsburg,1.FC Köln,3:0 ,2017/2018,1
+4,Thorgan Hazard,Linksaußen,Borussia Mönchengladbach,Péter Gulácsi,1:1,25',RasenBallsport Leipzig,Borussia Mönchengladbach,2:2 ,2017/2018,1
+1,Anthony Modeste,Mittelstürmer,1.FC Köln,Przemyslaw Tyton,0:1,75',VfB Stuttgart,1.FC Köln,1:3 ,2015/2016,1
+1,Daniel Didavi,Offensives Mittelfeld,VfB Stuttgart,Timo Horn,1:2,79',VfB Stuttgart,1.FC Köln,1:3 ,2015/2016,1
+2,Marco Reus,Offensives Mittelfeld,Borussia Dortmund,Örjan Nyland,0:2,60',FC Ingolstadt 04,Borussia Dortmund,0:4 ,2015/2016,1
+3,Aron Jóhannsson,Mittelstürmer,SV Werder Bremen,Yann Sommer,1:0,39',SV Werder Bremen,Borussia Mönchengladbach,2:1 ,2015/2016,1
+4,Pierre-Emerick Aubameyang,Mittelstürmer,Borussia Dortmund,Timo Horn,3:0,59',Borussia Dortmund,1.FC Köln,5:0 ,2017/2018,1
+5,Sébastien Haller,Mittelstürmer,Eintracht Frankfurt,Timo Horn,0:1,22',1.FC Köln,Eintracht Frankfurt,0:1 ,2017/2018,1
+5,Robert Lewandowski,Mittelstürmer,FC Bayern München,Ralf Fährmann,0:1,25',FC Schalke 04,FC Bayern München,0:3 ,2017/2018,1
+5,Raffael,Hängende Spitze,Borussia Mönchengladbach,Ron-Robert Zieler,2:0,74',Borussia Mönchengladbach,VfB Stuttgart,2:0 ,2017/2018,1
+1,Emil Forsberg,Linksaußen,RasenBallsport Leipzig,Robin Zentner,1:0,17',RasenBallsport Leipzig,1.FSV Mainz 05,3:1 ,2020/2021,1
+1,Jonas Hofmann,Rechtsaußen,Borussia Mönchengladbach,Ramazan Özcan,1:0,55',Borussia Mönchengladbach,Bayer 04 Leverkusen,2:0 ,2018/2019,1
+3,Ricardo Rodríguez,Linker Verteidiger,VfL Wolfsburg,Ralf Fährmann,2:0,59',VfL Wolfsburg,FC Schalke 04,3:0 ,2015/2016,1
+3,Thomas Müller,Hängende Spitze,FC Bayern München,Bernd Leno,2:0,60',FC Bayern München,Bayer 04 Leverkusen,3:0 ,2015/2016,1
+3,Haris Seferovic,Mittelstürmer,Eintracht Frankfurt,Przemyslaw Tyton,1:3,69',VfB Stuttgart,Eintracht Frankfurt,1:4 ,2015/2016,1
+3,Arjen Robben,Rechtsaußen,FC Bayern München,Bernd Leno,3:0,71',FC Bayern München,Bayer 04 Leverkusen,3:0 ,2015/2016,1
+3,Anthony Modeste,Mittelstürmer,1.FC Köln,René Adler,2:1,81',1.FC Köln,Hamburger SV,2:1 ,2015/2016,1
+1,Ja-cheol Koo,Zentrales Mittelfeld,1.FSV Mainz 05,Lukas Kruse,2:2,90',SC Paderborn 07,1.FSV Mainz 05,2:2 ,2014/2015,1
+1,Robert Lewandowski,Mittelstürmer,FC Bayern München,Ralf Fährmann,3:0,31',FC Bayern München,FC Schalke 04,8:0 ,2020/2021,1
+1,Andrej Kramaric,Mittelstürmer,TSG 1899 Hoffenheim,Timo Horn,1:2,45',1.FC Köln,TSG 1899 Hoffenheim,2:3 ,2020/2021,1
+1,Erling Haaland,Mittelstürmer,Borussia Dortmund,Yann Sommer,2:0,54',Borussia Dortmund,Borussia Mönchengladbach,3:0 ,2020/2021,1
+2,André Silva,Mittelstürmer,Eintracht Frankfurt,Alexander Schwolow,0:1,30',Hertha BSC,Eintracht Frankfurt,1:3 ,2020/2021,1
+2,Niclas Füllkrug,Mittelstürmer,SV Werder Bremen,Ralf Fährmann,0:3,59',FC Schalke 04,SV Werder Bremen,1:3 ,2020/2021,1
+1,Robert Lewandowski,Mittelstürmer,FC Bayern München,Oliver Baumann,2:1,82',FC Bayern München,TSG 1899 Hoffenheim,3:1 ,2018/2019,1
+1,Nabil Bentaleb,Zentrales Mittelfeld,FC Schalke 04,Koen Casteels,1:1,85',VfL Wolfsburg,FC Schalke 04,2:1 ,2018/2019,1
+2,Sébastien Haller,Mittelstürmer,Eintracht Frankfurt,Jiri Pavlenka,1:1,54',Eintracht Frankfurt,SV Werder Bremen,1:2 ,2018/2019,1
+3,Wendell,Linker Verteidiger,Bayer 04 Leverkusen,Manuel Neuer,0:1,5',FC Bayern München,Bayer 04 Leverkusen,3:1 ,2018/2019,1
+3,Eric Maxim Choupo-Moting,Mittelstürmer,FC Schalke 04,Yann Sommer,2:1,52',Borussia Mönchengladbach,FC Schalke 04,4:1 ,2014/2015,1
+3,Ronny,Offensives Mittelfeld,Hertha BSC,Loris Karius,1:2,86',Hertha BSC,1.FSV Mainz 05,1:3 ,2014/2015,1
+4,Ricardo Rodríguez,Linker Verteidiger,VfL Wolfsburg,Bernd Leno,1:0,8',VfL Wolfsburg,Bayer 04 Leverkusen,4:1 ,2014/2015,1
+4,Eric Maxim Choupo-Moting,Mittelstürmer,FC Schalke 04,Kevin Trapp,1:2,40',FC Schalke 04,Eintracht Frankfurt,2:2 ,2014/2015,1
+2,Andrej Kramaric,Mittelstürmer,TSG 1899 Hoffenheim,Manuel Neuer,4:1,90',TSG 1899 Hoffenheim,FC Bayern München,4:1 ,2020/2021,1
+3,Lars Stindl,Hängende Spitze,Borussia Mönchengladbach,Timo Horn,0:3,56',1.FC Köln,Borussia Mönchengladbach,1:3 ,2020/2021,1
+3,Marcel Halstenberg,Linker Verteidiger,RasenBallsport Leipzig,Ralf Fährmann,4:0,80',RasenBallsport Leipzig,FC Schalke 04,4:0 ,2020/2021,1
+3,Robert Lewandowski,Mittelstürmer,FC Bayern München,Alexander Schwolow,4:3,90',FC Bayern München,Hertha BSC,4:3 ,2020/2021,1
+3,Yunus Malli,Offensives Mittelfeld,VfL Wolfsburg,Rune Jarstein,1:1,87',VfL Wolfsburg,Hertha BSC,2:2 ,2018/2019,1
+3,Dodi Lukebakio,Rechtsaußen,Fortuna Düsseldorf,Oliver Baumann,2:1,88',Fortuna Düsseldorf,TSG 1899 Hoffenheim,2:1 ,2018/2019,1
+4,Thorgan Hazard,Linksaußen,Borussia Mönchengladbach,Rune Jarstein,0:1,29',Hertha BSC,Borussia Mönchengladbach,4:2 ,2018/2019,1
+4,Emil Forsberg,Linksaußen,RasenBallsport Leipzig,Kevin Trapp,1:1,54',Eintracht Frankfurt,RasenBallsport Leipzig,1:1 ,2018/2019,1
+4,Robert Lewandowski,Mittelstürmer,FC Bayern München,Ralf Fährmann,0:2,64',FC Schalke 04,FC Bayern München,0:2 ,2018/2019,1
+4,Paul Verhaegh,Rechter Verteidiger,FC Augsburg,Raphael Wolf,2:1,45',FC Augsburg,SV Werder Bremen,4:2 ,2014/2015,1
+4,Franco Di Santo,Mittelstürmer,SV Werder Bremen,Marwin Hitz,2:2,56',FC Augsburg,SV Werder Bremen,4:2 ,2014/2015,1
+5,Vladimir Darida,Zentrales Mittelfeld,SC Freiburg,Oliver Baumann,2:3,75',TSG 1899 Hoffenheim,SC Freiburg,3:3 ,2014/2015,1
+6,Paul Verhaegh,Rechter Verteidiger,FC Augsburg,Thomas Kraft,1:0,27',FC Augsburg,Hertha BSC,1:0 ,2014/2015,1
+7,Vladimir Darida,Zentrales Mittelfeld,SC Freiburg,Raphael Wolf,0:1,8',SV Werder Bremen,SC Freiburg,1:1 ,2014/2015,1
+1,Rafael van der Vaart,Offensives Mittelfeld,Hamburger SV,Timo Hildebrand,1:1,12',FC Schalke 04,Hamburger SV,3:3 ,2013/2014,1
+1,Alexander Meier,Hängende Spitze,Eintracht Frankfurt,Thomas Kraft,2:1,37',Hertha BSC,Eintracht Frankfurt,6:1 ,2013/2014,1
+1,David Alaba,Innenverteidiger,FC Bayern München,Marc-André ter Stegen,3:1,69',FC Bayern München,Borussia Mönchengladbach,3:1 ,2013/2014,1
+1,Robert Lewandowski,Mittelstürmer,Borussia Dortmund,Mohamed Amsif,0:4,86',FC Augsburg,Borussia Dortmund,0:4 ,2013/2014,1
+2,Rafael van der Vaart,Offensives Mittelfeld,Hamburger SV,Koen Casteels,1:1,44',Hamburger SV,TSG 1899 Hoffenheim,1:5 ,2013/2014,1
+2,Filip Daems,Linker Verteidiger,Borussia Mönchengladbach,Ron-Robert Zieler,3:0,66',Borussia Mönchengladbach,Hannover 96,3:0 ,2013/2014,1
+2,Ronny,Offensives Mittelfeld,Hertha BSC,Raphael Schäfer,1:2,78',1.FC Nürnberg,Hertha BSC,2:2 ,2013/2014,1
+2,Marco Reus,Offensives Mittelfeld,Borussia Dortmund,Daniel Davari,2:0,86',Borussia Dortmund,Eintracht Braunschweig,2:1 ,2013/2014,1
+3,Sejad Salihovic,Zentrales Mittelfeld,TSG 1899 Hoffenheim,Oliver Baumann,1:0,10',TSG 1899 Hoffenheim,SC Freiburg,3:3 ,2013/2014,1
+3,Szabolcs Huszti,Zentrales Mittelfeld,Hannover 96,Timo Hildebrand,1:0,15',Hannover 96,FC Schalke 04,2:1 ,2013/2014,1
+1,Robert Lewandowski,Mittelstürmer,FC Bayern München,Felix Wiedwald,6:0,77',FC Bayern München,SV Werder Bremen,6:0 ,2016/2017,1
+1,Pierre-Emerick Aubameyang,Mittelstürmer,Borussia Dortmund,Jonas Lössl,2:0,89',Borussia Dortmund,1.FSV Mainz 05,2:1 ,2016/2017,1
+2,Aron Jóhannsson,Mittelstürmer,SV Werder Bremen,Marwin Hitz,1:0,45',SV Werder Bremen,FC Augsburg,1:2 ,2016/2017,1
+2,Nils Petersen,Mittelstürmer,SC Freiburg,Yann Sommer,3:1,88',SC Freiburg,Borussia Mönchengladbach,3:1 ,2016/2017,1
+3,Raffael,Hängende Spitze,Borussia Mönchengladbach,Jaroslav Drobny,3:0,21',Borussia Mönchengladbach,SV Werder Bremen,4:1 ,2016/2017,1
+3,Emil Forsberg,Linksaußen,RasenBallsport Leipzig,René Adler,0:1,66',Hamburger SV,RasenBallsport Leipzig,0:4 ,2016/2017,1
+5,Vedad Ibisevic,Mittelstürmer,Hertha BSC,Lukas Hradecky,0:1,19',Eintracht Frankfurt,Hertha BSC,3:3 ,2016/2017,1
+6,Antonio Colak,Mittelstürmer,SV Darmstadt 98,Jaroslav Drobny,1:0,19',SV Darmstadt 98,SV Werder Bremen,2:2 ,2016/2017,1
+6,Eric Maxim Choupo-Moting,Mittelstürmer,FC Schalke 04,Yann Sommer,1:0,52',FC Schalke 04,Borussia Mönchengladbach,4:0 ,2016/2017,1
+6,Vedad Ibisevic,Mittelstürmer,Hertha BSC,René Adler,2:0,70',Hertha BSC,Hamburger SV,2:0 ,2016/2017,1
+1,Andreas Ivanschitz,Offensives Mittelfeld,1.FSV Mainz 05,Oliver Baumann,1:1,65',SC Freiburg,1.FSV Mainz 05,1:1 ,2012/2013,1
+2,Aaron Hunt,Offensives Mittelfeld,SV Werder Bremen,René Adler,1:0,51',SV Werder Bremen,Hamburger SV,2:0 ,2012/2013,1
+2,Alexander Meier,Hängende Spitze,Eintracht Frankfurt,Tim Wiese,0:3,83',TSG 1899 Hoffenheim,Eintracht Frankfurt,0:4 ,2012/2013,1
+3,Aaron Hunt,Offensives Mittelfeld,SV Werder Bremen,Ron-Robert Zieler,2:1,26',Hannover 96,SV Werder Bremen,3:2 ,2012/2013,1
+3,Ádám Szalai,Mittelstürmer,1.FSV Mainz 05,Manuel Neuer,2:1,59',FC Bayern München,1.FSV Mainz 05,3:1 ,2012/2013,1
+5,Jefferson Farfán,Rechtsaußen,FC Schalke 04,Christian Wetklo,1:0,21',FC Schalke 04,1.FSV Mainz 05,3:0 ,2012/2013,1
+7,Vedad Ibisevic,Mittelstürmer,VfB Stuttgart,Bernd Leno,1:1,19',VfB Stuttgart,Bayer 04 Leverkusen,2:2 ,2012/2013,1
+7,Daniel Caligiuri,Rechtsaußen,SC Freiburg,Raphael Schäfer,2:0,90',SC Freiburg,1.FC Nürnberg,3:0 ,2012/2013,1
+8,Daniel Caligiuri,Rechtsaußen,SC Freiburg,Diego Benaglio,0:1,40',VfL Wolfsburg,SC Freiburg,0:2 ,2012/2013,1
+9,Jens Langeneke,Innenverteidiger,Fortuna Düsseldorf,Diego Benaglio,1:3,70',Fortuna Düsseldorf,VfL Wolfsburg,1:4 ,2012/2013,1
+1,Torsten Frings,Defensives Mittelfeld,SV Werder Bremen,Tom Starke,0:1,3',TSG 1899 Hoffenheim,SV Werder Bremen,4:1 ,2010/2011,1
+2,Torsten Frings,Defensives Mittelfeld,SV Werder Bremen,Faryd Mondragón,1:0,33',SV Werder Bremen,1.FC Köln,4:2 ,2010/2011,1
+2,Papiss Demba Cissé,Mittelstürmer,SC Freiburg,Raphael Schäfer,1:1,40',1.FC Nürnberg,SC Freiburg,1:2 ,2010/2011,1
+2,Arturo Vidal,Zentrales Mittelfeld,Bayer 04 Leverkusen,Logan Bailly,2:4,58',Bayer 04 Leverkusen,Borussia Mönchengladbach,3:6 ,2010/2011,1
+1,Sejad Salihovic,Zentrales Mittelfeld,TSG 1899 Hoffenheim,Ron-Robert Zieler,1:1,18',Hannover 96,TSG 1899 Hoffenheim,2:1 ,2011/2012,1
+3,Javier Pinola,Innenverteidiger,1.FC Nürnberg,Frank Rost,1:1,82',Hamburger SV,1.FC Nürnberg,1:1 ,2010/2011,1
+5,Torsten Frings,Defensives Mittelfeld,SV Werder Bremen,Florian Fromlowitz,1:1,36',Hannover 96,SV Werder Bremen,4:1 ,2010/2011,1
+5,Florian Bruns,Defensives Mittelfeld,FC St. Pauli,Logan Bailly,1:2,71',Borussia Mönchengladbach,FC St. Pauli,1:2 ,2010/2011,1
+5,Arturo Vidal,Zentrales Mittelfeld,Bayer 04 Leverkusen,Oka Nikolov,2:1,90',Bayer 04 Leverkusen,Eintracht Frankfurt,2:1 ,2010/2011,1
+6,Filip Daems,Linker Verteidiger,Borussia Mönchengladbach,Manuel Neuer,0:1,15',FC Schalke 04,Borussia Mönchengladbach,2:2 ,2010/2011,1
+1,Mohammed Abdellaoue,Mittelstürmer,Hannover 96,Tom Starke,2:1,30',Hannover 96,TSG 1899 Hoffenheim,2:1 ,2011/2012,1
+2,Mladen Petric,Mittelstürmer,Hamburger SV,Thomas Kraft,1:0,25',Hamburger SV,Hertha BSC,2:2 ,2011/2012,1
+2,Konstantin Rausch,Linker Verteidiger,Hannover 96,Raphael Schäfer,0:2,27',1.FC Nürnberg,Hannover 96,1:2 ,2011/2012,1
+2,Klaas-Jan Huntelaar,Mittelstürmer,FC Schalke 04,Michael Rensing,1:1,42',FC Schalke 04,1.FC Köln,5:1 ,2011/2012,1
+2,Filip Daems,Linker Verteidiger,Borussia Mönchengladbach,Sven Ulreich,1:0,67',Borussia Mönchengladbach,VfB Stuttgart,1:1 ,2011/2012,1
+7,André Schürrle,Linksaußen,1.FSV Mainz 05,Tom Starke,4:2,74',1.FSV Mainz 05,TSG 1899 Hoffenheim,4:2 ,2010/2011,1
+3,Filip Daems,Linker Verteidiger,Borussia Mönchengladbach,Diego Benaglio,2:1,32',Borussia Mönchengladbach,VfL Wolfsburg,4:1 ,2011/2012,1
+3,Sejad Salihovic,Zentrales Mittelfeld,TSG 1899 Hoffenheim,Simon Jentzsch,0:2,75',FC Augsburg,TSG 1899 Hoffenheim,0:2 ,2011/2012,1
+3,Aaron Hunt,Offensives Mittelfeld,SV Werder Bremen,Oliver Baumann,4:3,87',SV Werder Bremen,SC Freiburg,5:3 ,2011/2012,1
+4,Mladen Petric,Mittelstürmer,Hamburger SV,Miro Varvodic,1:0,11',Hamburger SV,1.FC Köln,3:4 ,2011/2012,1
+1,Mesut Özil,Offensives Mittelfeld,SV Werder Bremen,Oka Nikolov,1:1,13',SV Werder Bremen,Eintracht Frankfurt,2:3 ,2009/2010,1
+2,Jiri Stajner,Hängende Spitze,Hannover 96,Heinz Müller,1:1,56',Hannover 96,1.FSV Mainz 05,1:1 ,2009/2010,1
+2,Élson,Offensives Mittelfeld,VfB Stuttgart,Manuel Salz,2:0,65',VfB Stuttgart,SC Freiburg,4:2 ,2009/2010,1
+4,Piotr Trochowski,Offensives Mittelfeld,Hamburger SV,Faryd Mondragón,3:1,87',Hamburger SV,1.FC Köln,3:1 ,2009/2010,1
+5,Simon Rolfes,Defensives Mittelfeld,Bayer 04 Leverkusen,Diego Benaglio,0:2,50',VfL Wolfsburg,Bayer 04 Leverkusen,2:3 ,2009/2010,1
+5,Andreas Ivanschitz,Offensives Mittelfeld,1.FSV Mainz 05,Jaroslav Drobny,1:1,79',1.FSV Mainz 05,Hertha BSC,2:1 ,2009/2010,1
+5,Grafite,Mittelstürmer,VfL Wolfsburg,René Adler,2:3,80',VfL Wolfsburg,Bayer 04 Leverkusen,2:3 ,2009/2010,1
+7,Carlos Eduardo,Offensives Mittelfeld,TSG 1899 Hoffenheim,Timo Ochs,5:1,62',TSG 1899 Hoffenheim,Hertha BSC,5:1 ,2009/2010,1
+8,Simon Rolfes,Defensives Mittelfeld,Bayer 04 Leverkusen,Raphael Schäfer,2:0,28',Bayer 04 Leverkusen,1.FC Nürnberg,4:0 ,2009/2010,1
+8,Jefferson Farfán,Rechtsaußen,FC Schalke 04,Oka Nikolov,2:0,90',FC Schalke 04,Eintracht Frankfurt,2:0 ,2009/2010,1
+1,Diego,Offensives Mittelfeld,SV Werder Bremen,Jan Lastuvka,0:1,39',VfL Bochum,SV Werder Bremen,2:2 ,2007/2008,1
+1,Mihai Tararache,Defensives Mittelfeld,MSV Duisburg,Roman Weidenfeller,0:2,62',Borussia Dortmund,MSV Duisburg,1:3 ,2007/2008,1
+1,Pável Pardo,Defensives Mittelfeld,VfB Stuttgart,Manuel Neuer,2:1,67',VfB Stuttgart,FC Schalke 04,2:2 ,2007/2008,1
+2,Franck Ribéry,Linksaußen,FC Bayern München,Tim Wiese,0:1,31',SV Werder Bremen,FC Bayern München,0:4 ,2007/2008,1
+2,Sofian Chahed,Rechter Verteidiger,Hertha BSC,Raphael Schäfer,1:1,51',Hertha BSC,VfB Stuttgart,3:1 ,2007/2008,1
+2,Rafael van der Vaart,Offensives Mittelfeld,Hamburger SV,René Adler,1:0,64',Hamburger SV,Bayer 04 Leverkusen,1:0 ,2007/2008,1
+3,Rafael van der Vaart,Offensives Mittelfeld,Hamburger SV,Jan Lastuvka,2:1,86',VfL Bochum,Hamburger SV,2:1 ,2007/2008,1
+4,Dennis Sörensen,Mittelstürmer,FC Energie Cottbus,Jaromir Blazek,1:0,15',FC Energie Cottbus,1.FC Nürnberg,1:1 ,2007/2008,1
+4,Marcel Maltritz,Innenverteidiger,VfL Bochum,Robert Enke,2:2,66',Hannover 96,VfL Bochum,3:2 ,2007/2008,1
+5,Rafael van der Vaart,Offensives Mittelfeld,Hamburger SV,Markus Pröll,1:1,82',Eintracht Frankfurt,Hamburger SV,2:1 ,2007/2008,1
+1,Oliver Neuville,Mittelstürmer,Borussia Mönchengladbach,Tomislav Piplica,2:0,60',Borussia Mönchengladbach,FC Energie Cottbus,2:0 ,2006/2007,1
+1,Mimoun Azaouagh,Offensives Mittelfeld,1.FSV Mainz 05,Peter Skov-Jensen,2:0,72',1.FSV Mainz 05,VfL Bochum,2:1 ,2006/2007,1
+2,Paul Freier,Rechtes Mittelfeld,Bayer 04 Leverkusen,Tim Wiese,0:1,15',SV Werder Bremen,Bayer 04 Leverkusen,2:1 ,2006/2007,1
+2,Vlad Munteanu,Linkes Mittelfeld,FC Energie Cottbus,Sascha Kirschstein,1:1,56',FC Energie Cottbus,Hamburger SV,2:2 ,2006/2007,1
+2,Abdelaziz Ahanfouf,Mittelstürmer,Arminia Bielefeld,Timo Hildebrand,1:1,65',Arminia Bielefeld,VfB Stuttgart,2:3 ,2006/2007,1
+4,Laurentiu Reghecampf,Rechtes Mittelfeld,Alemannia Aachen,Kasey Keller,1:0,7',Alemannia Aachen,Borussia Mönchengladbach,4:2 ,2006/2007,1
+7,Jörg Böhme,Linkes Mittelfeld,Arminia Bielefeld,Raphael Schäfer,0:1,26',1.FC Nürnberg,Arminia Bielefeld,1:1 ,2006/2007,1
+7,Vlad Munteanu,Linkes Mittelfeld,FC Energie Cottbus,Roman Weidenfeller,2:3,89',FC Energie Cottbus,Borussia Dortmund,2:3 ,2006/2007,1
+8,Giannis Amanatidis,Mittelstürmer,Eintracht Frankfurt,Raphael Schäfer,1:0,4',Eintracht Frankfurt,1.FC Nürnberg,2:2 ,2006/2007,1
+9,Jaouhar Mnari,Defensives Mittelfeld,1.FC Nürnberg,Roman Weidenfeller,1:0,59',1.FC Nürnberg,Borussia Dortmund,1:1 ,2006/2007,1
+1,Lukas Podolski,Hängende Spitze,FC Bayern München,Frank Rost,2:0,16',FC Bayern München,Hamburger SV,2:2 ,2008/2009,1
+1,Piotr Trochowski,Offensives Mittelfeld,Hamburger SV,Michael Rensing,2:2,56',FC Bayern München,Hamburger SV,2:2 ,2008/2009,1
+3,Grafite,Mittelstürmer,VfL Wolfsburg,Oka Nikolov,1:1,27',VfL Wolfsburg,Eintracht Frankfurt,2:2 ,2008/2009,1
+3,Pável Pardo,Defensives Mittelfeld,VfB Stuttgart,Robert Enke,2:0,40',VfB Stuttgart,Hannover 96,2:0 ,2008/2009,1
+3,Bastian Schweinsteiger,Zentrales Mittelfeld,FC Bayern München,Jaroslav Drobny,3:0,56',FC Bayern München,Hertha BSC,4:1 ,2008/2009,1
+3,Sejad Salihovic,Zentrales Mittelfeld,TSG 1899 Hoffenheim,Benedikt Fernandez,3:2,58',Bayer 04 Leverkusen,TSG 1899 Hoffenheim,5:2 ,2008/2009,1
+3,Miroslav Klose,Mittelstürmer,FC Bayern München,Jaroslav Drobny,4:0,70',FC Bayern München,Hertha BSC,4:1 ,2008/2009,1
+4,Jefferson Farfán,Rechtsaußen,FC Schalke 04,Roman Weidenfeller,0:1,20',Borussia Dortmund,FC Schalke 04,3:3 ,2008/2009,1
+4,Mikael Forssell,Mittelstürmer,Hannover 96,Christofer Heimeroth,5:1,86',Hannover 96,Borussia Mönchengladbach,5:1 ,2008/2009,1
+4,Alex Frei,Mittelstürmer,Borussia Dortmund,Ralf Fährmann,3:3,89',Borussia Dortmund,FC Schalke 04,3:3 ,2008/2009,1
+1,Sergej Barbarez,Hängende Spitze,Hamburger SV,Raphael Schäfer,2:0,45',Hamburger SV,1.FC Nürnberg,3:0 ,2005/2006,1
+1,Marcelinho Paraíba,Offensives Mittelfeld,Hertha BSC,Robert Enke,0:1,49',Hannover 96,Hertha BSC,2:2 ,2005/2006,1
+1,Björn Schlicke,Innenverteidiger,1.FC Köln,Dimo Wache,1:0,87',1.FC Köln,1.FSV Mainz 05,1:0 ,2005/2006,1
+2,Dimitar Berbatov,Mittelstürmer,Bayer 04 Leverkusen,Oliver Kahn,1:2,32',Bayer 04 Leverkusen,FC Bayern München,2:5 ,2005/2006,1
+2,Sergej Barbarez,Hängende Spitze,Hamburger SV,Mathias Hain,0:1,79',Arminia Bielefeld,Hamburger SV,0:2 ,2005/2006,1
+3,Nebojsa Krupnikovic,Offensives Mittelfeld,Arminia Bielefeld,Dimo Wache,1:0,23',Arminia Bielefeld,1.FSV Mainz 05,2:0 ,2005/2006,1
+3,Nebojsa Krupnikovic,Offensives Mittelfeld,Arminia Bielefeld,Dimo Wache,2:0,39',Arminia Bielefeld,1.FSV Mainz 05,2:0 ,2005/2006,1
+3,Ervin Skela,Offensives Mittelfeld,1.FC Kaiserslautern,Stefan Wessels,2:3,90',1.FC Köln,1.FC Kaiserslautern,2:3 ,2005/2006,1
+4,Lars Ricken,Offensives Mittelfeld,Borussia Dortmund,Stefan Wessels,1:0,25',Borussia Dortmund,1.FC Köln,2:1 ,2005/2006,1
+5,Oliver Neuville,Mittelstürmer,Borussia Mönchengladbach,Stefan Wessels,2:1,80',1.FC Köln,Borussia Mönchengladbach,2:1 ,2005/2006,1
+1,Jörg Albertz,Linkes Mittelfeld,Hamburger SV,Jörg Sievers,1:1,82',Hamburger SV,Hannover 96,2:1 ,2002/2003,1
+2,Jörg Böhme,Linkes Mittelfeld,FC Schalke 04,Georg Koch,1:1,48',1.FC Kaiserslautern,FC Schalke 04,1:3 ,2002/2003,1
+3,Sasa Ciric,Mittelstürmer,1.FC Nürnberg,Jörg Sievers,1:0,16',1.FC Nürnberg,Hannover 96,3:1 ,2002/2003,1
+1,Ivica Banovic,Defensives Mittelfeld,1.FC Nürnberg,Tim Wiese,0:1,12',1.FC Kaiserslautern,1.FC Nürnberg,1:3 ,2004/2005,1
+3,Sean Dundee,Mittelstürmer,VfB Stuttgart,Jens Lehmann,2:1,77',Borussia Dortmund,VfB Stuttgart,3:1 ,2002/2003,1
+3,Babacar N'Diaye,Mittelstürmer,Hannover 96,Darius Kampa,3:1,82',1.FC Nürnberg,Hannover 96,3:1 ,2002/2003,1
+4,Markus Münch,Linker Verteidiger,Borussia Mönchengladbach,Gábor Király,0:1,9',Hertha BSC,Borussia Mönchengladbach,1:2 ,2002/2003,1
+4,Aílton,Mittelstürmer,SV Werder Bremen,Darius Kampa,1:0,30',SV Werder Bremen,1.FC Nürnberg,4:1 ,2002/2003,1
+1,Ferydoon Zandi,Offensives Mittelfeld,1.FC Kaiserslautern,Raphael Schäfer,1:1,58',1.FC Kaiserslautern,1.FC Nürnberg,1:3 ,2004/2005,1
+1,Peter Madsen,Mittelstürmer,VfL Bochum,Christian Fiedler,2:2,70',Hertha BSC,VfL Bochum,2:2 ,2004/2005,1
+5,Ferydoon Zandi,Offensives Mittelfeld,1.FC Kaiserslautern,Martin Pieckenhagen,1:0,17',1.FC Kaiserslautern,Hamburger SV,2:1 ,2004/2005,1
+5,Valérien Ismaël,Innenverteidiger,SV Werder Bremen,Robert Enke,1:0,20',SV Werder Bremen,Hannover 96,3:0 ,2004/2005,1
+4,Stefan Effenberg,Zentrales Mittelfeld,VfL Wolfsburg,Martin Pieckenhagen,1:0,51',VfL Wolfsburg,Hamburger SV,2:1 ,2002/2003,1
+4,Tomasz Hajto,Innenverteidiger,FC Schalke 04,Timo Hildebrand,1:1,87',VfB Stuttgart,FC Schalke 04,1:1 ,2002/2003,1
+5,Sasa Ciric,Mittelstürmer,1.FC Nürnberg,Oliver Kahn,1:1,36',1.FC Nürnberg,FC Bayern München,1:2 ,2002/2003,1
+5,Ewerthon,Mittelstürmer,Borussia Dortmund,Oliver Kahn,2:0,69',Borussia Dortmund,FC Bayern München,2:2 ,2004/2005,1
+5,Hans Jörg Butt,Torwart,Bayer 04 Leverkusen,Raphael Schäfer,1:2,76',Bayer 04 Leverkusen,1.FC Nürnberg,2:2 ,2004/2005,1
+6,Oliver Neuville,Mittelstürmer,Borussia Mönchengladbach,Mathias Schober,2:0,30',Borussia Mönchengladbach,FC Hansa Rostock,2:2 ,2004/2005,1
+6,Silvio Meißner,Defensives Mittelfeld,VfB Stuttgart,Hans Jörg Butt,0:0,90',VfB Stuttgart,Bayer 04 Leverkusen,3:0 ,2004/2005,1
+9,Marek Mintal,Offensives Mittelfeld,1.FC Nürnberg,Andreas Reinke,2:1,64',SV Werder Bremen,1.FC Nürnberg,4:1 ,2004/2005,1
+7,Salomon Kalou,Linksaußen,Hertha BSC,Thorsten Kirschbaum,1:1,22',Hertha BSC,VfB Stuttgart,3:2 ,2014/2015,1
+7,Jonas Hofmann,Rechtsaußen,1.FSV Mainz 05,Yann Sommer,1:1,31',Borussia Mönchengladbach,1.FSV Mainz 05,1:1 ,2014/2015,1
+8,Thomas Müller,Hängende Spitze,FC Bayern München,Raphael Wolf,3:0,43',FC Bayern München,SV Werder Bremen,6:0 ,2014/2015,1
+9,Paul Verhaegh,Rechter Verteidiger,FC Augsburg,Roman Bürki,1:0,11',FC Augsburg,SC Freiburg,2:0 ,2014/2015,1
+10,Rafael van der Vaart,Offensives Mittelfeld,Hamburger SV,Bernd Leno,1:0,26',Hamburger SV,Bayer 04 Leverkusen,1:0 ,2014/2015,1
+10,Vladimir Darida,Zentrales Mittelfeld,SC Freiburg,Timo Horn,0:1,51',1.FC Köln,SC Freiburg,0:1 ,2014/2015,1
+10,Arjen Robben,Rechtsaußen,FC Bayern München,Roman Weidenfeller,2:1,85',FC Bayern München,Borussia Dortmund,2:1 ,2014/2015,1
+12,Paul Verhaegh,Rechter Verteidiger,FC Augsburg,Sven Ulreich,0:1,72',VfB Stuttgart,FC Augsburg,0:1 ,2014/2015,1
+13,Matthias Lehmann,Defensives Mittelfeld,1.FC Köln,Bernd Leno,0:1,4',Bayer 04 Leverkusen,1.FC Köln,5:1 ,2014/2015,1
+13,Paul Verhaegh,Rechter Verteidiger,FC Augsburg,Jaroslav Drobny,3:1,70',FC Augsburg,Hamburger SV,3:1 ,2014/2015,1
+1,Levan Kobiashvili,Linkes Mittelfeld,SC Freiburg,Frank Rost,1:0,50',SC Freiburg,SV Werder Bremen,3:0 ,2001/2002,1
+1,Harry Koch,Innenverteidiger,1.FC Kaiserslautern,Simon Jentzsch,0:4,83',TSV 1860 München,1.FC Kaiserslautern,0:4 ,2001/2002,1
+1,Jörg Böhme,Linkes Mittelfeld,FC Schalke 04,Mathias Schober,3:1,89',FC Schalke 04,FC Hansa Rostock,3:1 ,2001/2002,1
+1,Vasile Miriuta,Offensives Mittelfeld,FC Energie Cottbus,Martin Pieckenhagen,1:0,90',FC Energie Cottbus,Hamburger SV,1:0 ,2001/2002,1
+2,Harry Koch,Innenverteidiger,1.FC Kaiserslautern,Jörg Stiel,2:2,89',1.FC Kaiserslautern,Borussia Mönchengladbach,3:2 ,2001/2002,1
+3,Sebastian Deisler,Rechtes Mittelfeld,Hertha BSC,Richard Golz,0:1,11',SC Freiburg,Hertha BSC,1:3 ,2001/2002,1
+4,Andreas Herzog,Offensives Mittelfeld,SV Werder Bremen,Simon Jentzsch,1:1,34',SV Werder Bremen,TSV 1860 München,1:3 ,2001/2002,1
+4,Jörg Böhme,Linkes Mittelfeld,FC Schalke 04,Hans Jörg Butt,2:0,40',FC Schalke 04,Bayer 04 Leverkusen,3:3 ,2001/2002,1
+5,Hans Jörg Butt,Torwart,Bayer 04 Leverkusen,Jörg Stiel,0:1,3',Borussia Mönchengladbach,Bayer 04 Leverkusen,0:1 ,2001/2002,1
+6,Jörg Albertz,Linkes Mittelfeld,Hamburger SV,Jörg Stiel,2:0,17',Hamburger SV,Borussia Mönchengladbach,3:3 ,2001/2002,1
+3,Stefan Kießling,Mittelstürmer,Bayer 04 Leverkusen,Marc-André ter Stegen,1:0,23',Bayer 04 Leverkusen,Borussia Mönchengladbach,4:2 ,2013/2014,1
+3,Vedad Ibisevic,Mittelstürmer,VfB Stuttgart,Marwin Hitz,2:1,42',FC Augsburg,VfB Stuttgart,2:1 ,2013/2014,1
+4,Diego,Offensives Mittelfeld,VfL Wolfsburg,Thomas Kraft,2:0,45',VfL Wolfsburg,Hertha BSC,2:0 ,2013/2014,1
+4,Jefferson Farfán,Rechtsaußen,FC Schalke 04,Bernd Leno,2:0,83',FC Schalke 04,Bayer 04 Leverkusen,2:0 ,2013/2014,1
+6,Paul Verhaegh,Rechter Verteidiger,FC Augsburg,Ron-Robert Zieler,0:1,51',Hannover 96,FC Augsburg,2:1 ,2013/2014,1
+6,Max Kruse,Hängende Spitze,Borussia Mönchengladbach,Marjan Petkovic,3:1,72',Borussia Mönchengladbach,Eintracht Braunschweig,4:1 ,2013/2014,1
+6,Szabolcs Huszti,Zentrales Mittelfeld,Hannover 96,Alexander Manninger,2:1,89',Hannover 96,FC Augsburg,2:1 ,2013/2014,1
+7,Marco Reus,Offensives Mittelfeld,Borussia Dortmund,Oliver Baumann,2:0,45',Borussia Dortmund,SC Freiburg,5:0 ,2013/2014,1
+7,Roberto Firmino,Mittelstürmer,TSG 1899 Hoffenheim,Timo Hildebrand,2:3,48',TSG 1899 Hoffenheim,FC Schalke 04,3:3 ,2013/2014,1
+8,Kevin-Prince Boateng,Offensives Mittelfeld,FC Schalke 04,Alexander Manninger,1:1,16',FC Schalke 04,FC Augsburg,4:1 ,2013/2014,1
+6,Lukas Hinterseer,Mittelstürmer,FC Ingolstadt 04,Oliver Baumann,1:2,90',FC Ingolstadt 04,TSG 1899 Hoffenheim,1:2 ,2016/2017,1
+7,Anthony Modeste,Mittelstürmer,1.FC Köln,Örjan Nyland,2:0,39',1.FC Köln,FC Ingolstadt 04,2:1 ,2016/2017,1
+7,Yunus Malli,Offensives Mittelfeld,1.FSV Mainz 05,Michael Esser,2:0,56',1.FSV Mainz 05,SV Darmstadt 98,2:1 ,2016/2017,1
+7,Andrej Kramaric,Mittelstürmer,TSG 1899 Hoffenheim,Alexander Schwolow,2:1,81',TSG 1899 Hoffenheim,SC Freiburg,2:1 ,2016/2017,1
+7,Jérôme Gondorf,Zentrales Mittelfeld,SV Darmstadt 98,Jonas Lössl,2:1,90',1.FSV Mainz 05,SV Darmstadt 98,2:1 ,2016/2017,1
+7,Lukas Hinterseer,Mittelstürmer,FC Ingolstadt 04,Timo Horn,2:1,90',1.FC Köln,FC Ingolstadt 04,2:1 ,2016/2017,1
+9,Vincenzo Grifo,Linksaußen,SC Freiburg,Felix Wiedwald,0:2,39',SV Werder Bremen,SC Freiburg,1:3 ,2016/2017,1
+9,Yunus Malli,Offensives Mittelfeld,1.FSV Mainz 05,Örjan Nyland,1:0,51',1.FSV Mainz 05,FC Ingolstadt 04,2:0 ,2016/2017,1
+10,Serge Gnabry,Rechtsaußen,SV Werder Bremen,Ralf Fährmann,2:1,42',FC Schalke 04,SV Werder Bremen,3:1 ,2016/2017,1
+10,Ricardo Rodríguez,Linker Verteidiger,VfL Wolfsburg,Alexander Schwolow,0:3,86',SC Freiburg,VfL Wolfsburg,0:3 ,2016/2017,1
+5,Niclas Füllkrug,Mittelstürmer,Hannover 96,Gregor Kobel,1:2,55',Hannover 96,TSG 1899 Hoffenheim,1:3 ,2018/2019,1
+5,Max Kruse,Hängende Spitze,SV Werder Bremen,Rune Jarstein,3:1,66',SV Werder Bremen,Hertha BSC,3:1 ,2018/2019,1
+5,Rouwen Hennings,Mittelstürmer,Fortuna Düsseldorf,Lukas Hradecky,1:2,90',Fortuna Düsseldorf,Bayer 04 Leverkusen,1:2 ,2018/2019,1
+6,Vedad Ibisevic,Mittelstürmer,Hertha BSC,Manuel Neuer,1:0,23',Hertha BSC,FC Bayern München,2:0 ,2018/2019,1
+6,Hanno Behrens,Zentrales Mittelfeld,1.FC Nürnberg,Michael Rensing,1:0,28',1.FC Nürnberg,Fortuna Düsseldorf,3:0 ,2018/2019,1
+6,Alfred Finnbogason,Mittelstürmer,FC Augsburg,Alexander Schwolow,3:1,68',FC Augsburg,SC Freiburg,4:1 ,2018/2019,1
+6,Andrej Kramaric,Mittelstürmer,TSG 1899 Hoffenheim,Péter Gulácsi,1:2,90',TSG 1899 Hoffenheim,RasenBallsport Leipzig,1:2 ,2018/2019,1
+8,Hanno Behrens,Zentrales Mittelfeld,1.FC Nürnberg,Oliver Baumann,1:0,18',1.FC Nürnberg,TSG 1899 Hoffenheim,1:3 ,2018/2019,1
+8,Sébastien Haller,Mittelstürmer,Eintracht Frankfurt,Michael Rensing,1:0,21',Eintracht Frankfurt,Fortuna Düsseldorf,7:1 ,2018/2019,1
+9,Nils Petersen,Mittelstürmer,SC Freiburg,Yann Sommer,1:0,1',SC Freiburg,Borussia Mönchengladbach,3:1 ,2018/2019,1
+8,Arturo Vidal,Zentrales Mittelfeld,Bayer 04 Leverkusen,Marwin Hitz,2:2,75',VfL Wolfsburg,Bayer 04 Leverkusen,2:3 ,2010/2011,1
+8,Klaas-Jan Huntelaar,Mittelstürmer,FC Schalke 04,Sven Ulreich,2:2,80',FC Schalke 04,VfB Stuttgart,2:2 ,2010/2011,1
+8,Sejad Salihovic,Zentrales Mittelfeld,TSG 1899 Hoffenheim,Logan Bailly,3:1,82',TSG 1899 Hoffenheim,Borussia Mönchengladbach,3:2 ,2010/2011,1
+10,Theofanis Gekas,Mittelstürmer,Eintracht Frankfurt,Thomas Kessler,1:1,42',FC St. Pauli,Eintracht Frankfurt,1:3 ,2010/2011,1
+10,Gylfi Sigurdsson,Offensives Mittelfeld,TSG 1899 Hoffenheim,Florian Fromlowitz,2:0,48',TSG 1899 Hoffenheim,Hannover 96,4:0 ,2010/2011,1
+9,Diego,Offensives Mittelfeld,VfL Wolfsburg,Fabian Giefer,1:4,78',Fortuna Düsseldorf,VfL Wolfsburg,1:4 ,2012/2013,1
+11,Sejad Salihovic,Zentrales Mittelfeld,TSG 1899 Hoffenheim,Jaroslav Drobny,0:1,6',Hamburger SV,TSG 1899 Hoffenheim,2:1 ,2010/2011,1
+11,Theofanis Gekas,Mittelstürmer,Eintracht Frankfurt,Diego Benaglio,3:0,55',Eintracht Frankfurt,VfL Wolfsburg,3:1 ,2010/2011,1
+11,Papiss Demba Cissé,Mittelstürmer,SC Freiburg,Christian Wetklo,1:0,64',SC Freiburg,1.FSV Mainz 05,1:0 ,2010/2011,1
+12,Christian Gentner,Zentrales Mittelfeld,VfB Stuttgart,Tobias Sippel,0:3,50',1.FC Kaiserslautern,VfB Stuttgart,3:3 ,2010/2011,1
+10,Roberto Firmino,Mittelstürmer,TSG 1899 Hoffenheim,Lars Unnerstall,2:1,67',TSG 1899 Hoffenheim,FC Schalke 04,3:2 ,2012/2013,1
+10,Daniel Caligiuri,Rechtsaußen,SC Freiburg,Marc-André ter Stegen,1:1,77',Borussia Mönchengladbach,SC Freiburg,1:1 ,2012/2013,1
+11,Bernd Nehrig,Defensives Mittelfeld,SpVgg Greuther Fürth,Marc-André ter Stegen,1:0,10',SpVgg Greuther Fürth,Borussia Mönchengladbach,2:4 ,2012/2013,1
+11,Vedad Ibisevic,Mittelstürmer,VfB Stuttgart,Ron-Robert Zieler,2:0,37',VfB Stuttgart,Hannover 96,2:4 ,2012/2013,1
+12,Philipp Lahm,Rechter Verteidiger,FC Bayern München,Raphael Schäfer,2:0,57',FC Bayern München,1.FC Nürnberg,3:0 ,2010/2011,1
+11,Jan Schlaudraff,Hängende Spitze,Hannover 96,Sven Ulreich,2:2,65',VfB Stuttgart,Hannover 96,2:4 ,2012/2013,1
+11,Mohammed Abdellaoue,Mittelstürmer,Hannover 96,Sven Ulreich,2:4,73',VfB Stuttgart,Hannover 96,2:4 ,2012/2013,1
+11,David Alaba,Innenverteidiger,FC Bayern München,Kevin Trapp,2:0,77',FC Bayern München,Eintracht Frankfurt,2:0 ,2012/2013,1
+11,Thorben Marx,Defensives Mittelfeld,Borussia Mönchengladbach,Max Grün,2:4,90',SpVgg Greuther Fürth,Borussia Mönchengladbach,2:4 ,2012/2013,1
+12,Jens Langeneke,Innenverteidiger,Fortuna Düsseldorf,Sebastian Mielitz,0:1,10',SV Werder Bremen,Fortuna Düsseldorf,2:1 ,2012/2013,1
+4,Niclas Füllkrug,Mittelstürmer,SV Werder Bremen,Florian Müller,1:1,25',SC Freiburg,SV Werder Bremen,1:1 ,2020/2021,1
+4,André Silva,Mittelstürmer,Eintracht Frankfurt,Timo Horn,0:1,45',1.FC Köln,Eintracht Frankfurt,1:1 ,2020/2021,1
+4,Jonas Hofmann,Rechtsaußen,Borussia Mönchengladbach,Koen Casteels,1:0,78',Borussia Mönchengladbach,VfL Wolfsburg,1:1 ,2020/2021,1
+5,Lucas Alario,Mittelstürmer,Bayer 04 Leverkusen,Rafal Gikiewicz,1:0,16',Bayer 04 Leverkusen,FC Augsburg,3:1 ,2020/2021,1
+5,Sebastian Andersson,Mittelstürmer,1.FC Köln,Gregor Kobel,1:1,23',VfB Stuttgart,1.FC Köln,1:1 ,2020/2021,1
+5,Jonas Hofmann,Rechtsaußen,Borussia Mönchengladbach,Robin Zentner,2:2,76',1.FSV Mainz 05,Borussia Mönchengladbach,2:3 ,2020/2021,1
+5,Marcel Sabitzer,Zentrales Mittelfeld,RasenBallsport Leipzig,Alexander Schwolow,2:1,77',RasenBallsport Leipzig,Hertha BSC,2:1 ,2020/2021,1
+6,Thomas Müller,Hängende Spitze,FC Bayern München,Timo Horn,0:1,13',1.FC Köln,FC Bayern München,1:2 ,2020/2021,1
+6,Nicolás González,Linksaußen,VfB Stuttgart,Frederik Rönnow,1:1,56',FC Schalke 04,VfB Stuttgart,1:1 ,2020/2021,1
+6,Max Kruse,Hängende Spitze,1.FC Union Berlin,Oliver Baumann,0:1,60',TSG 1899 Hoffenheim,1.FC Union Berlin,1:3 ,2020/2021,1
+1,Jan Aage Fjörtoft,Mittelstürmer,Eintracht Frankfurt,Jürgen Wittmann,2:0,47',Eintracht Frankfurt,SpVgg Unterhaching,3:0 ,1999/2000,1
+1,Janusz Góra,Libero,SSV Ulm 1846,Richard Golz,1:1,48',SSV Ulm 1846,SC Freiburg,1:1 ,1999/2000,1
+2,Timo Lange,Rechter Verteidiger,FC Hansa Rostock,Andreas Reinke,1:0,5',FC Hansa Rostock,1.FC Kaiserslautern,4:2 ,1999/2000,1
+2,Thomas Häßler,Offensives Mittelfeld,TSV 1860 München,Dr. Philipp Laux,2:1,23',TSV 1860 München,SSV Ulm 1846,4:1 ,1999/2000,1
+2,Adel Sellimi,Mittelstürmer,SC Freiburg,Oka Nikolov,1:0,39',SC Freiburg,Eintracht Frankfurt,2:3 ,1999/2000,1
+6,Enrico Kern,Mittelstürmer,FC Hansa Rostock,Tom Starke,2:0,53',FC Hansa Rostock,MSV Duisburg,2:0 ,2007/2008,1
+2,Hans Jörg Butt,Torwart,Hamburger SV,Franz Wohlfahrt,2:0,55',Hamburger SV,VfB Stuttgart,3:0 ,1999/2000,1
+2,Altin Rraklli,Mittelstürmer,SpVgg Unterhaching,Gintaras Stauce,1:0,68',SpVgg Unterhaching,MSV Duisburg,2:0 ,1999/2000,1
+2,Hans Jörg Butt,Torwart,Hamburger SV,Franz Wohlfahrt,3:0,79',Hamburger SV,VfB Stuttgart,3:0 ,1999/2000,1
+2,Andreas Möller,Offensives Mittelfeld,Borussia Dortmund,Claus Reitmaier,2:1,82',Borussia Dortmund,VfL Wolfsburg,2:1 ,1999/2000,1
+6,Rafinha,Rechter Verteidiger,FC Schalke 04,Mathias Hain,3:0,65',FC Schalke 04,Arminia Bielefeld,3:0 ,2007/2008,1
+6,Theofanis Gekas,Mittelstürmer,Bayer 04 Leverkusen,Robert Enke,0:3,74',Hannover 96,Bayer 04 Leverkusen,0:3 ,2007/2008,1
+7,Szabolcs Huszti,Zentrales Mittelfeld,Hannover 96,Mathias Hain,0:1,54',Arminia Bielefeld,Hannover 96,0:2 ,2007/2008,1
+5,Adel Sellimi,Mittelstürmer,SC Freiburg,Martin Pieckenhagen,2:0,27',SC Freiburg,FC Hansa Rostock,5:0 ,1999/2000,1
+7,Marek Mintal,Offensives Mittelfeld,1.FC Nürnberg,René Adler,1:1,73',1.FC Nürnberg,Bayer 04 Leverkusen,1:2 ,2007/2008,1
+8,Rafinha,Rechter Verteidiger,FC Schalke 04,Jaroslav Drobny,1:0,44',FC Schalke 04,Hertha BSC,1:0 ,2007/2008,1
+8,Grafite,Mittelstürmer,VfL Wolfsburg,Frank Rost,1:1,57',Hamburger SV,VfL Wolfsburg,2:2 ,2007/2008,1
+2,Soumaila Coulibaly,Offensives Mittelfeld,SC Freiburg,Mathias Schober,1:2,56',SC Freiburg,FC Hansa Rostock,2:2 ,2003/2004,1
+8,Giannis Amanatidis,Mittelstürmer,Eintracht Frankfurt,Tomislav Piplica,2:2,79',FC Energie Cottbus,Eintracht Frankfurt,2:2 ,2007/2008,1
+9,Szabolcs Huszti,Zentrales Mittelfeld,Hannover 96,Raphael Schäfer,0:1,7',VfB Stuttgart,Hannover 96,0:2 ,2007/2008,1
+10,Zvjezdan Misimovic,Offensives Mittelfeld,1.FC Nürnberg,Markus Pröll,3:1,54',1.FC Nürnberg,Eintracht Frankfurt,5:1 ,2007/2008,1
+2,Aílton,Mittelstürmer,SV Werder Bremen,Jörg Stiel,1:0,64',SV Werder Bremen,Borussia Mönchengladbach,1:1 ,2003/2004,1
+3,Márcio Amoroso,Mittelstürmer,Borussia Dortmund,Michael Hofmann,2:0,56',Borussia Dortmund,TSV 1860 München,3:1 ,2003/2004,1
+3,Martin Max,Mittelstürmer,FC Hansa Rostock,Oka Nikolov,3:0,66',FC Hansa Rostock,Eintracht Frankfurt,3:0 ,2003/2004,1
+6,Levan Tskitishvili,Linkes Mittelfeld,SC Freiburg,Frank Rost,2:1,38',SC Freiburg,FC Schalke 04,2:1 ,2003/2004,1
+6,Aílton,Mittelstürmer,SV Werder Bremen,Michael Hofmann,1:0,48',SV Werder Bremen,TSV 1860 München,2:1 ,2003/2004,1
+7,Arie van Lent,Mittelstürmer,Borussia Mönchengladbach,Rein van Duijnhoven,1:0,5',Borussia Mönchengladbach,VfL Bochum,2:2 ,2003/2004,1
+7,Fernando Meira,Innenverteidiger,VfB Stuttgart,Michael Hofmann,0:2,17',TSV 1860 München,VfB Stuttgart,0:3 ,2003/2004,1
+9,Miroslav Klose,Mittelstürmer,1.FC Kaiserslautern,Martin Pieckenhagen,2:0,62',1.FC Kaiserslautern,Hamburger SV,4:0 ,2003/2004,1
+9,Benjamin Lauth,Mittelstürmer,TSV 1860 München,Oka Nikolov,1:0,90',TSV 1860 München,Eintracht Frankfurt,1:0 ,2003/2004,1
+11,Nuri Sahin,Defensives Mittelfeld,Borussia Dortmund,Jaroslav Drobny,1:0,50',Borussia Dortmund,Hertha BSC,2:0 ,2009/2010,1
+12,Jiri Stajner,Hängende Spitze,Hannover 96,Frank Rost,2:2,88',Hannover 96,Hamburger SV,2:2 ,2009/2010,1
+13,Naldo,Innenverteidiger,SV Werder Bremen,Simon Pouplin,0:5,73',SC Freiburg,SV Werder Bremen,0:6 ,2009/2010,1
+13,Grafite,Mittelstürmer,VfL Wolfsburg,Raphael Schäfer,2:2,79',VfL Wolfsburg,1.FC Nürnberg,2:3 ,2009/2010,1
+13,Pirmin Schwegler,Defensives Mittelfeld,Eintracht Frankfurt,Logan Bailly,1:2,86',Eintracht Frankfurt,Borussia Mönchengladbach,1:2 ,2009/2010,1
+13,Vedad Ibisevic,Mittelstürmer,TSG 1899 Hoffenheim,Faryd Mondragón,0:4,90',1.FC Köln,TSG 1899 Hoffenheim,0:4 ,2009/2010,1
+14,Nuri Sahin,Defensives Mittelfeld,Borussia Dortmund,Timo Hildebrand,1:2,79',TSG 1899 Hoffenheim,Borussia Dortmund,1:2 ,2009/2010,1
+14,Stefan Kießling,Mittelstürmer,Bayer 04 Leverkusen,Jens Lehmann,4:0,87',Bayer 04 Leverkusen,VfB Stuttgart,4:0 ,2009/2010,1
+15,Ivica Banovic,Defensives Mittelfeld,SC Freiburg,Diego Benaglio,1:2,51',VfL Wolfsburg,SC Freiburg,2:2 ,2009/2010,1
+15,Rafinha,Rechter Verteidiger,FC Schalke 04,Jaroslav Drobny,2:0,90',FC Schalke 04,Hertha BSC,2:0 ,2009/2010,1
+6,Vedad Ibisevic,Mittelstürmer,TSG 1899 Hoffenheim,Tim Wiese,4:3,62',SV Werder Bremen,TSG 1899 Hoffenheim,5:4 ,2008/2009,1
+8,Patrick Helmes,Mittelstürmer,Bayer 04 Leverkusen,Oka Nikolov,0:1,6',Eintracht Frankfurt,Bayer 04 Leverkusen,0:2 ,2008/2009,1
+8,Alex Frei,Mittelstürmer,Borussia Dortmund,Tim Wiese,0:1,59',SV Werder Bremen,Borussia Dortmund,3:3 ,2008/2009,1
+9,Grafite,Mittelstürmer,VfL Wolfsburg,Michael Rensing,0:1,31',FC Bayern München,VfL Wolfsburg,4:2 ,2008/2009,1
+9,Cícero,Zentrales Mittelfeld,Hertha BSC,Roman Weidenfeller,0:1,31',Borussia Dortmund,Hertha BSC,1:1 ,2008/2009,1
+9,Theofanis Gekas,Mittelstürmer,Bayer 04 Leverkusen,Faryd Mondragón,2:0,84',Bayer 04 Leverkusen,1.FC Köln,2:0 ,2008/2009,1
+10,Piotr Trochowski,Offensives Mittelfeld,Hamburger SV,Jens Lehmann,1:0,17',Hamburger SV,VfB Stuttgart,2:0 ,2008/2009,1
+10,Grafite,Mittelstürmer,VfL Wolfsburg,Frederic Löhe,1:0,40',VfL Wolfsburg,Borussia Mönchengladbach,3:0 ,2008/2009,1
+10,Vedad Ibisevic,Mittelstürmer,TSG 1899 Hoffenheim,Daniel Fernandes,1:2,70',VfL Bochum,TSG 1899 Hoffenheim,1:3 ,2008/2009,1
+10,Zvjezdan Misimovic,Offensives Mittelfeld,VfL Wolfsburg,Frederic Löhe,3:0,75',VfL Wolfsburg,Borussia Mönchengladbach,3:0 ,2008/2009,1
+6,Aílton,Mittelstürmer,SV Werder Bremen,Frank Juric,1:1,25',SV Werder Bremen,Bayer 04 Leverkusen,3:2 ,2002/2003,1
+7,Erhan Albayrak,Linkes Mittelfeld,Arminia Bielefeld,Frank Rost,1:0,7',Arminia Bielefeld,FC Schalke 04,2:1 ,2002/2003,1
+7,Gustavo Varela,Rechtes Mittelfeld,FC Schalke 04,Mathias Hain,1:1,19',Arminia Bielefeld,FC Schalke 04,2:1 ,2002/2003,1
+8,Torsten Frings,Defensives Mittelfeld,Borussia Dortmund,Jörg Sievers,0:1,42',Hannover 96,Borussia Dortmund,0:3 ,2002/2003,1
+11,Sasa Ciric,Mittelstürmer,1.FC Nürnberg,Jörg Stiel,2:0,22',1.FC Nürnberg,Borussia Mönchengladbach,2:1 ,2002/2003,1
+12,Ionel Ganea,Mittelstürmer,VfB Stuttgart,Rein van Duijnhoven,2:2,86',VfB Stuttgart,VfL Bochum,3:2 ,2002/2003,1
+12,Bernd Schneider,Rechtes Mittelfeld,Bayer 04 Leverkusen,Frank Rost,0:1,90',FC Schalke 04,Bayer 04 Leverkusen,0:1 ,2002/2003,1
+13,Harry Koch,Innenverteidiger,1.FC Kaiserslautern,Pascal Borel,1:2,18',SV Werder Bremen,1.FC Kaiserslautern,5:3 ,2002/2003,1
+13,Sasa Ciric,Mittelstürmer,1.FC Nürnberg,Martin Pieckenhagen,1:1,40',1.FC Nürnberg,Hamburger SV,1:3 ,2002/2003,1
+15,Jörg Böhme,Linkes Mittelfeld,FC Schalke 04,Jörg Sievers,0:1,15',Hannover 96,FC Schalke 04,0:2 ,2002/2003,1
+1,Mehmet Scholl,Offensives Mittelfeld,FC Bayern München,Gábor Király,1:0,9',FC Bayern München,Hertha BSC,4:1 ,2000/2001,1
+1,Ulf Kirsten,Mittelstürmer,Bayer 04 Leverkusen,Claus Reitmaier,2:0,24',Bayer 04 Leverkusen,VfL Wolfsburg,2:0 ,2000/2001,1
+1,Horst Heldt,Offensives Mittelfeld,Eintracht Frankfurt,Jürgen Wittmann,3:0,79',Eintracht Frankfurt,SpVgg Unterhaching,3:0 ,2000/2001,1
+2,Levan Kobiashvili,Linkes Mittelfeld,SC Freiburg,Jürgen Wittmann,1:1,55',SpVgg Unterhaching,SC Freiburg,1:1 ,2000/2001,1
+2,Vasile Miriuta,Offensives Mittelfeld,FC Energie Cottbus,Jens Lehmann,1:3,68',FC Energie Cottbus,Borussia Dortmund,1:4 ,2000/2001,1
+3,Mehmet Scholl,Offensives Mittelfeld,FC Bayern München,Claus Reitmaier,1:0,19',FC Bayern München,VfL Wolfsburg,3:1 ,2000/2001,1
+3,Horst Heldt,Offensives Mittelfeld,Eintracht Frankfurt,Martin Pieckenhagen,2:0,65',Eintracht Frankfurt,FC Hansa Rostock,4:0 ,2000/2001,1
+3,Horst Heldt,Offensives Mittelfeld,Eintracht Frankfurt,Martin Pieckenhagen,3:0,79',Eintracht Frankfurt,FC Hansa Rostock,4:0 ,2000/2001,1
+4,Charles Akonnor,Zentrales Mittelfeld,VfL Wolfsburg,Gábor Király,1:0,33',VfL Wolfsburg,Hertha BSC,2:1 ,2000/2001,1
+5,Youri Djorkaeff,Offensives Mittelfeld,1.FC Kaiserslautern,Markus Pröll,1:0,10',1.FC Kaiserslautern,1.FC Köln,3:1 ,2000/2001,1
+8,Max Kruse,Hängende Spitze,Borussia Mönchengladbach,Roman Weidenfeller,1:0,82',Borussia Mönchengladbach,Borussia Dortmund,2:0 ,2013/2014,1
+9,Marco Reus,Offensives Mittelfeld,Borussia Dortmund,Ron-Robert Zieler,1:0,4',Borussia Dortmund,Hannover 96,1:0 ,2013/2014,1
+9,Thomas Müller,Hängende Spitze,FC Bayern München,Christian Wetklo,4:1,82',FC Bayern München,1.FSV Mainz 05,4:1 ,2013/2014,1
+10,Vedad Ibisevic,Mittelstürmer,VfB Stuttgart,Raphael Schäfer,1:0,3',VfB Stuttgart,1.FC Nürnberg,1:1 ,2013/2014,1
+10,Sejad Salihovic,Zentrales Mittelfeld,TSG 1899 Hoffenheim,Ron-Robert Zieler,0:1,10',Hannover 96,TSG 1899 Hoffenheim,1:4 ,2013/2014,1
+11,Szabolcs Huszti,Zentrales Mittelfeld,Hannover 96,Sebastian Mielitz,0:1,20',SV Werder Bremen,Hannover 96,3:2 ,2013/2014,1
+11,Aaron Hunt,Offensives Mittelfeld,SV Werder Bremen,Ron-Robert Zieler,1:1,25',SV Werder Bremen,Hannover 96,3:2 ,2013/2014,1
+11,Eric Maxim Choupo-Moting,Mittelstürmer,1.FSV Mainz 05,Marwin Hitz,2:1,59',FC Augsburg,1.FSV Mainz 05,2:1 ,2013/2014,1
+12,Adrián Ramos,Mittelstürmer,Hertha BSC,Koen Casteels,0:2,53',TSG 1899 Hoffenheim,Hertha BSC,2:3 ,2013/2014,1
+12,Sejad Salihovic,Zentrales Mittelfeld,TSG 1899 Hoffenheim,Thomas Kraft,1:2,70',TSG 1899 Hoffenheim,Hertha BSC,2:3 ,2013/2014,1
+1,Bernhard Winkler,Mittelstürmer,TSV 1860 München,Andreas Reinke,1:0,12',TSV 1860 München,1.FC Kaiserslautern,1:2 ,1998/1999,1
+1,Marco Weißhaupt,Offensives Mittelfeld,SC Freiburg,Thomas Ernst,0:1,47',VfL Bochum,SC Freiburg,1:2 ,1998/1999,1
+2,Lodewijk Roembiak,Defensives Mittelfeld,SV Werder Bremen,Andreas Hilfiker,1:1,22',SV Werder Bremen,1.FC Nürnberg,2:3 ,1998/1999,1
+2,Marijan Kovacevic,Innenverteidiger,VfL Wolfsburg,Martin Pieckenhagen,1:1,30',FC Hansa Rostock,VfL Wolfsburg,3:3 ,1998/1999,1
+2,Bernhard Winkler,Mittelstürmer,TSV 1860 München,Oka Nikolov,2:1,75',Eintracht Frankfurt,TSV 1860 München,2:3 ,1998/1999,1
+2,Stefan Effenberg,Zentrales Mittelfeld,FC Bayern München,Thomas Gill,3:1,86',FC Bayern München,MSV Duisburg,3:1 ,1998/1999,1
+3,Stefan Effenberg,Zentrales Mittelfeld,FC Bayern München,Martin Pieckenhagen,1:0,50',FC Bayern München,FC Hansa Rostock,6:1 ,1998/1999,1
+3,Kjetil Rekdal,Defensives Mittelfeld,Hertha BSC,Mathias Schober,1:0,65',Hertha BSC,FC Schalke 04,2:0 ,1998/1999,1
+3,Krasimir Balakov,Offensives Mittelfeld,VfB Stuttgart,Andreas Reinke,4:0,86',VfB Stuttgart,1.FC Kaiserslautern,4:0 ,1998/1999,1
+4,Hans Jörg Butt,Torwart,Hamburger SV,Claus Reitmaier,1:0,39',Hamburger SV,VfL Wolfsburg,1:1 ,1998/1999,1
+6,Robert Lewandowski,Mittelstürmer,FC Bayern München,Koen Casteels,1:0,33',FC Bayern München,VfL Wolfsburg,2:2 ,2017/2018,1
+6,Pablo de Blasis,Linksaußen,1.FSV Mainz 05,Rune Jarstein,1:0,54',1.FSV Mainz 05,Hertha BSC,1:0 ,2017/2018,1
+7,Thorgan Hazard,Linksaußen,Borussia Mönchengladbach,Philipp Tschauner,2:1,90',Borussia Mönchengladbach,Hannover 96,2:1 ,2017/2018,1
+8,Jean-Kévin Augustin,Mittelstürmer,RasenBallsport Leipzig,Roman Bürki,1:3,49',Borussia Dortmund,RasenBallsport Leipzig,2:3 ,2017/2018,1
+8,Leon Goretzka,Zentrales Mittelfeld,FC Schalke 04,Rune Jarstein,0:1,54',Hertha BSC,FC Schalke 04,0:2 ,2017/2018,1
+8,Pierre-Emerick Aubameyang,Mittelstürmer,Borussia Dortmund,Péter Gulácsi,2:3,64',Borussia Dortmund,RasenBallsport Leipzig,2:3 ,2017/2018,1
+8,Sejad Salihovic,Zentrales Mittelfeld,Hamburger SV,René Adler,3:2,90',1.FSV Mainz 05,Hamburger SV,3:2 ,2017/2018,1
+9,Janik Haberer,Zentrales Mittelfeld,SC Freiburg,Rune Jarstein,1:0,52',SC Freiburg,Hertha BSC,1:1 ,2017/2018,1
+9,Sébastien Haller,Mittelstürmer,Eintracht Frankfurt,Roman Bürki,1:2,64',Eintracht Frankfurt,Borussia Dortmund,2:2 ,2017/2018,1
+9,Kerem Demirbay,Zentrales Mittelfeld,TSG 1899 Hoffenheim,Koen Casteels,0:1,73',VfL Wolfsburg,TSG 1899 Hoffenheim,1:1 ,2017/2018,1
+13,Arturo Vidal,Zentrales Mittelfeld,Bayer 04 Leverkusen,Hans Jörg Butt,1:1,45',Bayer 04 Leverkusen,FC Bayern München,1:1 ,2010/2011,1
+13,Lukas Podolski,Hängende Spitze,1.FC Köln,Sven Ulreich,0:1,82',VfB Stuttgart,1.FC Köln,0:1 ,2010/2011,1
+14,Arturo Vidal,Zentrales Mittelfeld,Bayer 04 Leverkusen,Daniel Haas,0:2,11',TSG 1899 Hoffenheim,Bayer 04 Leverkusen,2:2 ,2010/2011,1
+14,Ivo Ilicevic,Linksaußen,1.FC Kaiserslautern,Manuel Neuer,4:0,76',1.FC Kaiserslautern,FC Schalke 04,5:0 ,2010/2011,1
+14,Gylfi Sigurdsson,Offensives Mittelfeld,TSG 1899 Hoffenheim,René Adler,2:2,90',TSG 1899 Hoffenheim,Bayer 04 Leverkusen,2:2 ,2010/2011,1
+15,André Schürrle,Linksaußen,1.FSV Mainz 05,Oka Nikolov,1:1,42',Eintracht Frankfurt,1.FSV Mainz 05,2:1 ,2010/2011,1
+15,Theofanis Gekas,Mittelstürmer,Eintracht Frankfurt,Christian Wetklo,2:1,84',Eintracht Frankfurt,1.FSV Mainz 05,2:1 ,2010/2011,1
+16,Philipp Lahm,Rechter Verteidiger,FC Bayern München,Thomas Kessler,2:0,71',FC Bayern München,FC St. Pauli,3:0 ,2010/2011,1
+17,Arturo Vidal,Zentrales Mittelfeld,Bayer 04 Leverkusen,Oliver Baumann,1:0,16',Bayer 04 Leverkusen,SC Freiburg,2:2 ,2010/2011,1
+17,Matthias Lehmann,Defensives Mittelfeld,FC St. Pauli,Heinz Müller,1:2,33',FC St. Pauli,1.FSV Mainz 05,2:4 ,2010/2011,1
+1,Michael Zeyer,Zentrales Mittelfeld,MSV Duisburg,Andreas Menger,1:2,69',1.FC Köln,MSV Duisburg,3:2 ,1997/1998,1
+3,Thomas Häßler,Offensives Mittelfeld,Karlsruher SC,Zdenko Miletic,1:0,26',Karlsruher SC,Arminia Bielefeld,3:1 ,1997/1998,1
+3,Andreas Herzog,Offensives Mittelfeld,SV Werder Bremen,Bernd Meier,1:1,26',SV Werder Bremen,TSV 1860 München,3:3 ,1997/1998,1
+5,Michael Zeyer,Zentrales Mittelfeld,MSV Duisburg,Claus Reitmaier,0:0,67',Karlsruher SC,MSV Duisburg,1:2 ,1997/1998,1
+5,Thomas Stickroth,Rechter Verteidiger,VfL Bochum,Andreas Reinke,1:1,68',VfL Bochum,1.FC Kaiserslautern,1:3 ,1997/1998,1
+6,Michael Zeyer,Zentrales Mittelfeld,MSV Duisburg,Oliver Reck,2:0,10',MSV Duisburg,SV Werder Bremen,2:1 ,1997/1998,1
+6,Bernhard Winkler,Mittelstürmer,TSV 1860 München,Dirk Heinen,1:2,71',Bayer 04 Leverkusen,TSV 1860 München,2:2 ,1997/1998,1
+7,Michael Zeyer,Zentrales Mittelfeld,MSV Duisburg,Bernd Meier,0:1,4',TSV 1860 München,MSV Duisburg,0:1 ,1997/1998,1
+7,Stefan Kuntz,Mittelstürmer,Arminia Bielefeld,Dirk Heinen,1:0,12',Arminia Bielefeld,Bayer 04 Leverkusen,2:1 ,1997/1998,1
+7,Martin Wagner,Linkes Mittelfeld,1.FC Kaiserslautern,Claus Reitmaier,0:2,23',Karlsruher SC,1.FC Kaiserslautern,2:4 ,1997/1998,1
+6,Michael Schjönberg,Innenverteidiger,1.FC Kaiserslautern,Adam Matysek,0:1,27',Bayer 04 Leverkusen,1.FC Kaiserslautern,3:1 ,1999/2000,1
+6,Krasimir Balakov,Offensives Mittelfeld,VfB Stuttgart,Oliver Kahn,0:1,75',FC Bayern München,VfB Stuttgart,0:1 ,1999/2000,1
+6,Hans van de Haar,Mittelstürmer,SSV Ulm 1846,Frank Rost,1:2,75',SV Werder Bremen,SSV Ulm 1846,2:2 ,1999/2000,1
+7,Martin Max,Mittelstürmer,TSV 1860 München,Georg Koch,3:0,68',TSV 1860 München,Arminia Bielefeld,5:0 ,1999/2000,1
+8,Hans Jörg Butt,Torwart,Hamburger SV,Richard Golz,1:0,22',Hamburger SV,SC Freiburg,2:0 ,1999/2000,1
+8,Marijan Kovacevic,Innenverteidiger,MSV Duisburg,Andreas Reinke,1:1,62',MSV Duisburg,1.FC Kaiserslautern,2:2 ,1999/2000,1
+8,Andreas Herzog,Offensives Mittelfeld,SV Werder Bremen,Daniel Hoffmann,1:2,73',SV Werder Bremen,TSV 1860 München,1:3 ,1999/2000,1
+8,Timo Lange,Rechter Verteidiger,FC Hansa Rostock,Oka Nikolov,3:1,86',FC Hansa Rostock,Eintracht Frankfurt,3:1 ,1999/2000,1
+9,Marc Wilmots,Offensives Mittelfeld,FC Schalke 04,Oka Nikolov,0:1,53',Eintracht Frankfurt,FC Schalke 04,0:2 ,1999/2000,1
+10,Hans Jörg Butt,Torwart,Hamburger SV,Jens Lehmann,1:0,62',Hamburger SV,Borussia Dortmund,1:1 ,1999/2000,1
+11,Tomasz Hajto,Innenverteidiger,FC Schalke 04,Oliver Kahn,1:0,16',FC Schalke 04,FC Bayern München,2:0 ,2003/2004,1
+11,Soumaila Coulibaly,Offensives Mittelfeld,SC Freiburg,Timo Hildebrand,1:1,45',VfB Stuttgart,SC Freiburg,4:1 ,2003/2004,1
+11,Benjamin Lauth,Mittelstürmer,TSV 1860 München,Rein van Duijnhoven,2:1,66',TSV 1860 München,VfL Bochum,3:1 ,2003/2004,1
+11,Jan Koller,Mittelstürmer,Borussia Dortmund,Stefan Wächter,2:2,66',Borussia Dortmund,Hamburger SV,3:2 ,2003/2004,1
+12,Mehdi Mahdavikia,Rechter Verteidiger,Hamburger SV,Michael Hofmann,3:1,77',Hamburger SV,TSV 1860 München,3:1 ,2003/2004,1
+13,Aílton,Mittelstürmer,SV Werder Bremen,Rein van Duijnhoven,3:0,50',SV Werder Bremen,VfL Bochum,3:1 ,2003/2004,1
+14,Ervin Skela,Offensives Mittelfeld,Eintracht Frankfurt,Simon Jentzsch,2:2,56',Eintracht Frankfurt,VfL Wolfsburg,3:2 ,2003/2004,1
+15,Martin Max,Mittelstürmer,FC Hansa Rostock,Michael Hofmann,1:2,17',TSV 1860 München,FC Hansa Rostock,1:4 ,2003/2004,1
+15,Aílton,Mittelstürmer,SV Werder Bremen,Oliver Kahn,1:0,58',SV Werder Bremen,FC Bayern München,1:1 ,2003/2004,1
+15,Ervin Skela,Offensives Mittelfeld,Eintracht Frankfurt,Marc Ziegler,2:1,64',Eintracht Frankfurt,Hannover 96,2:2 ,2003/2004,1
+1,Bernhard Winkler,Mittelstürmer,TSV 1860 München,Richard Golz,1:0,70',TSV 1860 München,Hamburger SV,2:1 ,1996/1997,1
+1,Andreas Herzog,Offensives Mittelfeld,SV Werder Bremen,Jörg Schmadtke,2:2,72',SC Freiburg,SV Werder Bremen,3:2 ,1996/1997,1
+1,Alain Sutter,Linkes Mittelfeld,SC Freiburg,Oliver Reck,3:2,85',SC Freiburg,SV Werder Bremen,3:2 ,1996/1997,1
+2,Harald Spörl,Rechtes Mittelfeld,Hamburger SV,Jörg Schmadtke,3:0,27',Hamburger SV,SC Freiburg,5:1 ,1996/1997,1
+2,Marcus Marin,Mittelstürmer,MSV Duisburg,Dirk Heinen,1:0,54',MSV Duisburg,Bayer 04 Leverkusen,1:3 ,1996/1997,1
+3,Michael Zorc,Defensives Mittelfeld,Borussia Dortmund,Bernd Meier,1:1,58',TSV 1860 München,Borussia Dortmund,1:3 ,1996/1997,1
+3,Thomas Sobotzik,Offensives Mittelfeld,FC St. Pauli,Jens Lehmann,4:4,66',FC St. Pauli,FC Schalke 04,4:4 ,1996/1997,1
+4,Harry Decheiver,Mittelstürmer,SC Freiburg,Stefan Klos,2:1,51',Borussia Dortmund,SC Freiburg,3:1 ,1996/1997,1
+5,Thomas Häßler,Offensives Mittelfeld,Karlsruher SC,Uwe Gospodarek,1:1,70',VfL Bochum,Karlsruher SC,3:1 ,1996/1997,1
+7,Stefan Beinlich,Offensives Mittelfeld,FC Hansa Rostock,Rainer Berg,1:0,19',FC Hansa Rostock,TSV 1860 München,2:4 ,1996/1997,1
+1,Jens Scharping,Mittelstürmer,FC St. Pauli,Bernd Meier,2:1,48',FC St. Pauli,TSV 1860 München,4:2 ,1995/1996,1
+2,Krasimir Balakov,Offensives Mittelfeld,VfB Stuttgart,Bernd Meier,1:1,51',TSV 1860 München,VfB Stuttgart,1:1 ,1995/1996,1
+2,Andreas Möller,Offensives Mittelfeld,Borussia Dortmund,Dirk Heinen,1:1,65',Bayer 04 Leverkusen,Borussia Dortmund,1:1 ,1995/1996,1
+2,Mehmet Scholl,Offensives Mittelfeld,FC Bayern München,Claus Reitmaier,1:5,68',Karlsruher SC,FC Bayern München,2:6 ,1995/1996,1
+4,Andreas Brehme,Linker Verteidiger,1.FC Kaiserslautern,Marc Ziegler,1:0,44',1.FC Kaiserslautern,VfB Stuttgart,1:1 ,1995/1996,1
+4,Stefan Reuter,Rechtes Mittelfeld,Borussia Dortmund,Jörg Kässmann,1:1,53',Borussia Dortmund,Borussia Mönchengladbach,2:1 ,1995/1996,1
+4,Carsten Pröpper,Offensives Mittelfeld,FC St. Pauli,Dirk Heinen,0:1,54',Bayer 04 Leverkusen,FC St. Pauli,1:1 ,1995/1996,1
+4,Heiko Peschke,Libero,KFC Uerdingen 05,Frank Rost,2:0,54',KFC Uerdingen 05,SV Werder Bremen,3:0 ,1995/1996,1
+5,Mario Basler,Rechtes Mittelfeld,SV Werder Bremen,Bernd Meier,1:0,71',SV Werder Bremen,TSV 1860 München,2:0 ,1995/1996,1
+5,Jay-Jay Okocha,Offensives Mittelfeld,Eintracht Frankfurt,Andreas Reinke,3:1,79',Eintracht Frankfurt,1.FC Kaiserslautern,3:1 ,1995/1996,1
+5,Marijo Maric,Mittelstürmer,VfL Bochum,Claus Reitmaier,1:0,18',VfL Bochum,VfL Wolfsburg,2:1 ,2000/2001,1
+5,Jörg Böhme,Linkes Mittelfeld,FC Schalke 04,Frank Rost,1:1,55',FC Schalke 04,SV Werder Bremen,1:1 ,2000/2001,1
+5,Mehmet Scholl,Offensives Mittelfeld,FC Bayern München,Gerhard Tremmel,2:1,70',FC Bayern München,SpVgg Unterhaching,3:1 ,2000/2001,1
+5,Heiko Herrlich,Mittelstürmer,Borussia Dortmund,Hans Jörg Butt,2:3,81',Hamburger SV,Borussia Dortmund,2:3 ,2000/2001,1
+6,Horst Heldt,Offensives Mittelfeld,Eintracht Frankfurt,Frank Rost,0:1,8',SV Werder Bremen,Eintracht Frankfurt,1:1 ,2000/2001,1
+6,André Breitenreiter,Hängende Spitze,SpVgg Unterhaching,Gábor Király,1:1,34',SpVgg Unterhaching,Hertha BSC,5:2 ,2000/2001,1
+6,Jörg Böhme,Linkes Mittelfeld,FC Schalke 04,Jens Lehmann,0:1,39',Borussia Dortmund,FC Schalke 04,0:4 ,2000/2001,1
+7,Harry Koch,Innenverteidiger,1.FC Kaiserslautern,Tomislav Piplica,1:0,2',1.FC Kaiserslautern,FC Energie Cottbus,1:1 ,2000/2001,1
+7,Dirk Lottner,Offensives Mittelfeld,1.FC Köln,Gábor Király,1:2,28',Hertha BSC,1.FC Köln,4:2 ,2000/2001,1
+8,Harry Koch,Innenverteidiger,1.FC Kaiserslautern,Simon Jentzsch,0:1,14',TSV 1860 München,1.FC Kaiserslautern,0:4 ,2000/2001,1
+1,Harald Spörl,Rechtes Mittelfeld,Hamburger SV,Eike Immel,1:1,72',VfB Stuttgart,Hamburger SV,2:1 ,1994/1995,1
+2,Paulo Sérgio,Linksaußen,Bayer 04 Leverkusen,Oliver Reck,3:2,52',SV Werder Bremen,Bayer 04 Leverkusen,3:2 ,1994/1995,1
+2,Rodolfo Cardoso,Offensives Mittelfeld,SC Freiburg,Oliver Kahn,4:1,58',SC Freiburg,FC Bayern München,5:1 ,1994/1995,1
+2,Stefan Kuntz,Mittelstürmer,1.FC Kaiserslautern,Andreas Köpke,1:1,82',1.FC Kaiserslautern,Eintracht Frankfurt,1:1 ,1994/1995,1
+3,Ludwig Kögl,Linkes Mittelfeld,VfB Stuttgart,Bodo Illgner,1:1,24',VfB Stuttgart,1.FC Köln,2:2 ,1994/1995,1
+3,Michael Zorc,Defensives Mittelfeld,Borussia Dortmund,Gerry Ehrmann,2:0,73',Borussia Dortmund,1.FC Kaiserslautern,2:1 ,1994/1995,1
+4,Anthony Yeboah,Mittelstürmer,Eintracht Frankfurt,Stefan Klos,1:1,44',Eintracht Frankfurt,Borussia Dortmund,4:1 ,1994/1995,1
+5,Ingo Anderbrügge,Linkes Mittelfeld,FC Schalke 04,Bodo Illgner,3:1,75',FC Schalke 04,1.FC Köln,3:1 ,1994/1995,1
+5,Lothar Matthäus,Defensives Mittelfeld,FC Bayern München,Ulrich Stein,1:1,84',FC Bayern München,Hamburger SV,1:1 ,1994/1995,1
+6,Toni Polster,Mittelstürmer,1.FC Köln,Claus Reitmaier,2:0,9',1.FC Köln,Karlsruher SC,3:4 ,1994/1995,1
+11,Yunus Malli,Offensives Mittelfeld,1.FSV Mainz 05,Alexander Schwolow,2:0,20',1.FSV Mainz 05,SC Freiburg,4:2 ,2016/2017,1
+13,Timo Werner,Mittelstürmer,RasenBallsport Leipzig,Ralf Fährmann,1:0,2',RasenBallsport Leipzig,FC Schalke 04,2:1 ,2016/2017,1
+13,Salomon Kalou,Linksaußen,Hertha BSC,Diego Benaglio,2:3,90',VfL Wolfsburg,Hertha BSC,2:3 ,2016/2017,1
+14,Nils Petersen,Mittelstürmer,SC Freiburg,Michael Esser,1:0,86',SC Freiburg,SV Darmstadt 98,1:0 ,2016/2017,1
+16,Florian Niederlechner,Mittelstürmer,SC Freiburg,Martin Hansen,0:1,34',FC Ingolstadt 04,SC Freiburg,1:2 ,2016/2017,1
+16,Robert Lewandowski,Mittelstürmer,FC Bayern München,Péter Gulácsi,3:0,44',FC Bayern München,RasenBallsport Leipzig,3:0 ,2016/2017,1
+17,Hakan Calhanoglu,Offensives Mittelfeld,Bayer 04 Leverkusen,Rune Jarstein,2:0,36',Bayer 04 Leverkusen,Hertha BSC,3:1 ,2016/2017,1
+18,Almog Cohen,Zentrales Mittelfeld,FC Ingolstadt 04,Christian Mathenia,3:0,47',FC Ingolstadt 04,Hamburger SV,3:1 ,2016/2017,1
+18,Sidney Sam,Rechtsaußen,SV Darmstadt 98,Thomas Kessler,1:3,66',SV Darmstadt 98,1.FC Köln,1:6 ,2016/2017,1
+19,Max Kruse,Hängende Spitze,SV Werder Bremen,Marwin Hitz,1:2,65',FC Augsburg,SV Werder Bremen,3:2 ,2016/2017,1
+6,Marcelinho Paraíba,Offensives Mittelfeld,Hertha BSC,Georg Koch,2:2,71',Hertha BSC,MSV Duisburg,3:2 ,2005/2006,1
+7,Mohamed Zidan,Hängende Spitze,1.FSV Mainz 05,Roman Weidenfeller,1:0,64',1.FSV Mainz 05,Borussia Dortmund,1:1 ,2005/2006,1
+9,Ricardo Sousa,Offensives Mittelfeld,Hannover 96,Stefan Wessels,1:3,56',1.FC Köln,Hannover 96,1:4 ,2005/2006,1
+9,Michael Thurk,Mittelstürmer,1.FSV Mainz 05,Hans Jörg Butt,2:0,61',1.FSV Mainz 05,Bayer 04 Leverkusen,3:1 ,2005/2006,1
+9,Sören Larsen,Mittelstürmer,FC Schalke 04,Oliver Kahn,1:1,90',FC Schalke 04,FC Bayern München,1:1 ,2005/2006,1
+10,Lukas Podolski,Hängende Spitze,1.FC Köln,Oka Nikolov,4:2,54',Eintracht Frankfurt,1.FC Köln,6:3 ,2005/2006,1
+10,Danijel Ljuboja,Mittelstürmer,VfB Stuttgart,Hans Jörg Butt,1:1,71',Bayer 04 Leverkusen,VfB Stuttgart,1:1 ,2005/2006,1
+12,Thomas Brdaric,Mittelstürmer,Hannover 96,Dimo Wache,1:2,86',Hannover 96,1.FSV Mainz 05,2:2 ,2005/2006,1
+15,Michael Thurk,Mittelstürmer,1.FSV Mainz 05,Simon Jentzsch,1:0,2',1.FSV Mainz 05,VfL Wolfsburg,5:1 ,2005/2006,1
+16,Mehdi Mahdavikia,Rechter Verteidiger,Hamburger SV,Christian Fiedler,2:0,8',Hamburger SV,Hertha BSC,2:1 ,2005/2006,1
+1,Thomas von Heesen,Offensives Mittelfeld,Hamburger SV,Andreas Köpke,1:1,26',Hamburger SV,1.FC Nürnberg,5:2 ,1993/1994,1
+2,Olaf Thon,Zentrales Mittelfeld,FC Bayern München,Rüdiger Vollborn,1:1,26',Bayer 04 Leverkusen,FC Bayern München,2:1 ,1993/1994,1
+2,Peter Közle,Mittelstürmer,MSV Duisburg,Stanislav Cherchesov,0:1,85',SG Dynamo Dresden,MSV Duisburg,0:1 ,1993/1994,1
+3,Rodolfo Cardoso,Offensives Mittelfeld,SC Freiburg,Stefan Klos,0:1,12',Borussia Dortmund,SC Freiburg,3:2 ,1993/1994,1
+3,Thomas von Heesen,Offensives Mittelfeld,Hamburger SV,Holger Gehrke,3:0,38',Hamburger SV,FC Schalke 04,4:1 ,1993/1994,1
+4,Sergio Zárate,Mittelstürmer,1.FC Nürnberg,Ulrich Stein,1:2,53',1.FC Nürnberg,Eintracht Frankfurt,1:5 ,1993/1994,1
+5,Stefan Kuntz,Mittelstürmer,1.FC Kaiserslautern,Andreas Köpke,3:0,85',1.FC Kaiserslautern,1.FC Nürnberg,3:1 ,1993/1994,1
+5,Sergio Zárate,Mittelstürmer,1.FC Nürnberg,Gerry Ehrmann,3:1,90',1.FC Kaiserslautern,1.FC Nürnberg,3:1 ,1993/1994,1
+6,Fritz Walter,Mittelstürmer,VfB Stuttgart,Stefan Klos,1:0,18',VfB Stuttgart,Borussia Dortmund,2:2 ,1993/1994,1
+6,Franco Foda,Libero,Bayer 04 Leverkusen,Bodo Illgner,0:0,22',Bayer 04 Leverkusen,1.FC Köln,2:1 ,1993/1994,1
+7,Ulf Kirsten,Mittelstürmer,Bayer 04 Leverkusen,Zdenko Miletic,1:0,43',Arminia Bielefeld,Bayer 04 Leverkusen,2:1 ,1997/1998,1
+7,Ingo Anderbrügge,Linkes Mittelfeld,FC Schalke 04,Hans Jörg Butt,2:2,63',FC Schalke 04,Hamburger SV,2:2 ,1997/1998,1
+8,Michael Zeyer,Zentrales Mittelfeld,MSV Duisburg,Zdenko Miletic,1:0,33',MSV Duisburg,Arminia Bielefeld,2:1 ,1997/1998,1
+10,Bernhard Winkler,Mittelstürmer,TSV 1860 München,Uwe Kamps,1:1,34',Borussia Mönchengladbach,TSV 1860 München,5:1 ,1997/1998,1
+10,Ioan Lupescu,Zentrales Mittelfeld,Borussia Mönchengladbach,Bernd Meier,3:1,62',Borussia Mönchengladbach,TSV 1860 München,5:1 ,1997/1998,1
+11,Sergej Barbarez,Hängende Spitze,FC Hansa Rostock,Jens Lehmann,2:0,39',FC Hansa Rostock,FC Schalke 04,4:1 ,1997/1998,1
+13,Ulf Kirsten,Mittelstürmer,Bayer 04 Leverkusen,Uwe Zimmermann,1:0,37',Bayer 04 Leverkusen,VfL Wolfsburg,2:1 ,1997/1998,1
+13,Stefan Effenberg,Zentrales Mittelfeld,Borussia Mönchengladbach,Thomas Gill,2:4,76',MSV Duisburg,Borussia Mönchengladbach,4:5 ,1997/1998,1
+15,Stefan Kuntz,Mittelstürmer,Arminia Bielefeld,Gábor Király,1:0,37',Arminia Bielefeld,Hertha BSC,1:3 ,1997/1998,1
+16,Stefan Beinlich,Offensives Mittelfeld,Bayer 04 Leverkusen,Gábor Király,2:2,67',Hertha BSC,Bayer 04 Leverkusen,2:2 ,1997/1998,1
+10,Ulf Kirsten,Mittelstürmer,Bayer 04 Leverkusen,Daniel Hoffmann,1:0,63',Bayer 04 Leverkusen,TSV 1860 München,1:1 ,1999/2000,1
+10,Peter Wibran,Defensives Mittelfeld,FC Hansa Rostock,Frank Rost,1:1,74',SV Werder Bremen,FC Hansa Rostock,2:1 ,1999/2000,1
+10,Altin Rraklli,Mittelstürmer,SpVgg Unterhaching,Richard Golz,1:0,80',SpVgg Unterhaching,SC Freiburg,1:0 ,1999/2000,1
+11,Hans Jörg Butt,Torwart,Hamburger SV,Perry Bräutigam,2:1,39',FC Hansa Rostock,Hamburger SV,3:3 ,1999/2000,1
+11,Marc Wilmots,Offensives Mittelfeld,FC Schalke 04,Andreas Reinke,0:1,45',1.FC Kaiserslautern,FC Schalke 04,2:1 ,1999/2000,1
+11,Horst Heldt,Offensives Mittelfeld,Eintracht Frankfurt,Gábor Király,4:0,89',Eintracht Frankfurt,Hertha BSC,4:0 ,1999/2000,1
+12,Altin Rraklli,Mittelstürmer,SpVgg Unterhaching,Jens Lehmann,1:0,38',SpVgg Unterhaching,Borussia Dortmund,1:0 ,1999/2000,1
+13,Hans Jörg Butt,Torwart,Hamburger SV,Frank Rost,2:1,90',SV Werder Bremen,Hamburger SV,2:1 ,1999/2000,1
+14,Adel Sellimi,Mittelstürmer,SC Freiburg,Mathias Schober,0:1,34',FC Schalke 04,SC Freiburg,2:2 ,1999/2000,1
+14,Ulf Kirsten,Mittelstürmer,Bayer 04 Leverkusen,Frank Rost,2:1,47',Bayer 04 Leverkusen,SV Werder Bremen,3:2 ,1999/2000,1
+1,Ingo Anderbrügge,Linkes Mittelfeld,FC Schalke 04,Ralf Eilenberger,1:0,29',FC Schalke 04,SG Wattenscheid 09,3:4 ,1992/1993,1
+1,Uwe Tschiskale,Mittelstürmer,SG Wattenscheid 09,Jens Lehmann,2:2,56',FC Schalke 04,SG Wattenscheid 09,3:4 ,1992/1993,1
+3,Manfred Bender,Offensives Mittelfeld,Karlsruher SC,Oliver Reck,2:2,40',Karlsruher SC,SV Werder Bremen,5:2 ,1992/1993,1
+3,Frank Heinemann,Defensives Mittelfeld,VfL Bochum,Stefan Brasas,1:0,45',VfL Bochum,1.FC Saarbrücken,4:0 ,1992/1993,1
+3,Stefan Kuntz,Mittelstürmer,1.FC Kaiserslautern,Ralf Eilenberger,4:0,80',1.FC Kaiserslautern,SG Wattenscheid 09,4:1 ,1992/1993,1
+4,Torsten Gütschow,Mittelstürmer,SG Dynamo Dresden,Raimond Aumann,3:1,88',FC Bayern München,SG Dynamo Dresden,3:1 ,1992/1993,1
+4,Thomas Strunz,Defensives Mittelfeld,VfB Stuttgart,Oliver Kahn,2:1,90',VfB Stuttgart,Karlsruher SC,2:1 ,1992/1993,1
+5,Uwe Bein,Offensives Mittelfeld,Eintracht Frankfurt,Stefan Klos,2:1,46',Eintracht Frankfurt,Borussia Dortmund,4:1 ,1992/1993,1
+6,Peter Nielsen,Offensives Mittelfeld,Borussia Mönchengladbach,Ulrich Stein,1:1,21',Borussia Mönchengladbach,Eintracht Frankfurt,3:3 ,1992/1993,1
+6,Martin Kree,Innenverteidiger,Bayer 04 Leverkusen,Oliver Kahn,3:1,51',Bayer 04 Leverkusen,Karlsruher SC,5:1 ,1992/1993,1
+7,Markus Feldhoff,Mittelstürmer,Bayer 04 Leverkusen,Jörg Schmadtke,3:1,56',Bayer 04 Leverkusen,SC Freiburg,5:3 ,1996/1997,1
+8,Karl Werner,Innenverteidiger,Fortuna Düsseldorf,Uwe Kamps,1:0,16',Fortuna Düsseldorf,Borussia Mönchengladbach,1:0 ,1996/1997,1
+8,Andreas Herzog,Offensives Mittelfeld,SV Werder Bremen,Oliver Kahn,1:0,23',SV Werder Bremen,FC Bayern München,3:0 ,1996/1997,1
+8,Sunday Oliseh,Defensives Mittelfeld,1.FC Köln,Uwe Gospodarek,2:0,76',1.FC Köln,VfL Bochum,2:0 ,1996/1997,1
+10,Vlatko Glavas,Offensives Mittelfeld,Fortuna Düsseldorf,Uwe Gospodarek,2:0,22',Fortuna Düsseldorf,VfL Bochum,2:2 ,1996/1997,1
+10,Mehmet Scholl,Offensives Mittelfeld,FC Bayern München,Michael Kraft,0:2,56',1.FC Köln,FC Bayern München,2:4 ,1996/1997,1
+10,Matthias Breitkreutz,Offensives Mittelfeld,Arminia Bielefeld,Holger Hiemann,2:2,61',Hamburger SV,Arminia Bielefeld,2:2 ,1996/1997,1
+10,Toni Polster,Mittelstürmer,1.FC Köln,Oliver Kahn,2:3,77',1.FC Köln,FC Bayern München,2:4 ,1996/1997,1
+12,Andreas Herzog,Offensives Mittelfeld,SV Werder Bremen,Dirk Heinen,1:0,32',SV Werder Bremen,Bayer 04 Leverkusen,1:1 ,1996/1997,1
+12,Krasimir Balakov,Offensives Mittelfeld,VfB Stuttgart,Uwe Kamps,3:0,68',VfB Stuttgart,Borussia Mönchengladbach,5:0 ,1996/1997,1
+6,Andreas Brehme,Linker Verteidiger,1.FC Kaiserslautern,Oliver Kahn,1:1,20',1.FC Kaiserslautern,FC Bayern München,2:3 ,1995/1996,1
+6,Stefan Reuter,Rechtes Mittelfeld,Borussia Dortmund,Eberhard Trautner,5:1,49',Borussia Dortmund,VfB Stuttgart,6:3 ,1995/1996,1
+7,Toni Polster,Mittelstürmer,1.FC Köln,Jörg Schmadtke,1:1,75',1.FC Köln,SC Freiburg,1:1 ,1995/1996,1
+7,Jürgen Klinsmann,Mittelstürmer,FC Bayern München,Dirk Heinen,1:0,89',FC Bayern München,Bayer 04 Leverkusen,1:0 ,1995/1996,1
+8,Bernhard Winkler,Mittelstürmer,TSV 1860 München,Georg Koch,1:1,35',TSV 1860 München,Fortuna Düsseldorf,2:1 ,1995/1996,1
+8,Stefan Reuter,Rechtes Mittelfeld,Borussia Dortmund,Oliver Kahn,1:0,41',Borussia Dortmund,FC Bayern München,3:1 ,1995/1996,1
+11,Mehmet Scholl,Offensives Mittelfeld,FC Bayern München,Marc Ziegler,3:0,63',FC Bayern München,VfB Stuttgart,5:3 ,1995/1996,1
+11,Mehmet Scholl,Offensives Mittelfeld,FC Bayern München,Marc Ziegler,5:3,90',FC Bayern München,VfB Stuttgart,5:3 ,1995/1996,1
+12,Jens Scharping,Mittelstürmer,FC St. Pauli,Bodo Illgner,1:2,57',FC St. Pauli,1.FC Köln,3:3 ,1995/1996,1
+12,Claus-Dieter Wollitz,Offensives Mittelfeld,1.FC Kaiserslautern,Claus Reitmaier,2:1,85',1.FC Kaiserslautern,Karlsruher SC,2:2 ,1995/1996,1
+1,Michael Tönnies,Mittelstürmer,MSV Duisburg,Eike Immel,1:0,29',MSV Duisburg,VfB Stuttgart,1:0 ,1991/1992,1
+1,Michael Spies,Offensives Mittelfeld,FC Hansa Rostock,Andreas Köpke,4:0,90',FC Hansa Rostock,1.FC Nürnberg,4:0 ,1991/1992,1
+2,Christian Schreier,Offensives Mittelfeld,Fortuna Düsseldorf,Andreas Köpke,2:1,30',1.FC Nürnberg,Fortuna Düsseldorf,3:1 ,1991/1992,1
+2,Markus Schupp,Offensives Mittelfeld,SG Wattenscheid 09,Rüdiger Vollborn,2:0,82',SG Wattenscheid 09,Bayer 04 Leverkusen,3:0 ,1991/1992,1
+3,Michael Spies,Offensives Mittelfeld,FC Hansa Rostock,Wolfgang de Beer,3:0,47',FC Hansa Rostock,Borussia Dortmund,5:1 ,1991/1992,1
+3,Michael Spies,Offensives Mittelfeld,FC Hansa Rostock,Wolfgang de Beer,5:1,82',FC Hansa Rostock,Borussia Dortmund,5:1 ,1991/1992,1
+4,Stefan Effenberg,Zentrales Mittelfeld,FC Bayern München,Jens Lehmann,2:0,38',FC Bayern München,FC Schalke 04,3:2 ,1991/1992,1
+4,Markus Schupp,Offensives Mittelfeld,SG Wattenscheid 09,Oliver Kahn,1:1,47',SG Wattenscheid 09,Karlsruher SC,1:1 ,1991/1992,1
+4,Günter Güttler,Libero,FC Schalke 04,Raimond Aumann,3:2,62',FC Bayern München,FC Schalke 04,3:2 ,1991/1992,1
+5,Markus Schupp,Offensives Mittelfeld,SG Wattenscheid 09,Oliver Reck,1:1,46',SV Werder Bremen,SG Wattenscheid 09,2:2 ,1991/1992,1
+7,Daniel Brosinski,Rechter Verteidiger,1.FSV Mainz 05,Frederik Rönnow,1:0,6',1.FSV Mainz 05,FC Schalke 04,2:2 ,2020/2021,1
+7,Nicolás González,Linksaußen,VfB Stuttgart,Kevin Trapp,1:0,17',VfB Stuttgart,Eintracht Frankfurt,2:2 ,2020/2021,1
+7,Lars Stindl,Hängende Spitze,Borussia Mönchengladbach,Lukas Hradecky,0:1,18',Bayer 04 Leverkusen,Borussia Mönchengladbach,4:3 ,2020/2021,1
+7,Matheus Cunha,Mittelstürmer,Hertha BSC,Rafal Gikiewicz,0:1,44',FC Augsburg,Hertha BSC,0:3 ,2020/2021,1
+7,Jean-Philippe Mateta,Mittelstürmer,1.FSV Mainz 05,Frederik Rönnow,2:1,45',1.FSV Mainz 05,FC Schalke 04,2:2 ,2020/2021,1
+7,Max Kruse,Hängende Spitze,1.FC Union Berlin,Stefan Ortega,4:0,52',1.FC Union Berlin,Arminia Bielefeld,5:0 ,2020/2021,1
+7,Marcel Sabitzer,Zentrales Mittelfeld,RasenBallsport Leipzig,Florian Müller,2:0,70',RasenBallsport Leipzig,SC Freiburg,3:0 ,2020/2021,1
+7,Leonardo Bittencourt,Offensives Mittelfeld,SV Werder Bremen,Timo Horn,1:1,82',SV Werder Bremen,1.FC Köln,1:1 ,2020/2021,1
+8,Andrej Kramaric,Mittelstürmer,TSG 1899 Hoffenheim,Gregor Kobel,3:2,71',TSG 1899 Hoffenheim,VfB Stuttgart,3:3 ,2020/2021,1
+8,Matheus Cunha,Mittelstürmer,Hertha BSC,Roman Bürki,2:4,79',Hertha BSC,Borussia Dortmund,2:5 ,2020/2021,1
+1,Rainer Ernst,Offensives Mittelfeld,1.FC Kaiserslautern,Richard Golz,0:1,17',Hamburger SV,1.FC Kaiserslautern,1:3 ,1990/1991,1
+1,Jörg Dittwar,Defensives Mittelfeld,1.FC Nürnberg,Bernd Dreher,1:1,26',1.FC Nürnberg,KFC Uerdingen 05,1:1 ,1990/1991,1
+1,Jan Furtok,Mittelstürmer,Hamburger SV,Gerry Ehrmann,1:1,56',Hamburger SV,1.FC Kaiserslautern,1:3 ,1990/1991,1
+1,Stefan Effenberg,Zentrales Mittelfeld,FC Bayern München,Rüdiger Vollborn,1:1,83',FC Bayern München,Bayer 04 Leverkusen,1:1 ,1990/1991,1
+2,Franco Foda,Libero,Bayer 04 Leverkusen,Andreas Köpke,2:1,72',Bayer 04 Leverkusen,1.FC Nürnberg,2:2 ,1990/1991,1
+2,Jörg Dittwar,Defensives Mittelfeld,1.FC Nürnberg,Rüdiger Vollborn,2:2,89',Bayer 04 Leverkusen,1.FC Nürnberg,2:2 ,1990/1991,1
+3,Uwe Bein,Offensives Mittelfeld,Eintracht Frankfurt,Jörg Schmadtke,1:1,21',Eintracht Frankfurt,Fortuna Düsseldorf,5:1 ,1990/1991,1
+3,Jörg Dittwar,Defensives Mittelfeld,1.FC Nürnberg,Klaus Thomforde,2:0,22',1.FC Nürnberg,FC St. Pauli,5:2 ,1990/1991,1
+3,Andreas Möller,Offensives Mittelfeld,Eintracht Frankfurt,Jörg Schmadtke,4:1,48',Eintracht Frankfurt,Fortuna Düsseldorf,5:1 ,1990/1991,1
+4,Norbert Schlegel,Abwehr,Hertha BSC,Gerry Ehrmann,0:1,22',1.FC Kaiserslautern,Hertha BSC,4:3 ,1990/1991,1
+1,Stefan Kuntz,Mittelstürmer,1.FC Kaiserslautern,Uwe Kamps,2:0,24',1.FC Kaiserslautern,Borussia Mönchengladbach,2:1 ,1989/1990,1
+1,Wolfgang Funkel,Innenverteidiger,KFC Uerdingen 05,Hans-Jürgen Gundelach,2:0,36',KFC Uerdingen 05,FC 08 Homburg,3:0 ,1989/1990,1
+1,Stefan Effenberg,Zentrales Mittelfeld,Borussia Mönchengladbach,Gerry Ehrmann,2:1,56',1.FC Kaiserslautern,Borussia Mönchengladbach,2:1 ,1989/1990,1
+1,Uwe Rahn,Mittelstürmer,1.FC Köln,Ralf Zumdick,0:1,58',VfL Bochum,1.FC Köln,0:1 ,1989/1990,1
+2,Gerd Dais,Mittelstürmer,SV Waldhof Mannheim,Ralf Zumdick,1:0,5',SV Waldhof Mannheim,VfL Bochum,3:2 ,1989/1990,1
+2,Stefan Kohn,Mittelstürmer,VfL Bochum,Uwe Zimmermann,1:1,8',SV Waldhof Mannheim,VfL Bochum,3:2 ,1989/1990,1
+2,Stefan Kuntz,Mittelstürmer,1.FC Kaiserslautern,Hans-Jürgen Gundelach,1:2,68',FC 08 Homburg,1.FC Kaiserslautern,2:2 ,1989/1990,1
+3,Markus Schupp,Offensives Mittelfeld,1.FC Kaiserslautern,Alexander Famulla,5:1,90',1.FC Kaiserslautern,Karlsruher SC,5:1 ,1989/1990,1
+4,Klaus Theiss,Libero,FC 08 Homburg,Rüdiger Vollborn,2:0,52',FC 08 Homburg,Bayer 04 Leverkusen,2:1 ,1989/1990,1
+4,Martin Kree,Innenverteidiger,Bayer 04 Leverkusen,Hans-Jürgen Gundelach,2:1,86',FC 08 Homburg,Bayer 04 Leverkusen,2:1 ,1989/1990,1
+6,Thomas Kastenmaier,Rechter Verteidiger,Borussia Mönchengladbach,Jörg Schmadtke,2:2,68',SC Freiburg,Borussia Mönchengladbach,3:3 ,1993/1994,1
+7,Bernd Schuster,Offensives Mittelfeld,Bayer 04 Leverkusen,Dirk Heyne,1:2,70',Borussia Mönchengladbach,Bayer 04 Leverkusen,2:2 ,1993/1994,1
+7,Thomas Kastenmaier,Rechter Verteidiger,Borussia Mönchengladbach,Rüdiger Vollborn,2:2,84',Borussia Mönchengladbach,Bayer 04 Leverkusen,2:2 ,1993/1994,1
+8,Ingo Anderbrügge,Linkes Mittelfeld,FC Schalke 04,Andreas Köpke,1:1,28',FC Schalke 04,1.FC Nürnberg,1:2 ,1993/1994,1
+8,Rodolfo Cardoso,Offensives Mittelfeld,SC Freiburg,Gerry Ehrmann,1:1,52',SC Freiburg,1.FC Kaiserslautern,2:3 ,1993/1994,1
+8,Franco Foda,Libero,Bayer 04 Leverkusen,Ulrich Stein,1:0,61',Bayer 04 Leverkusen,Eintracht Frankfurt,2:2 ,1993/1994,1
+8,Sergio Zárate,Mittelstürmer,1.FC Nürnberg,Jens Lehmann,1:2,62',FC Schalke 04,1.FC Nürnberg,1:2 ,1993/1994,1
+8,Ludwig Kögl,Linkes Mittelfeld,VfB Stuttgart,Bodo Illgner,1:1,80',VfB Stuttgart,1.FC Köln,1:1 ,1993/1994,1
+9,Sergio Zárate,Mittelstürmer,1.FC Nürnberg,Jörg Schmadtke,2:1,51',1.FC Nürnberg,SC Freiburg,2:2 ,1993/1994,1
+10,Manfred Bender,Offensives Mittelfeld,Karlsruher SC,Jörg Schmadtke,2:3,56',SC Freiburg,Karlsruher SC,3:3 ,1993/1994,1
+2,Karl Allgöwer,Zentrales Mittelfeld,VfB Stuttgart,Ralf Raps,2:1,67',VfB Stuttgart,Hannover 96,2:1 ,1988/1989,1
+3,Bernd Grabosch,Mittelfeld,Stuttgarter Kickers,Alexander Famulla,1:0,17',Stuttgarter Kickers,Karlsruher SC,1:3 ,1988/1989,1
+3,Egon Flad,Mittelfeld,FC St. Pauli,Ulrich Stein,1:0,63',FC St. Pauli,Eintracht Frankfurt,2:0 ,1988/1989,1
+3,Thomas Allofs,Mittelstürmer,1.FC Köln,Ralf Zumdick,1:0,89',1.FC Köln,VfL Bochum,1:0 ,1988/1989,1
+4,Karl Allgöwer,Zentrales Mittelfeld,VfB Stuttgart,Kari Laukkanen,1:0,18',VfB Stuttgart,Stuttgarter Kickers,4:0 ,1988/1989,1
+4,Hans-Jörg Criens,Mittelstürmer,Borussia Mönchengladbach,Oliver Reck,4:0,87',Borussia Mönchengladbach,SV Werder Bremen,4:1 ,1988/1989,1
+4,Michael Harforth,Offensives Mittelfeld,Karlsruher SC,Volker Ippig,3:1,90',Karlsruher SC,FC St. Pauli,3:1 ,1988/1989,1
+5,Thomas Allofs,Mittelstürmer,1.FC Köln,Alexander Famulla,3:1,48',1.FC Köln,Karlsruher SC,6:1 ,1988/1989,1
+6,Dirk Bakalorz,Zentrales Mittelfeld,Eintracht Frankfurt,Andreas Köpke,1:0,74',Eintracht Frankfurt,1.FC Nürnberg,1:0 ,1988/1989,1
+7,Stefan Kohn,Mittelstürmer,Hannover 96,Oliver Reck,2:2,90',Hannover 96,SV Werder Bremen,2:2 ,1988/1989,1
+6,Krasimir Balakov,Offensives Mittelfeld,VfB Stuttgart,Claus Reitmaier,0:2,65',VfL Wolfsburg,VfB Stuttgart,0:2 ,2001/2002,1
+7,Arie van Lent,Mittelstürmer,Borussia Mönchengladbach,Tihomir Bulat,1:0,51',Borussia Mönchengladbach,FC St. Pauli,2:2 ,2001/2002,1
+7,Krasimir Balakov,Offensives Mittelfeld,VfB Stuttgart,Mathias Schober,1:1,55',VfB Stuttgart,FC Hansa Rostock,2:1 ,2001/2002,1
+7,Marcelinho Paraíba,Offensives Mittelfeld,Hertha BSC,Georg Koch,2:1,80',1.FC Kaiserslautern,Hertha BSC,4:1 ,2001/2002,1
+8,Sebastian Deisler,Rechtes Mittelfeld,Hertha BSC,Alexander Bade,1:0,27',Hertha BSC,1.FC Köln,3:0 ,2001/2002,1
+9,Levan Kobiashvili,Linkes Mittelfeld,SC Freiburg,Tihomir Bulat,1:1,40',SC Freiburg,FC St. Pauli,2:2 ,2001/2002,1
+9,Martin Petrov,Linksaußen,VfL Wolfsburg,Alexander Bade,0:3,50',1.FC Köln,VfL Wolfsburg,0:4 ,2001/2002,1
+9,Ulf Kirsten,Mittelstürmer,Bayer 04 Leverkusen,Tomislav Piplica,2:3,57',FC Energie Cottbus,Bayer 04 Leverkusen,2:3 ,2001/2002,1
+9,Igor Demo,Zentrales Mittelfeld,Borussia Mönchengladbach,Jens Lehmann,1:2,78',Borussia Mönchengladbach,Borussia Dortmund,1:2 ,2001/2002,1
+9,Claudio Pizarro,Mittelstürmer,FC Bayern München,Simon Jentzsch,1:5,86',TSV 1860 München,FC Bayern München,1:5 ,2001/2002,1
+4,Martin Max,Mittelstürmer,FC Schalke 04,Andreas Hilfiker,2:0,42',FC Schalke 04,1.FC Nürnberg,2:2 ,1998/1999,1
+4,Ulf Kirsten,Mittelstürmer,Bayer 04 Leverkusen,Frank Rost,0:1,43',SV Werder Bremen,Bayer 04 Leverkusen,2:2 ,1998/1999,1
+4,Lodewijk Roembiak,Defensives Mittelfeld,SV Werder Bremen,Adam Matysek,1:1,53',SV Werder Bremen,Bayer 04 Leverkusen,2:2 ,1998/1999,1
+4,Michael Schjönberg,Innenverteidiger,1.FC Kaiserslautern,Gábor Király,3:3,72',1.FC Kaiserslautern,Hertha BSC,4:3 ,1998/1999,1
+4,Oliver Neuville,Mittelstürmer,FC Hansa Rostock,Thomas Gill,2:0,83',FC Hansa Rostock,MSV Duisburg,3:0 ,1998/1999,1
+4,Ansgar Brinkmann,Rechtes Mittelfeld,Eintracht Frankfurt,Franz Wohlfahrt,1:1,89',Eintracht Frankfurt,VfB Stuttgart,1:1 ,1998/1999,1
+5,Hans Jörg Butt,Torwart,Hamburger SV,Oliver Kahn,3:2,69',FC Bayern München,Hamburger SV,5:3 ,1998/1999,1
+5,Toni Polster,Mittelstürmer,Borussia Mönchengladbach,Thomas Gill,1:1,70',MSV Duisburg,Borussia Mönchengladbach,2:2 ,1998/1999,1
+5,Stefan Effenberg,Zentrales Mittelfeld,FC Bayern München,Hans Jörg Butt,4:2,71',FC Bayern München,Hamburger SV,5:3 ,1998/1999,1
+6,Toni Polster,Mittelstürmer,Borussia Mönchengladbach,Marc Ziegler,1:1,37',Borussia Mönchengladbach,VfB Stuttgart,2:3 ,1998/1999,1
+6,Rodolfo Cardoso,Offensives Mittelfeld,SC Freiburg,Rüdiger Vollborn,1:1,43',SC Freiburg,Bayer 04 Leverkusen,1:1 ,1994/1995,1
+6,Frank Heinemann,Defensives Mittelfeld,VfL Bochum,Uwe Kamps,5:1,68',Borussia Mönchengladbach,VfL Bochum,7:1 ,1994/1995,1
+6,Peter Pacult,Sturm,TSV 1860 München,Oliver Kahn,1:2,78',TSV 1860 München,FC Bayern München,1:3 ,1994/1995,1
+6,Wynton Rufer,Mittelstürmer,SV Werder Bremen,Martin Pieckenhagen,0:1,88',MSV Duisburg,SV Werder Bremen,0:2 ,1994/1995,1
+7,Peter Pacult,Sturm,TSV 1860 München,Stanislav Cherchesov,1:1,68',SG Dynamo Dresden,TSV 1860 München,1:1 ,1994/1995,1
+8,Michael Zorc,Defensives Mittelfeld,Borussia Dortmund,Jens Lehmann,2:1,26',Borussia Dortmund,FC Schalke 04,3:2 ,1994/1995,1
+8,Harald Spörl,Rechtes Mittelfeld,Hamburger SV,Andreas Wessels,1:1,33',Hamburger SV,VfL Bochum,3:1 ,1994/1995,1
+8,Anthony Yeboah,Mittelstürmer,Eintracht Frankfurt,Claus Reitmaier,1:0,60',Eintracht Frankfurt,Karlsruher SC,1:0 ,1994/1995,1
+8,Ingo Anderbrügge,Linkes Mittelfeld,FC Schalke 04,Stefan Klos,2:2,70',Borussia Dortmund,FC Schalke 04,3:2 ,1994/1995,1
+8,Ludwig Kögl,Linkes Mittelfeld,VfB Stuttgart,Bernd Dreher,3:0,72',VfB Stuttgart,KFC Uerdingen 05,3:1 ,1994/1995,1
+1,Wolfram Wuttke,Hängende Spitze,1.FC Kaiserslautern,Holger Gehrke,1:3,74',Blau-Weiß 90 Berlin,1.FC Kaiserslautern,1:4 ,1986/1987,1
+1,Wolfram Wuttke,Hängende Spitze,1.FC Kaiserslautern,Holger Gehrke,1:4,77',Blau-Weiß 90 Berlin,1.FC Kaiserslautern,1:4 ,1986/1987,1
+1,Roland Grahammer,Rechter Verteidiger,1.FC Nürnberg,Dieter Burdenski,4:3,88',SV Werder Bremen,1.FC Nürnberg,5:3 ,1986/1987,1
+2,Roland Grahammer,Rechter Verteidiger,1.FC Nürnberg,Ralf Zumdick,2:1,31',1.FC Nürnberg,VfL Bochum,3:3 ,1986/1987,1
+2,Roland Grahammer,Rechter Verteidiger,1.FC Nürnberg,Ralf Zumdick,3:1,43',1.FC Nürnberg,VfL Bochum,3:3 ,1986/1987,1
+2,Manfred Kaltz,Rechter Verteidiger,Hamburger SV,Dieter Burdenski,3:0,71',Hamburger SV,SV Werder Bremen,3:0 ,1986/1987,1
+4,Karl Allgöwer,Zentrales Mittelfeld,VfB Stuttgart,Holger Gehrke,1:0,37',VfB Stuttgart,Blau-Weiß 90 Berlin,1:1 ,1986/1987,1
+4,Lothar Matthäus,Defensives Mittelfeld,FC Bayern München,Andreas Köpke,1:1,48',1.FC Nürnberg,FC Bayern München,1:2 ,1986/1987,1
+4,Wolfram Wuttke,Hängende Spitze,1.FC Kaiserslautern,Ralf Zumdick,2:1,50',1.FC Kaiserslautern,VfL Bochum,4:1 ,1986/1987,1
+4,Stephan Engels,Defensives Mittelfeld,1.FC Köln,Rüdiger Vollborn,1:3,57',1.FC Köln,Bayer 04 Leverkusen,1:4 ,1986/1987,1
+1,Manfred Kaltz,Rechter Verteidiger,Hamburger SV,Gerry Ehrmann,2:1,49',Hamburger SV,1.FC Kaiserslautern,4:1 ,1985/1986,1
+1,Klaus Allofs,Mittelstürmer,1.FC Köln,Hans-Jürgen Gundelach,1:0,64',1.FC Köln,Eintracht Frankfurt,1:1 ,1985/1986,1
+1,Klaus Theiss,Libero,Eintracht Frankfurt,Toni Schumacher,1:1,72',1.FC Köln,Eintracht Frankfurt,1:1 ,1985/1986,1
+2,Wilfried Hannes,Innenverteidiger,Borussia Mönchengladbach,Walter Junghans,1:0,24',Borussia Mönchengladbach,FC Schalke 04,4:0 ,1985/1986,1
+2,Martin Giesel,Offensives Mittelfeld,Hannover 96,Dieter Burdenski,3:2,29',SV Werder Bremen,Hannover 96,8:2 ,1985/1986,1
+2,Michael Kutzop,Abwehr,SV Werder Bremen,Ralf Raps,4:2,31',SV Werder Bremen,Hannover 96,8:2 ,1985/1986,1
+2,Hans Holmqvist,Sturm,Fortuna Düsseldorf,Wolfgang Kleff,4:1,59',VfL Bochum,Fortuna Düsseldorf,5:3 ,1985/1986,1
+2,Michael Lameck,Defensives Mittelfeld,VfL Bochum,Uwe Greiner,5:1,72',VfL Bochum,Fortuna Düsseldorf,5:3 ,1985/1986,1
+4,Ulrich Bittorf,Defensives Mittelfeld,1.FC Nürnberg,Eike Immel,1:4,84',Borussia Dortmund,1.FC Nürnberg,1:4 ,1985/1986,1
+5,Thomas Brunner,Innenverteidiger,1.FC Nürnberg,Rüdiger Vollborn,1:0,3',1.FC Nürnberg,Bayer 04 Leverkusen,3:2 ,1985/1986,1
+5,Günter Güttler,Libero,FC Schalke 04,Wolfgang de Beer,2:1,63',FC Schalke 04,Borussia Dortmund,5:2 ,1991/1992,1
+5,Frank Ordenewitz,Mittelstürmer,1.FC Köln,Ulrich Stein,1:1,63',1.FC Köln,Eintracht Frankfurt,1:1 ,1991/1992,1
+6,Thomas Ritter,Innenverteidiger,Stuttgarter Kickers,Andreas Reinke,0:2,58',Hamburger SV,Stuttgarter Kickers,0:3 ,1991/1992,1
+7,Wolfgang Funkel,Innenverteidiger,1.FC Kaiserslautern,Andreas Köpke,1:0,17',1.FC Kaiserslautern,1.FC Nürnberg,3:0 ,1991/1992,1
+7,Markus Schupp,Offensives Mittelfeld,SG Wattenscheid 09,Jörg Schmadtke,1:2,48',Fortuna Düsseldorf,SG Wattenscheid 09,4:3 ,1991/1992,1
+7,Armin Eck,Linkes Mittelfeld,Hamburger SV,Ulrich Stein,2:0,54',Hamburger SV,Eintracht Frankfurt,2:1 ,1991/1992,1
+7,Christian Schreier,Offensives Mittelfeld,Fortuna Düsseldorf,Udo Mai,2:2,56',Fortuna Düsseldorf,SG Wattenscheid 09,4:3 ,1991/1992,1
+7,Martin Kree,Innenverteidiger,Bayer 04 Leverkusen,Daniel Hoffmann,1:2,61',FC Hansa Rostock,Bayer 04 Leverkusen,2:2 ,1991/1992,1
+8,Fritz Walter,Mittelstürmer,VfB Stuttgart,Ralf Zumdick,1:0,9',VfB Stuttgart,VfL Bochum,4:1 ,1991/1992,1
+8,Stefan Effenberg,Zentrales Mittelfeld,FC Bayern München,Gerry Ehrmann,1:0,16',FC Bayern München,1.FC Kaiserslautern,1:0 ,1991/1992,1
+4,Jörg Dittwar,Defensives Mittelfeld,1.FC Nürnberg,Eike Immel,2:1,54',VfB Stuttgart,1.FC Nürnberg,2:1 ,1990/1991,1
+4,Stefan Kuntz,Mittelstürmer,1.FC Kaiserslautern,Walter Junghans,4:3,85',1.FC Kaiserslautern,Hertha BSC,4:3 ,1990/1991,1
+4,Stefan Reuter,Rechtes Mittelfeld,FC Bayern München,Alexander Famulla,2:3,90',Karlsruher SC,FC Bayern München,2:3 ,1990/1991,1
+5,Frank Ordenewitz,Mittelstürmer,1.FC Köln,Ralf Eilenberger,0:1,43',SG Wattenscheid 09,1.FC Köln,0:3 ,1990/1991,1
+5,Ivo Knoflicek,Mittelstürmer,FC St. Pauli,Rüdiger Vollborn,3:1,87',Bayer 04 Leverkusen,FC St. Pauli,3:1 ,1990/1991,1
+6,Geovani Silva,Offensives Mittelfeld,Karlsruher SC,Bernd Dreher,1:0,40',Karlsruher SC,KFC Uerdingen 05,2:0 ,1990/1991,1
+6,Axel Kruse,Mittelstürmer,Hertha BSC,Andreas Wessels,3:2,88',VfL Bochum,Hertha BSC,4:2 ,1990/1991,1
+7,Jürgen Gronau,Defensives Mittelfeld,FC St. Pauli,Eike Immel,2:0,43',FC St. Pauli,VfB Stuttgart,2:2 ,1990/1991,1
+7,Fritz Walter,Mittelstürmer,VfB Stuttgart,Klaus Thomforde,2:1,56',FC St. Pauli,VfB Stuttgart,2:2 ,1990/1991,1
+9,Wolfgang Funkel,Innenverteidiger,KFC Uerdingen 05,Andreas Wessels,1:0,12',KFC Uerdingen 05,VfL Bochum,4:1 ,1990/1991,1
+5,Ralf Falkenmayer,Defensives Mittelfeld,Eintracht Frankfurt,Eberhard Trautner,1:1,66',VfB Stuttgart,Eintracht Frankfurt,1:1 ,1989/1990,1
+5,Olaf Thon,Zentrales Mittelfeld,FC Bayern München,Bodo Illgner,4:1,82',FC Bayern München,1.FC Köln,5:1 ,1989/1990,1
+6,Klaus Theiss,Libero,FC 08 Homburg,Oliver Reck,1:0,4',FC 08 Homburg,SV Werder Bremen,1:1 ,1989/1990,1
+6,Martin Kree,Innenverteidiger,Bayer 04 Leverkusen,Bodo Illgner,1:1,70',1.FC Köln,Bayer 04 Leverkusen,1:1 ,1989/1990,1
+7,Stefan Kuntz,Mittelstürmer,1.FC Kaiserslautern,Ulrich Stein,1:0,19',1.FC Kaiserslautern,Eintracht Frankfurt,2:1 ,1989/1990,1
+7,Petr Rada,Defensives Mittelfeld,Fortuna Düsseldorf,Eike Immel,2:0,45',Fortuna Düsseldorf,VfB Stuttgart,4:2 ,1989/1990,1
+8,Hans-Günter Bruns,Libero,Borussia Mönchengladbach,Jörg Schmadtke,1:0,39',Borussia Mönchengladbach,Fortuna Düsseldorf,3:1 ,1989/1990,1
+9,Stefan Kohn,Mittelstürmer,VfL Bochum,Sven Scheuer,3:1,70',FC Bayern München,VfL Bochum,5:1 ,1989/1990,1
+9,Dr. Reiner Wirsching,Mittelstürmer,1.FC Nürnberg,Alexander Famulla,2:0,75',1.FC Nürnberg,Karlsruher SC,2:0 ,1989/1990,1
+9,Uwe Fuchs,Mittelstürmer,Fortuna Düsseldorf,Manfred Kubik,2:0,78',Fortuna Düsseldorf,KFC Uerdingen 05,2:1 ,1989/1990,1
+1,Manfred Kaltz,Rechter Verteidiger,Hamburger SV,Roland Grüner,1:0,9',Hamburger SV,1.FC Kaiserslautern,3:2 ,1983/1984,1
+1,Horst Feilzer,Mittelfeld,KFC Uerdingen 05,Rudi Kargus,1:2,53',1.FC Nürnberg,KFC Uerdingen 05,2:4 ,1983/1984,1
+2,Andreas Brehme,Linker Verteidiger,1.FC Kaiserslautern,Helmut Roleder,1:0,4',1.FC Kaiserslautern,VfB Stuttgart,2:2 ,1983/1984,1
+2,Reiner Hollmann,Abwehr,Eintracht Braunschweig,Uwe Zimmermann,1:0,4',Eintracht Braunschweig,SV Waldhof Mannheim,3:2 ,1983/1984,1
+2,Lothar Matthäus,Defensives Mittelfeld,Borussia Mönchengladbach,Valentin Herr,4:2,68',Kickers Offenbach,Borussia Mönchengladbach,4:3 ,1983/1984,1
+2,Manfred Kaltz,Rechter Verteidiger,Hamburger SV,Eike Immel,0:2,85',Borussia Dortmund,Hamburger SV,1:2 ,1983/1984,1
+3,Friedhelm Funkel,Offensives Mittelfeld,KFC Uerdingen 05,Ulrich Stein,0:1,13',Hamburger SV,KFC Uerdingen 05,2:2 ,1983/1984,1
+3,Andreas Brehme,Linker Verteidiger,1.FC Kaiserslautern,Eike Immel,2:0,65',1.FC Kaiserslautern,Borussia Dortmund,2:2 ,1983/1984,1
+4,Frank Pagelsdorf,Mittelfeld,Arminia Bielefeld,Joachim Jüriens,2:0,15',Arminia Bielefeld,Eintracht Frankfurt,2:1 ,1983/1984,1
+5,Karl-Heinz Körbel,Innenverteidiger,Eintracht Frankfurt,Wolfgang Kleff,1:0,6',Eintracht Frankfurt,Fortuna Düsseldorf,3:0 ,1983/1984,1
+8,Jürgen Klinsmann,Mittelstürmer,VfB Stuttgart,Kurt Kowarz,3:0,73',VfB Stuttgart,1.FC Nürnberg,4:0 ,1988/1989,1
+9,Uwe Leifeld,Mittelstürmer,VfL Bochum,Eike Immel,1:0,39',VfL Bochum,VfB Stuttgart,1:0 ,1988/1989,1
+10,Dieter Finke,Innenverteidiger,SV Waldhof Mannheim,Alexander Famulla,0:1,6',Karlsruher SC,SV Waldhof Mannheim,2:1 ,1988/1989,1
+10,Wolfgang Trapp,Defensives Mittelfeld,Karlsruher SC,Uwe Zimmermann,1:1,36',Karlsruher SC,SV Waldhof Mannheim,2:1 ,1988/1989,1
+12,Michael Kutzop,Abwehr,SV Werder Bremen,Manfred Kubik,1:0,9',SV Werder Bremen,KFC Uerdingen 05,3:1 ,1988/1989,1
+12,Karl Allgöwer,Zentrales Mittelfeld,VfB Stuttgart,Uwe Zimmermann,1:0,57',VfB Stuttgart,SV Waldhof Mannheim,2:0 ,1988/1989,1
+13,Uwe Leifeld,Mittelstürmer,VfL Bochum,Uwe Kamps,1:0,20',VfL Bochum,Borussia Mönchengladbach,1:2 ,1988/1989,1
+13,Karl Allgöwer,Zentrales Mittelfeld,VfB Stuttgart,Heinz-Josef Koitka,1:0,44',VfB Stuttgart,Hamburger SV,4:2 ,1988/1989,1
+13,Michael Harforth,Offensives Mittelfeld,Karlsruher SC,Gerry Ehrmann,2:1,44',Karlsruher SC,1.FC Kaiserslautern,4:1 ,1988/1989,1
+14,Michael Zorc,Defensives Mittelfeld,Borussia Dortmund,Andreas Köpke,4:0,68',Borussia Dortmund,1.FC Nürnberg,4:0 ,1988/1989,1
+10,Hasan Salihamidzic,Rechtes Mittelfeld,FC Bayern München,Georg Koch,3:0,29',FC Bayern München,1.FC Kaiserslautern,4:1 ,2001/2002,1
+10,Harry Koch,Innenverteidiger,1.FC Kaiserslautern,Oliver Kahn,3:1,82',FC Bayern München,1.FC Kaiserslautern,4:1 ,2001/2002,1
+11,Markus Münch,Linker Verteidiger,Borussia Mönchengladbach,Richard Golz,1:1,10',Borussia Mönchengladbach,SC Freiburg,2:2 ,2001/2002,1
+11,Oliver Neuville,Mittelstürmer,Bayer 04 Leverkusen,Simon Jentzsch,1:4,90',TSV 1860 München,Bayer 04 Leverkusen,1:4 ,2001/2002,1
+12,Michael Ballack,Zentrales Mittelfeld,Bayer 04 Leverkusen,Georg Koch,2:1,50',Bayer 04 Leverkusen,1.FC Kaiserslautern,2:1 ,2001/2002,1
+13,Viktor Skrypnyk,Linker Verteidiger,SV Werder Bremen,Oliver Kahn,1:0,42',SV Werder Bremen,FC Bayern München,1:0 ,2001/2002,1
+13,Márcio Amoroso,Mittelstürmer,Borussia Dortmund,Simon Jentzsch,1:3,81',TSV 1860 München,Borussia Dortmund,1:3 ,2001/2002,1
+14,Viktor Skrypnyk,Linker Verteidiger,SV Werder Bremen,Oliver Reck,0:4,51',FC Schalke 04,SV Werder Bremen,1:4 ,2001/2002,1
+14,René Rydlewicz,Rechtes Mittelfeld,FC Hansa Rostock,Christian Fiedler,1:0,67',FC Hansa Rostock,Hertha BSC,1:1 ,2001/2002,1
+14,Márcio Amoroso,Mittelstürmer,Borussia Dortmund,Georg Koch,2:0,86',Borussia Dortmund,1.FC Kaiserslautern,3:0 ,2001/2002,1
+6,Jörg Neun,Linker Verteidiger,MSV Duisburg,Richard Golz,1:1,49',SC Freiburg,MSV Duisburg,2:2 ,1998/1999,1
+6,Thomas Häßler,Offensives Mittelfeld,Borussia Dortmund,Claus Reitmaier,2:1,66',Borussia Dortmund,VfL Wolfsburg,2:1 ,1998/1999,1
+8,Sasa Ciric,Mittelstürmer,1.FC Nürnberg,Robert Enke,0:1,10',Borussia Mönchengladbach,1.FC Nürnberg,0:2 ,1998/1999,1
+8,Sergey Kiryakov,Mittelstürmer,Hamburger SV,Thomas Gill,4:0,80',Hamburger SV,MSV Duisburg,4:1 ,1998/1999,1
+9,Ulf Kirsten,Mittelstürmer,Bayer 04 Leverkusen,Michael Hofmann,1:0,7',Bayer 04 Leverkusen,TSV 1860 München,1:1 ,1998/1999,1
+10,Ulf Kirsten,Mittelstürmer,Bayer 04 Leverkusen,Robert Enke,0:4,39',Borussia Mönchengladbach,Bayer 04 Leverkusen,2:8 ,1998/1999,1
+10,Olaf Marschall,Mittelstürmer,1.FC Kaiserslautern,Martin Pieckenhagen,1:2,50',1.FC Kaiserslautern,FC Hansa Rostock,3:2 ,1998/1999,1
+10,Marijan Kovacevic,Innenverteidiger,VfL Wolfsburg,Michael Hofmann,1:3,87',TSV 1860 München,VfL Wolfsburg,2:3 ,1998/1999,1
+12,Stefan Effenberg,Zentrales Mittelfeld,FC Bayern München,Robert Enke,0:2,27',Borussia Mönchengladbach,FC Bayern München,0:2 ,1998/1999,1
+12,Bernhard Winkler,Mittelstürmer,TSV 1860 München,Martin Pieckenhagen,1:0,34',TSV 1860 München,FC Hansa Rostock,2:1 ,1998/1999,1
+1,Rüdiger Wenzel,Mittelstürmer,Fortuna Düsseldorf,Ralf Zumdick,0:0,40',Fortuna Düsseldorf,VfL Bochum,2:0 ,1982/1983,1
+1,Rüdiger Wenzel,Mittelstürmer,Fortuna Düsseldorf,Ralf Zumdick,0:0,73',Fortuna Düsseldorf,VfL Bochum,2:0 ,1982/1983,1
+2,Thomas Remark,Mittelstürmer,Hertha BSC,Eike Immel,1:2,63',Hertha BSC,Borussia Dortmund,1:3 ,1982/1983,1
+2,Paul Breitner,Zentrales Mittelfeld,FC Bayern München,Wolfgang Kleff,1:0,74',FC Bayern München,Fortuna Düsseldorf,1:0 ,1982/1983,1
+4,Wilfried Hannes,Innenverteidiger,Borussia Mönchengladbach,Wolfgang Kleff,2:0,37',Borussia Mönchengladbach,Fortuna Düsseldorf,5:0 ,1982/1983,1
+4,Uwe Reinders,Mittelstürmer,SV Werder Bremen,Helmut Roleder,3:1,74',VfB Stuttgart,SV Werder Bremen,4:1 ,1982/1983,1
+5,Frank Pagelsdorf,Mittelfeld,Arminia Bielefeld,Jean-Marie Pfaff,1:2,39',Arminia Bielefeld,FC Bayern München,2:4 ,1982/1983,1
+6,Wilfried Hannes,Innenverteidiger,Borussia Mönchengladbach,Uwe Greiner,3:1,35',Borussia Mönchengladbach,Bayer 04 Leverkusen,3:1 ,1982/1983,1
+6,Thomas Remark,Mittelstürmer,Hertha BSC,Wolfgang Kleff,1:1,58',Hertha BSC,Fortuna Düsseldorf,1:1 ,1982/1983,1
+7,Wilfried Hannes,Innenverteidiger,Borussia Mönchengladbach,Olli Isoaho,3:2,73',Arminia Bielefeld,Borussia Mönchengladbach,4:2 ,1982/1983,1
+4,Dieter Brefort,Mittelfeld,Blau-Weiß 90 Berlin,Eike Immel,1:1,57',VfB Stuttgart,Blau-Weiß 90 Berlin,1:1 ,1986/1987,1
+4,Christian Schreier,Offensives Mittelfeld,Bayer 04 Leverkusen,Toni Schumacher,1:4,90',1.FC Köln,Bayer 04 Leverkusen,1:4 ,1986/1987,1
+5,Michael Kutzop,Abwehr,SV Werder Bremen,Holger Gehrke,0:2,25',Blau-Weiß 90 Berlin,SV Werder Bremen,1:4 ,1986/1987,1
+5,Dieter Brefort,Mittelfeld,Blau-Weiß 90 Berlin,Dieter Burdenski,1:2,27',Blau-Weiß 90 Berlin,SV Werder Bremen,1:4 ,1986/1987,1
+5,Michael Lameck,Defensives Mittelfeld,VfL Bochum,Uwe Kamps,1:0,35',VfL Bochum,Borussia Mönchengladbach,1:1 ,1986/1987,1
+5,Andreas Möller,Offensives Mittelfeld,Eintracht Frankfurt,Gerry Ehrmann,1:2,44',Eintracht Frankfurt,1.FC Kaiserslautern,2:2 ,1986/1987,1
+5,Roman Wojcicki,Libero,FC 08 Homburg,Jörg Schmadtke,1:1,71',FC 08 Homburg,Fortuna Düsseldorf,3:1 ,1986/1987,1
+6,Stefan Kuntz,Mittelstürmer,KFC Uerdingen 05,Jörg Schmadtke,0:1,28',Fortuna Düsseldorf,KFC Uerdingen 05,1:1 ,1986/1987,1
+6,Dieter Eckstein,Mittelstürmer,1.FC Nürnberg,Uwe Zimmermann,1:0,29',1.FC Nürnberg,SV Waldhof Mannheim,1:1 ,1986/1987,1
+6,Uwe Rahn,Mittelstürmer,Borussia Mönchengladbach,Hans-Jürgen Gundelach,1:0,61',Borussia Mönchengladbach,Eintracht Frankfurt,1:1 ,1986/1987,1
+5,Josef Weikl,Mittelfeld,Fortuna Düsseldorf,Eike Immel,3:2,54',Fortuna Düsseldorf,Borussia Dortmund,4:2 ,1985/1986,1
+5,Roland Grahammer,Rechter Verteidiger,1.FC Nürnberg,Rüdiger Vollborn,3:1,58',1.FC Nürnberg,Bayer 04 Leverkusen,3:2 ,1985/1986,1
+5,Christian Schreier,Offensives Mittelfeld,Bayer 04 Leverkusen,Roland Grüner,3:2,67',1.FC Nürnberg,Bayer 04 Leverkusen,3:2 ,1985/1986,1
+5,Lothar Matthäus,Defensives Mittelfeld,FC Bayern München,Carsten Hallmann,1:1,76',1.FC Saarbrücken,FC Bayern München,1:1 ,1985/1986,1
+5,Ásgeir Sigurvinsson,Offensives Mittelfeld,VfB Stuttgart,Ralf Raps,1:3,81',Hannover 96,VfB Stuttgart,1:3 ,1985/1986,1
+6,Stefan Jambo,Offensives Mittelfeld,1.FC Saarbrücken,Helmut Roleder,1:1,23',VfB Stuttgart,1.FC Saarbrücken,3:1 ,1985/1986,1
+6,Klaus Theiss,Libero,Eintracht Frankfurt,Werner Vollack,1:1,43',Eintracht Frankfurt,KFC Uerdingen 05,1:1 ,1985/1986,1
+6,Klaus Täuber,Mittelstürmer,FC Schalke 04,Ralf Raps,1:1,53',FC Schalke 04,Hannover 96,2:2 ,1985/1986,1
+6,Norbert Eilenfeldt,Mittelfeld,1.FC Kaiserslautern,Wolfgang Kleff,2:0,57',1.FC Kaiserslautern,VfL Bochum,2:0 ,1985/1986,1
+6,Uwe Rahn,Mittelstürmer,Borussia Mönchengladbach,Toni Schumacher,1:1,67',Borussia Mönchengladbach,1.FC Köln,1:1 ,1985/1986,1
+9,Salomon Kalou,Linksaußen,Hertha BSC,Alexander Schwolow,1:1,81',SC Freiburg,Hertha BSC,1:1 ,2017/2018,1
+10,Jonathas,Mittelstürmer,Hannover 96,Roman Bürki,1:0,20',Hannover 96,Borussia Dortmund,4:2 ,2017/2018,1
+10,Nabil Bentaleb,Zentrales Mittelfeld,FC Schalke 04,Koen Casteels,1:0,43',FC Schalke 04,VfL Wolfsburg,1:1 ,2017/2018,1
+10,Alfred Finnbogason,Mittelstürmer,FC Augsburg,Jiri Pavlenka,0:2,45',SV Werder Bremen,FC Augsburg,0:3 ,2017/2018,1
+11,Daniel Ginczek,Mittelstürmer,VfB Stuttgart,Christian Mathenia,1:1,55',Hamburger SV,VfB Stuttgart,3:1 ,2017/2018,1
+11,Sandro Wagner,Mittelstürmer,TSG 1899 Hoffenheim,Timo Horn,0:2,56',1.FC Köln,TSG 1899 Hoffenheim,0:3 ,2017/2018,1
+12,Timo Werner,Mittelstürmer,RasenBallsport Leipzig,Bernd Leno,0:1,13',Bayer 04 Leverkusen,RasenBallsport Leipzig,2:2 ,2017/2018,1
+12,Thorgan Hazard,Linksaußen,Borussia Mönchengladbach,Rune Jarstein,0:2,14',Hertha BSC,Borussia Mönchengladbach,2:4 ,2017/2018,1
+12,Franco Di Santo,Mittelstürmer,FC Schalke 04,Christian Mathenia,1:0,17',FC Schalke 04,Hamburger SV,2:0 ,2017/2018,1
+12,Daniel Brosinski,Rechter Verteidiger,1.FSV Mainz 05,Timo Horn,1:0,44',1.FSV Mainz 05,1.FC Köln,1:0 ,2017/2018,1
+4,Pierre-Emerick Aubameyang,Mittelstürmer,Borussia Dortmund,Ron-Robert Zieler,1:1,35',Hannover 96,Borussia Dortmund,2:4 ,2015/2016,1
+4,Pierre-Emerick Aubameyang,Mittelstürmer,Borussia Dortmund,Ron-Robert Zieler,2:4,85',Hannover 96,Borussia Dortmund,2:4 ,2015/2016,1
+4,Thomas Müller,Hängende Spitze,FC Bayern München,Marwin Hitz,2:1,90',FC Bayern München,FC Augsburg,2:1 ,2015/2016,1
+5,Paul Verhaegh,Rechter Verteidiger,FC Augsburg,Ron-Robert Zieler,2:0,32',FC Augsburg,Hannover 96,2:0 ,2015/2016,1
+5,Pierre-Emerick Aubameyang,Mittelstürmer,Borussia Dortmund,Bernd Leno,3:0,74',Borussia Dortmund,Bayer 04 Leverkusen,3:0 ,2015/2016,1
+5,Bas Dost,Mittelstürmer,VfL Wolfsburg,Thomas Kraft,2:0,88',VfL Wolfsburg,Hertha BSC,2:0 ,2015/2016,1
+5,Moritz Hartmann,Mittelstürmer,FC Ingolstadt 04,Felix Wiedwald,0:1,90',SV Werder Bremen,FC Ingolstadt 04,0:1 ,2015/2016,1
+6,Sandro Wagner,Mittelstürmer,SV Darmstadt 98,Felix Wiedwald,1:1,31',SV Darmstadt 98,SV Werder Bremen,2:1 ,2015/2016,1
+6,Paul Verhaegh,Rechter Verteidiger,FC Augsburg,Yann Sommer,4:1,52',Borussia Mönchengladbach,FC Augsburg,4:2 ,2015/2016,1
+6,Paul Verhaegh,Rechter Verteidiger,FC Augsburg,Yann Sommer,4:2,75',Borussia Mönchengladbach,FC Augsburg,4:2 ,2015/2016,1
+10,Alex Frei,Mittelstürmer,Borussia Dortmund,Mathias Hain,1:1,90',Borussia Dortmund,Arminia Bielefeld,1:1 ,2006/2007,1
+11,Mike Hanke,Mittelstürmer,VfL Wolfsburg,Dimo Wache,0:1,4',1.FSV Mainz 05,VfL Wolfsburg,1:2 ,2006/2007,1
+11,Ivica Banovic,Defensives Mittelfeld,1.FC Nürnberg,Tim Wiese,1:2,90',1.FC Nürnberg,SV Werder Bremen,1:2 ,2006/2007,1
+12,Marc-André Kruska,Zentrales Mittelfeld,Borussia Dortmund,Tim Wiese,1:3,85',SV Werder Bremen,Borussia Dortmund,1:3 ,2006/2007,1
+13,Alex Frei,Mittelstürmer,Borussia Dortmund,Christian Fiedler,1:2,23',Borussia Dortmund,Hertha BSC,1:2 ,2006/2007,1
+13,Zvjezdan Misimovic,Offensives Mittelfeld,VfL Bochum,Oka Nikolov,1:2,29',VfL Bochum,Eintracht Frankfurt,4:3 ,2006/2007,1
+14,Rafael van der Vaart,Offensives Mittelfeld,Hamburger SV,Oliver Kahn,1:0,18',Hamburger SV,FC Bayern München,1:2 ,2006/2007,1
+15,Diego,Offensives Mittelfeld,SV Werder Bremen,Christian Fiedler,1:0,24',SV Werder Bremen,Hertha BSC,3:1 ,2006/2007,1
+17,Laurentiu Reghecampf,Rechtes Mittelfeld,Alemannia Aachen,Stefan Wächter,1:1,63',Alemannia Aachen,Hamburger SV,3:3 ,2006/2007,1
+17,Jaouhar Mnari,Defensives Mittelfeld,1.FC Nürnberg,Robert Enke,3:1,90',1.FC Nürnberg,Hannover 96,3:1 ,2006/2007,1
+1,Christian Sackewitz,Linksaußen,Arminia Bielefeld,Toni Schumacher,1:1,22',Arminia Bielefeld,1.FC Köln,2:5 ,1980/1981,1
+2,Georg Volkert,Linksaußen,1.FC Nürnberg,Heinz-Josef Koitka,1:1,34',1.FC Nürnberg,Hamburger SV,2:3 ,1980/1981,1
+2,Paul Breitner,Zentrales Mittelfeld,FC Bayern München,Eike Immel,1:0,42',FC Bayern München,Borussia Dortmund,5:3 ,1980/1981,1
+3,Georg Volkert,Linksaußen,1.FC Nürnberg,Thomas Zander,0:2,22',TSV 1860 München,1.FC Nürnberg,2:4 ,1980/1981,1
+3,Dietmar Demuth,Abwehr,Bayer 04 Leverkusen,Jürgen Pahl,3:1,84',Bayer 04 Leverkusen,Eintracht Frankfurt,3:2 ,1980/1981,1
+4,Manfred Kaltz,Rechter Verteidiger,Hamburger SV,Toni Schumacher,0:1,43',1.FC Köln,Hamburger SV,0:3 ,1980/1981,1
+5,Manfred Kaltz,Rechter Verteidiger,Hamburger SV,Jürgen Pahl,1:0,17',Hamburger SV,Eintracht Frankfurt,3:1 ,1980/1981,1
+5,Wilfried Hannes,Innenverteidiger,Borussia Mönchengladbach,Helmut Roleder,2:1,38',VfB Stuttgart,Borussia Mönchengladbach,4:2 ,1980/1981,1
+7,Hans-Joachim Abel,Mittelstürmer,VfL Bochum,Klaus Funk,0:0,57',VfL Bochum,Eintracht Frankfurt,2:0 ,1980/1981,1
+7,Friedhelm Funkel,Offensives Mittelfeld,1.FC Kaiserslautern,Bernhard Hartmann,0:4,88',1.FC Nürnberg,1.FC Kaiserslautern,0:4 ,1980/1981,1
+14,Frank Ordenewitz,Mittelstürmer,SV Werder Bremen,Ralf Zumdick,2:0,77',SV Werder Bremen,VfL Bochum,2:0 ,1988/1989,1
+16,Hans-Georg Dreßen,Mittelfeld,Borussia Mönchengladbach,Eike Immel,2:0,54',Borussia Mönchengladbach,VfB Stuttgart,2:2 ,1988/1989,1
+19,Siegfried Reich,Mittelstürmer,Hannover 96,Eike Immel,2:0,73',Hannover 96,VfB Stuttgart,2:0 ,1988/1989,1
+19,Martin Wagner,Linkes Mittelfeld,1.FC Nürnberg,Bodo Illgner,1:1,90',1.FC Köln,1.FC Nürnberg,1:1 ,1988/1989,1
+20,Dirk Bakalorz,Zentrales Mittelfeld,Eintracht Frankfurt,Volker Ippig,1:0,36',Eintracht Frankfurt,FC St. Pauli,1:1 ,1988/1989,1
+20,Egon Flad,Mittelfeld,FC St. Pauli,Ulrich Stein,1:1,79',Eintracht Frankfurt,FC St. Pauli,1:1 ,1988/1989,1
+22,Manfred Burgsmüller,Mittelstürmer,SV Werder Bremen,Uwe Zimmermann,1:0,28',SV Werder Bremen,SV Waldhof Mannheim,2:1 ,1988/1989,1
+22,Martin Kree,Innenverteidiger,VfL Bochum,Andreas Köpke,1:0,67',VfL Bochum,1.FC Nürnberg,1:0 ,1988/1989,1
+24,Pierre Littbarski,Offensives Mittelfeld,1.FC Köln,Richard Golz,0:1,67',Hamburger SV,1.FC Köln,0:1 ,1988/1989,1
+24,Wolfgang Rolff,Zentrales Mittelfeld,Bayer 04 Leverkusen,Kari Laukkanen,1:3,78',Bayer 04 Leverkusen,Stuttgarter Kickers,1:3 ,1988/1989,1
+7,Rouwen Hennings,Mittelstürmer,Fortuna Düsseldorf,Rune Jarstein,0:1,32',Hertha BSC,Fortuna Düsseldorf,3:1 ,2019/2020,1
+7,Daniel Brosinski,Rechter Verteidiger,1.FSV Mainz 05,Leopold Zingerle,1:2,32',SC Paderborn 07,1.FSV Mainz 05,1:2 ,2019/2020,1
+7,Milot Rashica,Linksaußen,SV Werder Bremen,Frederik Rönnow,2:2,90',Eintracht Frankfurt,SV Werder Bremen,2:2 ,2019/2020,1
+8,Gonçalo Paciência,Mittelstürmer,Eintracht Frankfurt,Lukas Hradecky,2:0,16',Eintracht Frankfurt,Bayer 04 Leverkusen,3:0 ,2019/2020,1
+9,Sebastian Polter,Mittelstürmer,1.FC Union Berlin,Manuel Neuer,2:1,86',FC Bayern München,1.FC Union Berlin,2:1 ,2019/2020,1
+10,Rouwen Hennings,Mittelstürmer,Fortuna Düsseldorf,Timo Horn,1:0,38',Fortuna Düsseldorf,1.FC Köln,2:0 ,2019/2020,1
+10,Alfred Finnbogason,Mittelstürmer,FC Augsburg,Alexander Nübel,2:1,60',FC Augsburg,FC Schalke 04,2:3 ,2019/2020,1
+10,Mario Götze,Offensives Mittelfeld,Borussia Dortmund,Pavao Pervan,3:0,88',Borussia Dortmund,VfL Wolfsburg,3:0 ,2019/2020,1
+10,Sebastian Polter,Mittelstürmer,1.FC Union Berlin,Rune Jarstein,1:0,90',1.FC Union Berlin,Hertha BSC,1:0 ,2019/2020,1
+11,Timo Werner,Mittelstürmer,RasenBallsport Leipzig,Rune Jarstein,1:1,38',Hertha BSC,RasenBallsport Leipzig,2:4 ,2019/2020,1
+1,Manfred Kaltz,Rechter Verteidiger,Hamburger SV,Wolfgang Kneib,3:0,22',Hamburger SV,Borussia Mönchengladbach,3:0 ,1978/1979,1
+1,Jürgen Röber,Rechtes Mittelfeld,SV Werder Bremen,Wilfried Woyke,3:1,78',Fortuna Düsseldorf,SV Werder Bremen,3:1 ,1978/1979,1
+2,Georg Volkert,Linksaußen,VfB Stuttgart,Manfred Müller,2:0,37',VfB Stuttgart,1.FC Nürnberg,4:0 ,1978/1979,1
+3,Horst Weyerich,Libero,1.FC Nürnberg,Norbert Nigbur,2:0,75',1.FC Nürnberg,Hertha BSC,2:1 ,1978/1979,1
+3,Holger Brück,Libero,Hertha BSC,Manfred Müller,2:1,87',1.FC Nürnberg,Hertha BSC,2:1 ,1978/1979,1
+4,Jürgen Kalb,Innenverteidiger,SV Darmstadt 98,Ronnie Hellström,2:2,80',SV Darmstadt 98,1.FC Kaiserslautern,2:2 ,1978/1979,1
+5,Holger Brück,Libero,Hertha BSC,Rudi Kargus,2:1,52',Hamburger SV,Hertha BSC,4:1 ,1978/1979,1
+5,Bernd Martin,Mittelstürmer,VfB Stuttgart,Eike Immel,3:3,81',Borussia Dortmund,VfB Stuttgart,4:3 ,1978/1979,1
+7,Werner Lorant,Defensives Mittelfeld,Eintracht Frankfurt,Reinhard Mager,0:0,22',Eintracht Frankfurt,VfL Bochum,4:2 ,1978/1979,1
+7,Werner Lorant,Defensives Mittelfeld,Eintracht Frankfurt,Reinhard Mager,0:0,61',Eintracht Frankfurt,VfL Bochum,4:2 ,1978/1979,1
+8,Frank Pagelsdorf,Mittelfeld,Arminia Bielefeld,Helmut Roleder,1:1,17',VfB Stuttgart,Arminia Bielefeld,2:2 ,1982/1983,1
+8,Wilfried Hannes,Innenverteidiger,Borussia Mönchengladbach,Jürgen Pahl,1:1,51',Borussia Mönchengladbach,Eintracht Frankfurt,3:1 ,1982/1983,1
+8,Stephan Engels,Defensives Mittelfeld,1.FC Köln,Rudolf Wimmer,4:1,79',1.FC Köln,Karlsruher SC,4:1 ,1982/1983,1
+9,Karl-Heinz Körbel,Innenverteidiger,Eintracht Frankfurt,Helmut Roleder,1:0,21',Eintracht Frankfurt,VfB Stuttgart,3:0 ,1982/1983,1
+9,Paul Breitner,Zentrales Mittelfeld,FC Bayern München,Ulrich Stein,1:2,49',FC Bayern München,Hamburger SV,2:2 ,1982/1983,1
+9,Reiner Hollmann,Abwehr,Eintracht Braunschweig,Rudi Kargus,2:1,53',Eintracht Braunschweig,1.FC Nürnberg,2:2 ,1982/1983,1
+9,Karl-Heinz Körbel,Innenverteidiger,Eintracht Frankfurt,Helmut Roleder,3:0,74',Eintracht Frankfurt,VfB Stuttgart,3:0 ,1982/1983,1
+10,Lothar Woelk,Libero,VfL Bochum,Helmut Roleder,3:1,58',VfB Stuttgart,VfL Bochum,5:2 ,1982/1983,1
+10,Manfred Kaltz,Rechter Verteidiger,Hamburger SV,Bernd Franke,3:0,71',Hamburger SV,Eintracht Braunschweig,4:0 ,1982/1983,1
+10,Horst Weyerich,Libero,1.FC Nürnberg,Dieter Burdenski,2:0,75',1.FC Nürnberg,SV Werder Bremen,2:0 ,1982/1983,1
+1,Andreas Brehme,Linker Verteidiger,1.FC Kaiserslautern,Helmut Roleder,2:0,19',1.FC Kaiserslautern,VfB Stuttgart,2:1 ,1984/1985,1
+1,Helmut Winklhofer,Rechter Verteidiger,Bayer 04 Leverkusen,Uwe Greiner,2:1,24',Bayer 04 Leverkusen,Fortuna Düsseldorf,4:3 ,1984/1985,1
+1,Peter Lux,Mittelfeld,Eintracht Braunschweig,Toni Schumacher,1:1,45',Eintracht Braunschweig,1.FC Köln,1:3 ,1984/1985,1
+1,Klaus Allofs,Mittelstürmer,1.FC Köln,Bernd Franke,1:2,49',Eintracht Braunschweig,1.FC Köln,1:3 ,1984/1985,1
+1,Frank Mill,Mittelstürmer,Borussia Mönchengladbach,Walter Junghans,3:1,57',Borussia Mönchengladbach,FC Schalke 04,3:1 ,1984/1985,1
+1,Michael Zorc,Defensives Mittelfeld,Borussia Dortmund,Ulrich Stein,1:1,73',Borussia Dortmund,Hamburger SV,1:2 ,1984/1985,1
+1,Ásgeir Sigurvinsson,Offensives Mittelfeld,VfB Stuttgart,Gerry Ehrmann,2:1,80',1.FC Kaiserslautern,VfB Stuttgart,2:1 ,1984/1985,1
+2,Michael Zorc,Defensives Mittelfeld,Borussia Dortmund,Werner Vollack,0:1,7',KFC Uerdingen 05,Borussia Dortmund,2:1 ,1984/1985,1
+2,Manfred Kaltz,Rechter Verteidiger,Hamburger SV,Ulrich Sude,1:1,86',Hamburger SV,Borussia Mönchengladbach,1:1 ,1984/1985,1
+3,Günter Sebert,Libero,SV Waldhof Mannheim,Bernd Franke,0:1,2',Eintracht Braunschweig,SV Waldhof Mannheim,0:1 ,1984/1985,1
+7,Karl Allgöwer,Zentrales Mittelfeld,VfB Stuttgart,Jörg Schmadtke,2:0,42',VfB Stuttgart,Fortuna Düsseldorf,3:0 ,1986/1987,1
+7,Karl Allgöwer,Zentrales Mittelfeld,VfB Stuttgart,Jörg Schmadtke,3:0,80',VfB Stuttgart,Fortuna Düsseldorf,3:0 ,1986/1987,1
+9,Holger Fach,Libero,Fortuna Düsseldorf,Wolfgang de Beer,1:1,30',Borussia Dortmund,Fortuna Düsseldorf,4:1 ,1986/1987,1
+9,Michael Lameck,Defensives Mittelfeld,VfL Bochum,Jean-Marie Pfaff,2:1,44',FC Bayern München,VfL Bochum,3:2 ,1986/1987,1
+9,Herbert Waas,Mittelstürmer,Bayer 04 Leverkusen,Dieter Burdenski,3:1,63',Bayer 04 Leverkusen,SV Werder Bremen,4:1 ,1986/1987,1
+10,Stephan Engels,Defensives Mittelfeld,1.FC Köln,Wolfgang de Beer,1:0,8',1.FC Köln,Borussia Dortmund,2:0 ,1986/1987,1
+10,Christian Schreier,Offensives Mittelfeld,Bayer 04 Leverkusen,Ralf Zumdick,2:1,46',VfL Bochum,Bayer 04 Leverkusen,2:1 ,1986/1987,1
+10,Michael Kutzop,Abwehr,SV Werder Bremen,Uwe Zimmermann,4:2,86',SV Werder Bremen,SV Waldhof Mannheim,4:2 ,1986/1987,1
+11,Michael Kutzop,Abwehr,SV Werder Bremen,Klaus Scherer,0:1,45',FC 08 Homburg,SV Werder Bremen,0:1 ,1986/1987,1
+11,Wolfram Wuttke,Hängende Spitze,1.FC Kaiserslautern,Eike Immel,1:1,84',VfB Stuttgart,1.FC Kaiserslautern,1:1 ,1986/1987,1
+1,Harald Konopka,Libero,1.FC Köln,Thomas Zander,1:1,40',Hertha BSC,1.FC Köln,2:1 ,1975/1976,1
+1,Johannes Riedl,Sturm,1.FC Kaiserslautern,Bernd Helmschrot,1:0,51',1.FC Kaiserslautern,Kickers Offenbach,2:2 ,1975/1976,1
+1,Erich Beer,Offensives Mittelfeld,Hertha BSC,Toni Schumacher,2:1,65',Hertha BSC,1.FC Köln,2:1 ,1975/1976,1
+3,Bernard Dietz,Libero,MSV Duisburg,Bernd Helmschrot,2:1,31',MSV Duisburg,Kickers Offenbach,6:2 ,1975/1976,1
+3,Ernst Diehl,Libero,1.FC Kaiserslautern,Franz-Josef Pauly,2:1,80',1.FC Kaiserslautern,Hannover 96,2:2 ,1975/1976,1
+4,Horst-Dieter Höttges,Libero,SV Werder Bremen,Horst Wolter,3:1,53',SV Werder Bremen,Hertha BSC,3:2 ,1975/1976,1
+4,Michael Lameck,Defensives Mittelfeld,VfL Bochum,Norbert Nigbur,0:0,55',FC Schalke 04,VfL Bochum,1:1 ,1975/1976,1
+5,Erich Beer,Offensives Mittelfeld,Hertha BSC,Manfred Kroke,2:0,38',Hertha BSC,KFC Uerdingen 05,5:0 ,1975/1976,1
+5,Josef Hickersberger,Offensives Mittelfeld,Kickers Offenbach,Werner Scholz,0:0,40',VfL Bochum,Kickers Offenbach,5:1 ,1975/1976,1
+5,Erich Beer,Offensives Mittelfeld,Hertha BSC,Manfred Kroke,3:0,42',Hertha BSC,KFC Uerdingen 05,5:0 ,1975/1976,1
+1,Willi Neuberger,Linkes Mittelfeld,Wuppertaler SV,Dietmar Linders,0:0,35',Wuppertaler SV,MSV Duisburg,1:4 ,1974/1975,1
+1,Rainer Geye,Mittelstürmer,Fortuna Düsseldorf,Thomas Zander,1:2,45',Hertha BSC,Fortuna Düsseldorf,3:3 ,1974/1975,1
+1,Klaus Fischer,Mittelstürmer,FC Schalke 04,Ronnie Hellström,2:1,50',FC Schalke 04,1.FC Kaiserslautern,2:1 ,1974/1975,1
+1,Hans-Joachim Weller,Zentrales Mittelfeld,VfB Stuttgart,Werner Scholz,0:0,76',VfB Stuttgart,VfL Bochum,1:0 ,1974/1975,1
+1,Dieter Herzog,Linksaußen,Fortuna Düsseldorf,Thomas Zander,2:3,86',Hertha BSC,Fortuna Düsseldorf,3:3 ,1974/1975,1
+1,Ludwig Müller,Libero,Hertha BSC,Wilfried Woyke,3:3,90',Hertha BSC,Fortuna Düsseldorf,3:3 ,1974/1975,1
+2,Werner Balte,Offensives Mittelfeld,VfL Bochum,Toni Schumacher,1:1,24',VfL Bochum,1.FC Köln,3:2 ,1974/1975,1
+2,Rainer Geye,Mittelstürmer,Fortuna Düsseldorf,Gerhard Heinze,2:0,54',Fortuna Düsseldorf,VfB Stuttgart,4:0 ,1974/1975,1
+3,Rainer Bonhof,Defensives Mittelfeld,Borussia Mönchengladbach,Hubert Birkenmeier,1:1,36',Borussia Mönchengladbach,Tennis Borussia Berlin,3:1 ,1974/1975,1
+3,Rainer Geye,Mittelstürmer,Fortuna Düsseldorf,Toni Schumacher,2:2,68',1.FC Köln,Fortuna Düsseldorf,2:2 ,1974/1975,1
+18,Laurentiu Reghecampf,Rechtes Mittelfeld,Alemannia Aachen,Hans Jörg Butt,1:0,10',Alemannia Aachen,Bayer 04 Leverkusen,2:3 ,2006/2007,1
+18,Marko Pantelic,Mittelstürmer,Hertha BSC,Simon Jentzsch,2:1,86',Hertha BSC,VfL Wolfsburg,2:1 ,2006/2007,1
+19,Juan Pablo Sorín,Linker Verteidiger,Hamburger SV,Tomislav Piplica,1:0,4',Hamburger SV,FC Energie Cottbus,1:1 ,2006/2007,1
+19,Rafinha,Rechter Verteidiger,FC Schalke 04,Stephan Straub,1:1,23',FC Schalke 04,Alemannia Aachen,2:1 ,2006/2007,1
+19,Leon Andreasen,Zentrales Mittelfeld,1.FSV Mainz 05,Roman Weidenfeller,1:0,61',1.FSV Mainz 05,Borussia Dortmund,1:0 ,2006/2007,1
+19,Abdelaziz Ahanfouf,Mittelstürmer,Arminia Bielefeld,Timo Hildebrand,3:2,87',VfB Stuttgart,Arminia Bielefeld,3:2 ,2006/2007,1
+20,Laurentiu Reghecampf,Rechtes Mittelfeld,Alemannia Aachen,Robert Enke,1:2,26',Alemannia Aachen,Hannover 96,1:4 ,2006/2007,1
+20,Szabolcs Huszti,Zentrales Mittelfeld,Hannover 96,Stephan Straub,1:3,31',Alemannia Aachen,Hannover 96,1:4 ,2006/2007,1
+21,Rafael van der Vaart,Offensives Mittelfeld,Hamburger SV,Roman Weidenfeller,1:0,11',Hamburger SV,Borussia Dortmund,3:0 ,2006/2007,1
+21,Mohamed Zidan,Hängende Spitze,1.FSV Mainz 05,Tomislav Piplica,3:1,39',1.FSV Mainz 05,FC Energie Cottbus,4:1 ,2006/2007,1
+1,Werner Balte,Offensives Mittelfeld,VfL Bochum,Manfred Müller,2:0,24',VfL Bochum,Wuppertaler SV,2:1 ,1973/1974,1
+1,Dietmar Danner,Linkes Mittelfeld,Borussia Mönchengladbach,Wolfgang Fahrian,2:0,37',Borussia Mönchengladbach,SC Fortuna Köln,3:1 ,1973/1974,1
+1,Hannes Löhr,Linksaußen,1.FC Köln,Dr. Peter Kunter,1:0,68',1.FC Köln,Eintracht Frankfurt,1:1 ,1973/1974,1
+2,Jupp Heynckes,Mittelstürmer,Borussia Mönchengladbach,Fritz Stefens,2:3,48',Rot-Weiss Essen,Borussia Mönchengladbach,2:6 ,1973/1974,1
+3,Gerd Müller,Mittelstürmer,FC Bayern München,Heinz Blasey,1:0,60',FC Bayern München,Rot-Weiss Essen,2:0 ,1973/1974,1
+3,Bernd Lehmann,Offensives Mittelfeld,MSV Duisburg,Gerhard Welz,5:1,68',MSV Duisburg,1.FC Köln,5:1 ,1973/1974,1
+3,Jürgen Kalb,Innenverteidiger,Eintracht Frankfurt,Sepp Stabel,1:3,77',1.FC Kaiserslautern,Eintracht Frankfurt,1:4 ,1973/1974,1
+4,Bernd Lehmann,Offensives Mittelfeld,MSV Duisburg,Wilfried Woyke,1:1,48',Fortuna Düsseldorf,MSV Duisburg,2:1 ,1973/1974,1
+4,Hans Siemensmeyer,Hängende Spitze,Hannover 96,Werner Scholz,1:2,64',Hannover 96,VfL Bochum,1:2 ,1973/1974,1
+4,Herbert Hein,Abwehr,1.FC Köln,Sepp Stabel,3:0,78',1.FC Köln,1.FC Kaiserslautern,3:1 ,1973/1974,1
+1,Benno Möhlmann,Mittelfeld,SV Werder Bremen,Wolfgang Kleff,1:1,13',Borussia Mönchengladbach,SV Werder Bremen,2:4 ,1981/1982,1
+1,Wilfried Hannes,Innenverteidiger,Borussia Mönchengladbach,Dieter Burdenski,2:1,15',Borussia Mönchengladbach,SV Werder Bremen,2:4 ,1981/1982,1
+2,Hans-Joachim Abel,Mittelstürmer,VfL Bochum,Uwe Greiner,0:1,29',Bayer 04 Leverkusen,VfL Bochum,0:3 ,1981/1982,1
+2,Rainer Bonhof,Defensives Mittelfeld,1.FC Köln,Rudi Kargus,0:1,53',1.FC Nürnberg,1.FC Köln,1:3 ,1981/1982,1
+3,Rudolf Seliger,Mittelstürmer,MSV Duisburg,Armin Reichel,2:0,52',MSV Duisburg,1.FC Kaiserslautern,3:1 ,1981/1982,1
+4,Rainer Bonhof,Defensives Mittelfeld,1.FC Köln,Jürgen Pahl,2:0,79',1.FC Köln,Eintracht Frankfurt,2:0 ,1981/1982,1
+4,Bodo Mattern,Mittelstürmer,SV Darmstadt 98,Reinhard Mager,2:0,88',SV Darmstadt 98,VfL Bochum,2:0 ,1981/1982,1
+5,Rudolf Seliger,Mittelstürmer,MSV Duisburg,Rudi Kargus,2:0,33',MSV Duisburg,1.FC Nürnberg,3:2 ,1981/1982,1
+5,Wilfried Hannes,Innenverteidiger,Borussia Mönchengladbach,Armin Reichel,2:0,35',Borussia Mönchengladbach,1.FC Kaiserslautern,2:2 ,1981/1982,1
+5,Rudolf Seliger,Mittelstürmer,MSV Duisburg,Rudi Kargus,3:0,36',MSV Duisburg,1.FC Nürnberg,3:2 ,1981/1982,1
+6,Uwe Bein,Offensives Mittelfeld,Kickers Offenbach,Joachim Jüriens,1:0,27',Kickers Offenbach,Eintracht Frankfurt,2:1 ,1983/1984,1
+6,Marcel Raducanu,Offensives Mittelfeld,Borussia Dortmund,Rüdiger Vollborn,1:1,31',Bayer 04 Leverkusen,Borussia Dortmund,4:2 ,1983/1984,1
+6,Andreas Brehme,Linker Verteidiger,1.FC Kaiserslautern,Wolfgang Kneib,3:1,40',Arminia Bielefeld,1.FC Kaiserslautern,3:2 ,1983/1984,1
+6,Friedhelm Funkel,Offensives Mittelfeld,KFC Uerdingen 05,Helmut Roleder,2:1,42',KFC Uerdingen 05,VfB Stuttgart,3:2 ,1983/1984,1
+6,Gerd Zewe,Rechter Verteidiger,Fortuna Düsseldorf,Ulrich Stein,2:2,52',Fortuna Düsseldorf,Hamburger SV,2:3 ,1983/1984,1
+6,Lothar Matthäus,Defensives Mittelfeld,Borussia Mönchengladbach,Ralf Zumdick,0:3,79',VfL Bochum,Borussia Mönchengladbach,0:4 ,1983/1984,1
+6,Friedhelm Funkel,Offensives Mittelfeld,KFC Uerdingen 05,Helmut Roleder,3:2,81',KFC Uerdingen 05,VfB Stuttgart,3:2 ,1983/1984,1
+7,Andreas Brehme,Linker Verteidiger,1.FC Kaiserslautern,Wolfgang Kleff,1:0,11',1.FC Kaiserslautern,Fortuna Düsseldorf,5:2 ,1983/1984,1
+7,Marcel Raducanu,Offensives Mittelfeld,Borussia Dortmund,Wolfgang Kneib,1:0,45',Borussia Dortmund,Arminia Bielefeld,1:0 ,1983/1984,1
+7,Karl-Heinz Rummenigge,Mittelstürmer,FC Bayern München,Uwe Zimmermann,6:0,89',FC Bayern München,SV Waldhof Mannheim,6:0 ,1983/1984,1
+7,Paul Breitner,Zentrales Mittelfeld,FC Bayern München,Wolfgang Kneib,3:1,90',FC Bayern München,Borussia Mönchengladbach,3:1 ,1978/1979,1
+8,Heinz Flohe,Offensives Mittelfeld,1.FC Köln,Wolfgang Schreiner,1:2,28',1.FC Köln,MSV Duisburg,3:3 ,1978/1979,1
+8,Danilo Popivoda,Rechtes Mittelfeld,Eintracht Braunschweig,Wolfgang Kneib,1:2,44',Borussia Mönchengladbach,Eintracht Braunschweig,2:3 ,1978/1979,1
+9,Hannes Bongartz,Zentrales Mittelfeld,1.FC Kaiserslautern,Horst Bertram,0:1,6',Borussia Dortmund,1.FC Kaiserslautern,2:3 ,1978/1979,1
+9,Manfred Kaltz,Rechter Verteidiger,Hamburger SV,Manfred Müller,2:0,58',Hamburger SV,1.FC Nürnberg,4:1 ,1978/1979,1
+10,Manfred Kaltz,Rechter Verteidiger,Hamburger SV,Wilfried Woyke,0:1,21',Fortuna Düsseldorf,Hamburger SV,0:2 ,1978/1979,1
+10,Harald Nickel,Mittelstürmer,Eintracht Braunschweig,Dieter Burdenski,0:1,30',SV Werder Bremen,Eintracht Braunschweig,3:1 ,1978/1979,1
+10,Jürgen Röber,Rechtes Mittelfeld,SV Werder Bremen,Bernd Franke,1:1,45',SV Werder Bremen,Eintracht Braunschweig,3:1 ,1978/1979,1
+11,Lothar Huber,Rechter Verteidiger,Borussia Dortmund,Wilfried Woyke,1:0,41',Borussia Dortmund,Fortuna Düsseldorf,3:0 ,1978/1979,1
+11,Jürgen Grabowski,Rechtsaußen,Eintracht Frankfurt,Dieter Rudolf,2:0,73',Eintracht Frankfurt,SV Darmstadt 98,2:0 ,1978/1979,1
+1,Otto Rehhagel,Rechter Verteidiger,1.FC Kaiserslautern,Volkmar Groß,0:1,5',Hertha BSC,1.FC Kaiserslautern,5:3 ,1970/1971,1
+1,Lorenz Horr,Sturm,Hertha BSC,Bratislav Djordevic,3:3,68',Hertha BSC,1.FC Kaiserslautern,5:3 ,1970/1971,1
+2,Helmut Kremers,Linker Verteidiger,Kickers Offenbach,Günter Bernard,1:0,23',Kickers Offenbach,SV Werder Bremen,2:1 ,1970/1971,1
+2,Klaus Zaczyk,Offensives Mittelfeld,Hamburger SV,Wolfgang Kleff,1:2,62',Hamburger SV,Borussia Mönchengladbach,2:2 ,1970/1971,1
+3,Klaus Winkler,Abwehr,Kickers Offenbach,Özcan Arkoc,2:2,62',Hamburger SV,Kickers Offenbach,3:2 ,1970/1971,1
+5,Reinhold Wosab,Rechter Verteidiger,Borussia Dortmund,Norbert Nigbur,1:1,22',Borussia Dortmund,FC Schalke 04,1:2 ,1970/1971,1
+6,Heinz van Haaren,Offensives Mittelfeld,FC Schalke 04,Fred-Werner Bockholt,1:1,25',FC Schalke 04,Rot-Weiss Essen,4:1 ,1970/1971,1
+6,Klaus-Dieter Sieloff,Libero,Borussia Mönchengladbach,Sepp Maier,1:1,64',FC Bayern München,Borussia Mönchengladbach,2:2 ,1970/1971,1
+6,Werner Biskup,Abwehr,1.FC Köln,Jürgen Rynio,2:2,87',1.FC Köln,Borussia Dortmund,2:2 ,1970/1971,1
+7,Klaus-Dieter Sieloff,Libero,Borussia Mönchengladbach,Wolfgang Scheid,3:0,49',Borussia Mönchengladbach,Rot-Weiß Oberhausen,6:0 ,1970/1971,1
+6,Frank Ordenewitz,Mittelstürmer,1.FC Köln,Ralf Eilenberger,2:2,71',SG Wattenscheid 09,1.FC Köln,4:2 ,1992/1993,1
+7,Olaf Thon,Zentrales Mittelfeld,FC Bayern München,Ralf Eilenberger,1:0,38',FC Bayern München,SG Wattenscheid 09,1:1 ,1992/1993,1
+7,Andreas Sassen,Offensives Mittelfeld,KFC Uerdingen 05,Eike Immel,1:2,82',KFC Uerdingen 05,VfB Stuttgart,3:3 ,1992/1993,1
+8,Ingo Anderbrügge,Linkes Mittelfeld,FC Schalke 04,Rüdiger Vollborn,4:1,64',Bayer 04 Leverkusen,FC Schalke 04,6:1 ,1992/1993,1
+8,Michael Kostner,Libero,1.FC Saarbrücken,René Müller,1:1,83',1.FC Saarbrücken,SG Dynamo Dresden,1:1 ,1992/1993,1
+9,Wolfgang Funkel,Innenverteidiger,1.FC Kaiserslautern,Andreas Köpke,1:0,45',1.FC Kaiserslautern,1.FC Nürnberg,2:0 ,1992/1993,1
+9,Olaf Thon,Zentrales Mittelfeld,FC Bayern München,Dirk Heyne,1:1,52',FC Bayern München,Borussia Mönchengladbach,2:2 ,1992/1993,1
+10,Fritz Walter,Mittelstürmer,VfB Stuttgart,René Müller,1:0,15',VfB Stuttgart,SG Dynamo Dresden,4:0 ,1992/1993,1
+10,Manfred Bender,Offensives Mittelfeld,Karlsruher SC,Bernd Dreher,1:0,25',Karlsruher SC,KFC Uerdingen 05,4:0 ,1992/1993,1
+11,Frank Ordenewitz,Mittelstürmer,1.FC Köln,Eike Immel,1:0,34',1.FC Köln,VfB Stuttgart,3:1 ,1992/1993,1
+1,Georg Volkert,Linksaußen,Hamburger SV,Horst Bertram,3:4,74',Hamburger SV,Borussia Dortmund,3:4 ,1976/1977,1
+2,Lothar Huber,Rechter Verteidiger,Borussia Dortmund,Dieter Ferner,2:0,34',Borussia Dortmund,1.FC Saarbrücken,2:1 ,1976/1977,1
+2,Jürgen Röber,Rechtes Mittelfeld,SV Werder Bremen,Rudi Kargus,1:1,40',SV Werder Bremen,Hamburger SV,2:2 ,1976/1977,1
+2,Ernst Diehl,Libero,1.FC Kaiserslautern,Enver Maric,2:0,52',1.FC Kaiserslautern,FC Schalke 04,2:0 ,1976/1977,1
+2,Bernd Hölzenbein,Rechtsaußen,Eintracht Frankfurt,Hubert Birkenmeier,4:0,53',Eintracht Frankfurt,Tennis Borussia Berlin,7:1 ,1976/1977,1
+3,Bernard Dietz,Libero,MSV Duisburg,Norbert Nigbur,1:0,19',MSV Duisburg,Hertha BSC,1:1 ,1976/1977,1
+3,Dieter Brei,Defensives Mittelfeld,Fortuna Düsseldorf,Hubert Birkenmeier,2:1,35',Tennis Borussia Berlin,Fortuna Düsseldorf,4:2 ,1976/1977,1
+4,Detlev Szymanek,Sturm,Hertha BSC,Sepp Maier,1:1,86',Hertha BSC,FC Bayern München,1:1 ,1976/1977,1
+5,Rainer Bonhof,Defensives Mittelfeld,Borussia Mönchengladbach,Dieter Burdenski,1:0,24',Borussia Mönchengladbach,SV Werder Bremen,3:1 ,1976/1977,1
+5,Manfred Ritschel,Rechtsaußen,1.FC Kaiserslautern,Rudolf Wimmer,1:1,59',Karlsruher SC,1.FC Kaiserslautern,1:1 ,1976/1977,1
+1,Hansi Müller,Zentrales Mittelfeld,VfB Stuttgart,Sepp Maier,1:0,17',VfB Stuttgart,FC Bayern München,3:3 ,1977/1978,1
+1,Hansi Müller,Zentrales Mittelfeld,VfB Stuttgart,Sepp Maier,3:2,53',VfB Stuttgart,FC Bayern München,3:3 ,1977/1978,1
+1,Reinhard Meier,Innenverteidiger,1.FC Kaiserslautern,Bernd Franke,1:1,68',1.FC Kaiserslautern,Eintracht Braunschweig,2:1 ,1977/1978,1
+1,Dietmar Demuth,Abwehr,FC St. Pauli,Dieter Burdenski,1:1,80',FC St. Pauli,SV Werder Bremen,3:1 ,1977/1978,1
+1,Dietmar Demuth,Abwehr,FC St. Pauli,Dieter Burdenski,2:1,88',FC St. Pauli,SV Werder Bremen,3:1 ,1977/1978,1
+2,Gerd Müller,Mittelstürmer,FC Bayern München,Jürgen Rynio,2:0,32',FC Bayern München,FC St. Pauli,4:2 ,1977/1978,1
+2,Werner Lorant,Defensives Mittelfeld,1.FC Saarbrücken,Ronnie Hellström,3:3,81',1.FC Saarbrücken,1.FC Kaiserslautern,3:3 ,1977/1978,1
+4,Werner Lorant,Defensives Mittelfeld,1.FC Saarbrücken,Jürgen Rynio,2:0,31',1.FC Saarbrücken,FC St. Pauli,4:0 ,1977/1978,1
+4,Rainer Bonhof,Defensives Mittelfeld,Borussia Mönchengladbach,Bernhard Hartmann,1:1,70',Borussia Mönchengladbach,TSV 1860 München,2:1 ,1977/1978,1
+4,Bernd Gersdorff,Mittelstürmer,Hertha BSC,Gerhard Heinze,2:1,73',Hertha BSC,MSV Duisburg,2:2 ,1977/1978,1
+3,Uwe Bracht,Linkes Mittelfeld,SV Werder Bremen,Ronnie Hellström,3:1,82',SV Werder Bremen,1.FC Kaiserslautern,3:1 ,1974/1975,1
+4,Hannes Löhr,Linksaußen,1.FC Köln,Sepp Maier,1:3,28',FC Bayern München,1.FC Köln,6:3 ,1974/1975,1
+4,Klaus Wunder,Linksaußen,FC Bayern München,Toni Schumacher,2:3,33',FC Bayern München,1.FC Köln,6:3 ,1974/1975,1
+4,Hans-Josef Kapellmann,Defensives Mittelfeld,FC Bayern München,Toni Schumacher,4:3,69',FC Bayern München,1.FC Köln,6:3 ,1974/1975,1
+5,Karl-Heinz Körbel,Innenverteidiger,Eintracht Frankfurt,Ronnie Hellström,1:0,18',Eintracht Frankfurt,1.FC Kaiserslautern,5:1 ,1974/1975,1
+5,Klaus Fischer,Mittelstürmer,FC Schalke 04,Wilfried Woyke,3:0,59',FC Schalke 04,Fortuna Düsseldorf,3:0 ,1974/1975,1
+6,Werner Balte,Offensives Mittelfeld,VfL Bochum,Dieter Burdenski,1:0,29',VfL Bochum,SV Werder Bremen,3:1 ,1974/1975,1
+6,Georg Volkert,Linksaußen,Hamburger SV,Gerhard Heinze,1:0,75',Hamburger SV,VfB Stuttgart,1:0 ,1974/1975,1
+7,Ludwig Bründl,Mittelstürmer,Eintracht Braunschweig,Sepp Maier,2:0,41',Eintracht Braunschweig,FC Bayern München,3:1 ,1974/1975,1
+7,Karl-Heinz Körbel,Innenverteidiger,Eintracht Frankfurt,Jürgen Rynio,5:1,51',Eintracht Frankfurt,Rot-Weiss Essen,9:1 ,1974/1975,1
+1,Dieter Kurrat,Rechter Verteidiger,Borussia Dortmund,Volker Danner,1:1,62',Borussia Dortmund,Borussia Mönchengladbach,1:3 ,1968/1969,1
+2,Gerd Müller,Mittelstürmer,FC Bayern München,Petar Radenkovic,0:3,90',TSV 1860 München,FC Bayern München,0:3 ,1968/1969,1
+3,Zvezdan Cebinac,Rechtsaußen,1.FC Nürnberg,Volker Danner,2:0,55',1.FC Nürnberg,Borussia Mönchengladbach,4:0 ,1968/1969,1
+3,Gerd Müller,Mittelstürmer,FC Bayern München,Özcan Arkoc,2:0,58',FC Bayern München,Hamburger SV,5:1 ,1968/1969,1
+3,Lothar Ulsaß,Mittelstürmer,Eintracht Braunschweig,Gernot Fraydl,2:2,82',Eintracht Braunschweig,Hertha BSC,3:3 ,1968/1969,1
+5,Horst-Dieter Höttges,Libero,SV Werder Bremen,Norbert Nigbur,1:1,29',SV Werder Bremen,FC Schalke 04,1:3 ,1968/1969,1
+5,Günter Netzer,Offensives Mittelfeld,Borussia Mönchengladbach,Werner Scholz,1:0,42',Borussia Mönchengladbach,Alemannia Aachen,2:2 ,1968/1969,1
+6,Jürgen Grabowski,Rechtsaußen,Eintracht Frankfurt,Sepp Maier,1:0,17',Eintracht Frankfurt,FC Bayern München,1:1 ,1968/1969,1
+7,Gerd Müller,Mittelstürmer,FC Bayern München,Manfred Manglitz,1:0,11',FC Bayern München,MSV Duisburg,2:2 ,1968/1969,1
+7,Erwin Hoffmann,Offensives Mittelfeld,Alemannia Aachen,Bernd Helmschrot,5:1,70',Hannover 96,Alemannia Aachen,5:2 ,1968/1969,1
+2,Lothar Kobluhn,Defensives Mittelfeld,Rot-Weiß Oberhausen,Gerhard Welz,3:1,42',1.FC Köln,Rot-Weiß Oberhausen,3:1 ,1972/1973,1
+2,Willi Reimann,Mittelstürmer,Hannover 96,Dr. Peter Kunter,1:1,56',Hannover 96,Eintracht Frankfurt,2:1 ,1972/1973,1
+3,Jupp Heynckes,Mittelstürmer,Borussia Mönchengladbach,Franz-Josef Pauly,1:0,3',Borussia Mönchengladbach,Hannover 96,3:1 ,1972/1973,1
+3,Jürgen Kohle,Mittelfeld,Wuppertaler SV,Werner Scholz,3:0,86',Wuppertaler SV,VfL Bochum,3:0 ,1972/1973,1
+3,Dietmar Danner,Linkes Mittelfeld,Borussia Mönchengladbach,Franz-Josef Pauly,3:1,88',Borussia Mönchengladbach,Hannover 96,3:1 ,1972/1973,1
+4,Werner Lungwitz,Rechter Verteidiger,Fortuna Düsseldorf,Dr. Peter Kunter,1:0,7',Fortuna Düsseldorf,Eintracht Frankfurt,2:2 ,1972/1973,1
+4,Franz Beckenbauer,Libero,FC Bayern München,Horst Wolter,4:0,76',FC Bayern München,Hertha BSC,4:0 ,1972/1973,1
+5,Klaus Scheer,Mittelstürmer,FC Schalke 04,Fred-Werner Bockholt,6:1,51',FC Schalke 04,Kickers Offenbach,6:1 ,1972/1973,1
+5,Lorenz Horr,Sturm,Hertha BSC,Wolfgang Scheid,3:1,66',Hertha BSC,Rot-Weiß Oberhausen,3:1 ,1972/1973,1
+5,Dietmar Danner,Linkes Mittelfeld,Borussia Mönchengladbach,Wilfried Woyke,2:3,74',Borussia Mönchengladbach,Fortuna Düsseldorf,2:3 ,1972/1973,1
+5,Dieter Herzog,Linksaußen,Fortuna Düsseldorf,Heinz Blasey,1:4,75',Rot-Weiss Essen,Fortuna Düsseldorf,1:4 ,1973/1974,1
+6,Gerd Zewe,Rechter Verteidiger,Fortuna Düsseldorf,Sepp Stabel,2:2,33',Fortuna Düsseldorf,1.FC Kaiserslautern,2:5 ,1973/1974,1
+6,Helmut Kremers,Linker Verteidiger,FC Schalke 04,Sepp Maier,4:1,41',FC Schalke 04,FC Bayern München,5:5 ,1973/1974,1
+6,Gerd Müller,Mittelstürmer,FC Bayern München,Helmut Pabst,4:2,44',FC Schalke 04,FC Bayern München,5:5 ,1973/1974,1
+6,Helmut Kremers,Linker Verteidiger,FC Schalke 04,Sepp Maier,5:2,45',FC Schalke 04,FC Bayern München,5:5 ,1973/1974,1
+6,Werner Balte,Offensives Mittelfeld,VfL Bochum,Toni Schumacher,2:1,69',1.FC Köln,VfL Bochum,2:2 ,1973/1974,1
+7,Manfred Ritschel,Rechtsaußen,Kickers Offenbach,Dr. Peter Kunter,3:1,45',Kickers Offenbach,Eintracht Frankfurt,5:2 ,1973/1974,1
+7,Dieter Bast,Defensives Mittelfeld,Rot-Weiss Essen,Manfred Müller,1:1,49',Rot-Weiss Essen,Wuppertaler SV,2:1 ,1973/1974,1
+7,Günter Oleknavicius,Linkes Mittelfeld,SC Fortuna Köln,Helmut Pabst,1:0,55',SC Fortuna Köln,FC Schalke 04,1:1 ,1973/1974,1
+8,Willi Reimann,Mittelstürmer,Hannover 96,Sepp Maier,1:0,11',Hannover 96,FC Bayern München,3:1 ,1973/1974,1
+1,Gerd Müller,Mittelstürmer,FC Bayern München,Fred-Werner Bockholt,3:0,56',FC Bayern München,Rot-Weiss Essen,4:0 ,1969/1970,1
+1,Carl-Heinz Rühl,Sturm,1.FC Köln,Horst Wolter,1:2,72',1.FC Köln,Eintracht Braunschweig,3:2 ,1969/1970,1
+3,Bernd Patzke,Innenverteidiger,Hertha BSC,Gerhard Prokop,2:1,88',Hertha BSC,Alemannia Aachen,2:1 ,1969/1970,1
+4,Bernd Patzke,Innenverteidiger,Hertha BSC,Fred-Werner Bockholt,3:2,34',Rot-Weiss Essen,Hertha BSC,5:2 ,1969/1970,1
+4,Bernd Lehmann,Offensives Mittelfeld,MSV Duisburg,Bernd Helmschrot,1:0,52',MSV Duisburg,Hannover 96,1:0 ,1969/1970,1
+7,Günter Netzer,Offensives Mittelfeld,Borussia Mönchengladbach,Horst Wolter,1:0,27',Borussia Mönchengladbach,Eintracht Braunschweig,1:0 ,1969/1970,1
+7,Jupp Heynckes,Mittelstürmer,Hannover 96,Gernot Fraydl,2:1,85',Hannover 96,Hertha BSC,2:1 ,1969/1970,1
+8,Hans-Josef Hellingrath,Rechter Verteidiger,Hannover 96,Gerhard Heinze,1:1,48',VfB Stuttgart,Hannover 96,2:1 ,1969/1970,1
+9,Gerd Müller,Mittelstürmer,FC Bayern München,Petar Radenkovic,2:0,35',FC Bayern München,TSV 1860 München,2:0 ,1969/1970,1
+10,Gerd Müller,Mittelstürmer,FC Bayern München,Gerhard Prokop,0:2,26',Alemannia Aachen,FC Bayern München,1:3 ,1969/1970,1
+1,Michael Harforth,Offensives Mittelfeld,Karlsruher SC,Bodo Illgner,1:0,11',Karlsruher SC,1.FC Köln,1:1 ,1987/1988,1
+2,Olaf Janßen,Defensives Mittelfeld,1.FC Köln,Michael Serr,2:1,87',1.FC Köln,1.FC Kaiserslautern,2:1 ,1987/1988,1
+3,Manfred Kaltz,Rechter Verteidiger,Hamburger SV,Ralf Raps,2:1,31',Hamburger SV,Hannover 96,3:3 ,1987/1988,1
+4,Siegfried Reich,Mittelstürmer,Hannover 96,Alexander Famulla,1:1,25',Hannover 96,Karlsruher SC,3:2 ,1987/1988,1
+6,Paul Breitner,Zentrales Mittelfeld,FC Bayern München,Bernd Franke,0:1,38',Eintracht Braunschweig,FC Bayern München,3:1 ,1981/1982,1
+4,Siegfried Reich,Mittelstürmer,Hannover 96,Alexander Famulla,2:2,72',Hannover 96,Karlsruher SC,3:2 ,1987/1988,1
+6,Uwe Rahn,Mittelstürmer,Borussia Mönchengladbach,Jean-Marie Pfaff,2:0,45',Borussia Mönchengladbach,FC Bayern München,2:0 ,1987/1988,1
+6,Karl Allgöwer,Zentrales Mittelfeld,VfB Stuttgart,Oliver Reck,4:1,83',SV Werder Bremen,VfB Stuttgart,5:1 ,1987/1988,1
+6,Jürgen Glowacz,Mittelfeld,Bayer 04 Leverkusen,Rudolf Wimmer,1:2,85',Karlsruher SC,Bayer 04 Leverkusen,1:2 ,1981/1982,1
+7,Bodo Mattern,Mittelstürmer,SV Darmstadt 98,Rudolf Wimmer,1:0,9',SV Darmstadt 98,Karlsruher SC,2:6 ,1981/1982,1
+7,Hans-Joachim Abel,Mittelstürmer,VfL Bochum,Ulrich Stein,0:0,71',VfL Bochum,Hamburger SV,2:1 ,1981/1982,1
+8,Manfred Kaltz,Rechter Verteidiger,Hamburger SV,Wolfgang Schreiner,1:0,13',Hamburger SV,MSV Duisburg,7:0 ,1981/1982,1
+8,Hans-Joachim Abel,Mittelstürmer,VfL Bochum,Horst Dreher,0:0,40',Fortuna Düsseldorf,VfL Bochum,2:1 ,1981/1982,1
+8,Werner Lorant,Defensives Mittelfeld,Eintracht Frankfurt,Helmut Roleder,2:0,56',Eintracht Frankfurt,VfB Stuttgart,4:1 ,1981/1982,1
+6,Frank Ordenewitz,Mittelstürmer,SV Werder Bremen,Eike Immel,5:1,85',SV Werder Bremen,VfB Stuttgart,5:1 ,1987/1988,1
+7,Fritz Walter,Mittelstürmer,VfB Stuttgart,Toni Schumacher,2:0,71',VfB Stuttgart,FC Schalke 04,4:0 ,1987/1988,1
+10,Manfred Kaltz,Rechter Verteidiger,Hamburger SV,Uwe Kamps,3:2,47',Borussia Mönchengladbach,Hamburger SV,8:2 ,1987/1988,1
+8,Jürgen Glowacz,Mittelfeld,Bayer 04 Leverkusen,Armin Reichel,4:2,64',1.FC Kaiserslautern,Bayer 04 Leverkusen,5:2 ,1981/1982,1
+8,Manfred Kaltz,Rechter Verteidiger,Hamburger SV,Wolfgang Schreiner,6:0,72',Hamburger SV,MSV Duisburg,7:0 ,1981/1982,1
+8,Werner Lorant,Defensives Mittelfeld,Eintracht Frankfurt,Helmut Roleder,3:0,76',Eintracht Frankfurt,VfB Stuttgart,4:1 ,1981/1982,1
+7,Ludwig Müller,Libero,Borussia Mönchengladbach,Wolfgang Scheid,4:0,54',Borussia Mönchengladbach,Rot-Weiß Oberhausen,6:0 ,1970/1971,1
+8,Helmut Kremers,Linker Verteidiger,Kickers Offenbach,Gerhard Heinze,1:0,23',Kickers Offenbach,VfB Stuttgart,3:3 ,1970/1971,1
+8,Hartmut Weiß,Linksaußen,VfB Stuttgart,Karlheinz Volz,3:2,68',Kickers Offenbach,VfB Stuttgart,3:3 ,1970/1971,1
+8,Lothar Kobluhn,Defensives Mittelfeld,Rot-Weiß Oberhausen,Özcan Arkoc,8:1,82',Rot-Weiß Oberhausen,Hamburger SV,8:1 ,1970/1971,1
+8,Horst Haug,Offensives Mittelfeld,VfB Stuttgart,Karlheinz Volz,3:3,88',Kickers Offenbach,VfB Stuttgart,3:3 ,1970/1971,1
+10,Gerd Müller,Mittelstürmer,FC Bayern München,Josef Elting,3:0,76',FC Bayern München,1.FC Kaiserslautern,3:1 ,1970/1971,1
+10,Helmut Kremers,Linker Verteidiger,Kickers Offenbach,Volkmar Groß,1:0,85',Kickers Offenbach,Hertha BSC,1:0 ,1970/1971,1
+11,Otto Rehhagel,Rechter Verteidiger,1.FC Kaiserslautern,Klaus Witt,3:1,35',1.FC Kaiserslautern,Rot-Weiß Oberhausen,4:1 ,1970/1971,1
+12,Lothar Ulsaß,Mittelstürmer,Eintracht Braunschweig,Özcan Arkoc,3:1,56',Eintracht Braunschweig,Hamburger SV,4:1 ,1970/1971,1
+13,Klaus Winkler,Abwehr,Kickers Offenbach,Wolfgang Scheid,1:1,45',Rot-Weiß Oberhausen,Kickers Offenbach,2:2 ,1970/1971,1
+5,Georg Volkert,Linksaußen,Hamburger SV,Heinz-Josef Koitka,2:0,63',Hamburger SV,Eintracht Frankfurt,3:1 ,1976/1977,1
+5,Heinz Traser,Mittelstürmer,1.FC Saarbrücken,Roland Spott,2:1,82',1.FC Saarbrücken,Rot-Weiss Essen,2:1 ,1976/1977,1
+6,Heinz Traser,Mittelstürmer,1.FC Saarbrücken,Heinz-Josef Koitka,1:1,41',Eintracht Frankfurt,1.FC Saarbrücken,2:1 ,1976/1977,1
+6,Gerd Müller,Mittelstürmer,FC Bayern München,Werner Scholz,4:4,74',VfL Bochum,FC Bayern München,5:6 ,1976/1977,1
+8,Benny Wendt,Mittelstürmer,Tennis Borussia Berlin,Rudi Kargus,1:0,57',Tennis Borussia Berlin,Hamburger SV,1:1 ,1976/1977,1
+8,Bernard Dietz,Libero,MSV Duisburg,Ulrich Granzow,0:2,61',Rot-Weiss Essen,MSV Duisburg,1:5 ,1976/1977,1
+8,Karl-Heinz Granitza,Mittelstürmer,Hertha BSC,Ronnie Hellström,0:2,73',1.FC Kaiserslautern,Hertha BSC,0:2 ,1976/1977,1
+9,Bernd Nickel,Offensives Mittelfeld,Eintracht Frankfurt,Gerhard Heinze,2:3,68',MSV Duisburg,Eintracht Frankfurt,4:3 ,1976/1977,1
+10,Bernd Nickel,Offensives Mittelfeld,Eintracht Frankfurt,Norbert Nigbur,1:2,40',Eintracht Frankfurt,Hertha BSC,3:3 ,1976/1977,1
+10,Horst Hrubesch,Mittelstürmer,Rot-Weiss Essen,Werner Scholz,3:2,52',Rot-Weiss Essen,VfL Bochum,3:3 ,1976/1977,1
+4,Hermann Ohlicher,Mittelfeld,VfB Stuttgart,Enver Maric,3:1,89',FC Schalke 04,VfB Stuttgart,3:1 ,1977/1978,1
+5,Werner Lorant,Defensives Mittelfeld,1.FC Saarbrücken,Jörg Daniel,0:1,31',Fortuna Düsseldorf,1.FC Saarbrücken,2:1 ,1977/1978,1
+5,Bernd Nickel,Offensives Mittelfeld,Eintracht Frankfurt,Wolfgang Kneib,2:1,51',Eintracht Frankfurt,Borussia Mönchengladbach,4:2 ,1977/1978,1
+5,Willi Bierofka,Abwehr,TSV 1860 München,Norbert Nigbur,2:2,67',TSV 1860 München,Hertha BSC,2:3 ,1977/1978,1
+5,Reinhard Meier,Innenverteidiger,1.FC Kaiserslautern,Horst Bertram,4:0,79',1.FC Kaiserslautern,Borussia Dortmund,4:0 ,1977/1978,1
+6,Rainer Bonhof,Defensives Mittelfeld,Borussia Mönchengladbach,Ronnie Hellström,2:1,48',Borussia Mönchengladbach,1.FC Kaiserslautern,2:2 ,1977/1978,1
+6,Gerd Müller,Mittelstürmer,FC Bayern München,Werner Scholz,1:1,61',FC Bayern München,VfL Bochum,1:1 ,1977/1978,1
+7,Lothar Huber,Rechter Verteidiger,Borussia Dortmund,Jürgen Rynio,0:2,19',FC St. Pauli,Borussia Dortmund,3:6 ,1977/1978,1
+7,Klaus Fischer,Mittelstürmer,FC Schalke 04,Toni Schumacher,1:4,70',1.FC Köln,FC Schalke 04,2:4 ,1977/1978,1
+7,Georg Volkert,Linksaußen,Hamburger SV,Jörg Daniel,3:1,85',Fortuna Düsseldorf,Hamburger SV,3:1 ,1977/1978,1
+1,Dietmar Demuth,Abwehr,Bayer 04 Leverkusen,Walter Junghans,3:1,62',FC Bayern München,Bayer 04 Leverkusen,3:1 ,1979/1980,1
+2,Heinz Flohe,Offensives Mittelfeld,TSV 1860 München,Dieter Burdenski,1:1,26',TSV 1860 München,SV Werder Bremen,4:1 ,1979/1980,1
+2,Karl-Heinz Handschuh,Mittelstürmer,Eintracht Braunschweig,Gerhard Heinze,2:0,58',Eintracht Braunschweig,MSV Duisburg,2:0 ,1979/1980,1
+2,Bernd Schuster,Offensives Mittelfeld,1.FC Köln,Eike Immel,2:1,69',Borussia Dortmund,1.FC Köln,3:1 ,1979/1980,1
+2,Vilson Dzoni,Rechter Verteidiger,FC Schalke 04,Walter Junghans,1:1,73',FC Schalke 04,FC Bayern München,1:1 ,1979/1980,1
+2,Georg Volkert,Linksaußen,VfB Stuttgart,Ronnie Hellström,3:0,84',VfB Stuttgart,1.FC Kaiserslautern,3:1 ,1979/1980,1
+3,Klaus Wunder,Linksaußen,SV Werder Bremen,Eike Immel,2:0,59',SV Werder Bremen,Borussia Dortmund,2:1 ,1979/1980,1
+4,Klaus Allofs,Mittelstürmer,Fortuna Düsseldorf,Dieter Burdenski,3:1,27',Fortuna Düsseldorf,SV Werder Bremen,4:1 ,1979/1980,1
+4,Heinz Flohe,Offensives Mittelfeld,TSV 1860 München,Reinhard Mager,0:0,41',TSV 1860 München,VfL Bochum,1:0 ,1979/1980,1
+5,Dieter Burdenski,Torwart,SV Werder Bremen,Helmut Roleder,2:2,57',SV Werder Bremen,VfB Stuttgart,2:3 ,1979/1980,1
+7,Allan Simonsen,Rechtsaußen,Borussia Mönchengladbach,Werner Scholz,0:0,54',Borussia Mönchengladbach,VfL Bochum,3:0 ,1974/1975,1
+8,Michael Lameck,Defensives Mittelfeld,VfL Bochum,Dr. Peter Kunter,2:0,45',VfL Bochum,Eintracht Frankfurt,3:1 ,1974/1975,1
+8,Willi Lippens,Linksaußen,Rot-Weiss Essen,Hubert Birkenmeier,3:0,65',Rot-Weiss Essen,Tennis Borussia Berlin,3:2 ,1974/1975,1
+8,Rainer Geye,Mittelstürmer,Fortuna Düsseldorf,Wolfgang Kleff,3:2,74',Fortuna Düsseldorf,Borussia Mönchengladbach,3:2 ,1974/1975,1
+8,Hermann Ohlicher,Mittelfeld,VfB Stuttgart,Manfred Müller,5:1,88',VfB Stuttgart,Wuppertaler SV,5:1 ,1974/1975,1
+9,Karl-Heinz Körbel,Innenverteidiger,Eintracht Frankfurt,Wilfried Woyke,1:0,10',Eintracht Frankfurt,Fortuna Düsseldorf,4:0 ,1974/1975,1
+9,Rudi Assauer,Abwehr,SV Werder Bremen,Fred-Werner Bockholt,2:0,40',SV Werder Bremen,Kickers Offenbach,3:6 ,1974/1975,1
+9,Manfred Ritschel,Rechtsaußen,Kickers Offenbach,Dieter Burdenski,2:2,50',SV Werder Bremen,Kickers Offenbach,3:6 ,1974/1975,1
+9,Wolfgang Overath,Offensives Mittelfeld,1.FC Köln,Manfred Müller,1:4,85',Wuppertaler SV,1.FC Köln,1:4 ,1974/1975,1
+10,Klaus Fischer,Mittelstürmer,FC Schalke 04,Toni Schumacher,0:1,20',1.FC Köln,FC Schalke 04,4:2 ,1974/1975,1
+1,Djordje Pavlic,Mittelstürmer,MSV Duisburg,Bernhard Wessel,1:0,19',MSV Duisburg,Borussia Dortmund,2:2 ,1967/1968,1
+2,Horst-Dieter Höttges,Libero,SV Werder Bremen,Hans Tilkowski,3:2,44',Eintracht Frankfurt,SV Werder Bremen,5:3 ,1967/1968,1
+3,Helmut Kapitulski,Linksaußen,1.FC Kaiserslautern,Hans Tilkowski,1:0,29',1.FC Kaiserslautern,Eintracht Frankfurt,1:1 ,1967/1968,1
+3,Günter Netzer,Offensives Mittelfeld,Borussia Mönchengladbach,Günter Bernard,0:4,90',SV Werder Bremen,Borussia Mönchengladbach,0:4 ,1967/1968,1
+4,Hans Siemensmeyer,Hängende Spitze,Hannover 96,Jürgen Rynio,0:1,29',Karlsruher SC,Hannover 96,3:1 ,1967/1968,1
+4,Günter Netzer,Offensives Mittelfeld,Borussia Mönchengladbach,Wolfgang Schnarr,2:1,36',Borussia Mönchengladbach,1.FC Kaiserslautern,8:2 ,1967/1968,1
+4,Hans Küppers,Offensives Mittelfeld,TSV 1860 München,Dieter Feller,2:0,38',TSV 1860 München,VfB Stuttgart,3:3 ,1967/1968,1
+6,Wolfgang Gayer,Hängende Spitze,Borussia Neunkirchen,Sepp Maier,1:0,52',Borussia Neunkirchen,FC Bayern München,1:1 ,1967/1968,1
+6,Hermann Straschitz,Mittelfeld,Hannover 96,Özcan Arkoc,1:2,53',Hamburger SV,Hannover 96,2:3 ,1967/1968,1
+6,Uwe Seeler,Mittelstürmer,Hamburger SV,Horst Podlasly,2:3,70',Hamburger SV,Hannover 96,2:3 ,1967/1968,1
+2,Rudolf Brunnenmeier,Mittelstürmer,TSV 1860 München,Gyula Tóth,0:1,1',1.FC Nürnberg,TSV 1860 München,1:4 ,1965/1966,1
+2,Stefan Reisch,Linkes Mittelfeld,1.FC Nürnberg,Petar Radenkovic,1:1,16',1.FC Nürnberg,TSV 1860 München,1:4 ,1965/1966,1
+3,Gustav Witlatschil,Linker Verteidiger,Karlsruher SC,Manfred Orzessek,1:2,42',Karlsruher SC,Borussia Mönchengladbach,3:3 ,1965/1966,1
+3,Willy Reitgaßl,Rechtes Mittelfeld,1.FC Kaiserslautern,Günter Bernard,2:1,54',SV Werder Bremen,1.FC Kaiserslautern,4:1 ,1965/1966,1
+3,Ludwig Nolden,Mittelstürmer,MSV Duisburg,Josef Broden,4:0,63',MSV Duisburg,FC Schalke 04,5:1 ,1965/1966,1
+3,Lothar Ulsaß,Mittelstürmer,Eintracht Braunschweig,Sepp Maier,1:3,63',Eintracht Braunschweig,FC Bayern München,2:4 ,1965/1966,1
+3,Jürgen Wingert,Sturm,Borussia Neunkirchen,Horst Schnoor,1:1,78',Borussia Neunkirchen,Hamburger SV,1:1 ,1965/1966,1
+3,Arnold Schütz,Innenverteidiger,SV Werder Bremen,Wolfgang Schnarr,4:1,84',SV Werder Bremen,1.FC Kaiserslautern,4:1 ,1965/1966,1
+4,Arnold Schütz,Innenverteidiger,SV Werder Bremen,Günter Sawitzki,0:2,71',VfB Stuttgart,SV Werder Bremen,0:2 ,1965/1966,1
+5,Lothar Emmerich,Mittelstürmer,Borussia Dortmund,Rudolf Krätschmer,0:1,20',Borussia Mönchengladbach,Borussia Dortmund,4:5 ,1965/1966,1
+1,Wolfgang Overath,Offensives Mittelfeld,1.FC Köln,Petar Radenkovic,2:0,28',1.FC Köln,TSV 1860 München,2:0 ,1966/1967,1
+1,Jürgen Grabowski,Rechtsaußen,Eintracht Frankfurt,Sepp Maier,1:1,53',FC Bayern München,Eintracht Frankfurt,1:2 ,1966/1967,1
+3,Werner Lungwitz,Rechter Verteidiger,Fortuna Düsseldorf,Dr. Peter Kunter,2:3,35',Fortuna Düsseldorf,Eintracht Frankfurt,2:4 ,1966/1967,1
+3,Willi Kraus,Sturm,FC Schalke 04,Roland Wabra,1:0,42',FC Schalke 04,1.FC Nürnberg,1:0 ,1966/1967,1
+3,Lothar Emmerich,Mittelstürmer,Borussia Dortmund,Siegfried Kessler,2:1,54',Borussia Dortmund,Karlsruher SC,2:1 ,1966/1967,1
+6,Horst-Dieter Höttges,Libero,SV Werder Bremen,Horst Schnoor,1:0,7',SV Werder Bremen,Hamburger SV,5:1 ,1966/1967,1
+6,Wolfgang Solz,Linksaußen,Eintracht Frankfurt,Günter Sawitzki,4:0,59',Eintracht Frankfurt,VfB Stuttgart,4:0 ,1966/1967,1
+7,Lothar Emmerich,Mittelstürmer,Borussia Dortmund,Gerhard Teupel,1:0,45',Borussia Dortmund,SV Werder Bremen,2:0 ,1966/1967,1
+8,Horst Wild,Linksaußen,Karlsruher SC,Volker Danner,2:1,42',Borussia Mönchengladbach,Karlsruher SC,3:1 ,1966/1967,1
+8,Wilhelm Huberts,Libero,Eintracht Frankfurt,Manfred Manglitz,1:0,61',Eintracht Frankfurt,MSV Duisburg,1:0 ,1966/1967,1
+1,Hans Arnold,Mittelfeld,VfB Stuttgart,Horst Schnoor,0:2,15',Hamburger SV,VfB Stuttgart,2:2 ,1964/1965,1
+2,Jürgen Neumann,Mittelfeld,1.FC Kaiserslautern,Manfred Manglitz,3:1,82',MSV Duisburg,1.FC Kaiserslautern,3:1 ,1964/1965,1
+4,Elmar May,Sturm,Borussia Neunkirchen,Horst Schnoor,2:1,37',Borussia Neunkirchen,Hamburger SV,3:1 ,1964/1965,1
+4,Arnold Schütz,Innenverteidiger,SV Werder Bremen,Manfred Paul,1:0,62',SV Werder Bremen,Karlsruher SC,1:0 ,1964/1965,1
+5,Gustav Witlatschil,Linker Verteidiger,Karlsruher SC,Egon Loy,0:6,53',Eintracht Frankfurt,Karlsruher SC,0:7 ,1964/1965,1
+5,Gustav Witlatschil,Linker Verteidiger,Karlsruher SC,Egon Loy,0:7,84',Eintracht Frankfurt,Karlsruher SC,0:7 ,1964/1965,1
+7,Stefan Reisch,Linkes Mittelfeld,1.FC Nürnberg,Manfred Paul,2:0,40',1.FC Nürnberg,Karlsruher SC,4:1 ,1964/1965,1
+8,Theodor Hoffmann,Defensives Mittelfeld,VfB Stuttgart,Manfred Manglitz,1:3,58',MSV Duisburg,VfB Stuttgart,3:3 ,1964/1965,1
+9,Stefan Reisch,Linkes Mittelfeld,1.FC Nürnberg,Hans Jäcker,1:2,55',1.FC Nürnberg,Eintracht Braunschweig,3:2 ,1964/1965,1
+10,Ludwig Nolden,Mittelstürmer,MSV Duisburg,Horst Podlasly,1:0,8',MSV Duisburg,Hannover 96,1:0 ,1964/1965,1
+7,Djordje Pavlic,Mittelstürmer,MSV Duisburg,Sepp Maier,1:1,72',FC Bayern München,MSV Duisburg,2:2 ,1968/1969,1
+7,Rudolf Kröner,Mittelfeld,Hertha BSC,Klaus Günther,1:2,76',Borussia Dortmund,Hertha BSC,2:2 ,1968/1969,1
+9,Günter Netzer,Offensives Mittelfeld,Borussia Mönchengladbach,Özcan Arkoc,1:0,1',Borussia Mönchengladbach,Hamburger SV,1:2 ,1968/1969,1
+10,Walter Bechtold,Mittelstürmer,Eintracht Frankfurt,Jürgen Rynio,3:0,88',Eintracht Frankfurt,1.FC Nürnberg,3:0 ,1968/1969,1
+13,Günter Netzer,Offensives Mittelfeld,Borussia Mönchengladbach,Manfred Manglitz,1:0,3',Borussia Mönchengladbach,MSV Duisburg,1:0 ,1968/1969,1
+13,Bernd Patzke,Innenverteidiger,TSV 1860 München,Norbert Nigbur,3:1,82',TSV 1860 München,FC Schalke 04,3:1 ,1968/1969,1
+14,Walter Bechtold,Mittelstürmer,Eintracht Frankfurt,Wolfgang Schnarr,1:1,35',Eintracht Frankfurt,1.FC Kaiserslautern,2:2 ,1968/1969,1
+14,Arnold Schütz,Innenverteidiger,SV Werder Bremen,Paul Heyeres,3:0,75',SV Werder Bremen,1.FC Köln,3:1 ,1968/1969,1
+14,Gerd Müller,Mittelstürmer,FC Bayern München,Jürgen Rynio,3:0,82',FC Bayern München,1.FC Nürnberg,3:0 ,1968/1969,1
+15,Heinz-Dieter Hasebrink,Zentrales Mittelfeld,1.FC Kaiserslautern,Manfred Manglitz,2:0,55',1.FC Kaiserslautern,MSV Duisburg,3:0 ,1968/1969,1
+2,Max Lorenz,Linkes Mittelfeld,Eintracht Braunschweig,Zlatko Skoric,1:1,83',Eintracht Braunschweig,VfB Stuttgart,1:1 ,1971/1972,1
+2,Günter Netzer,Offensives Mittelfeld,Borussia Mönchengladbach,Dieter Burdenski,5:1,87',Borussia Mönchengladbach,Arminia Bielefeld,5:1 ,1971/1972,1
+3,Jürgen Kalb,Innenverteidiger,Eintracht Frankfurt,Günter Bernard,2:0,58',Eintracht Frankfurt,SV Werder Bremen,4:0 ,1971/1972,1
+4,Arnold Schütz,Innenverteidiger,SV Werder Bremen,Dieter Burdenski,2:0,8',SV Werder Bremen,Arminia Bielefeld,4:0 ,1971/1972,1
+4,Jürgen Schütz,Mittelstürmer,Borussia Dortmund,Dr. Peter Kunter,1:0,10',Borussia Dortmund,Eintracht Frankfurt,3:1 ,1971/1972,1
+4,Arnold Schütz,Innenverteidiger,SV Werder Bremen,Dieter Burdenski,4:0,80',SV Werder Bremen,Arminia Bielefeld,4:0 ,1971/1972,1
+5,Jürgen Schütz,Mittelstürmer,Borussia Dortmund,Günter Bernard,1:2,26',Borussia Dortmund,SV Werder Bremen,1:5 ,1971/1972,1
+5,Jürgen Kalb,Innenverteidiger,Eintracht Frankfurt,Norbert Nigbur,2:0,79',Eintracht Frankfurt,FC Schalke 04,2:0 ,1971/1972,1
+5,Ferdinand Keller,Mittelstürmer,Hannover 96,Wolfgang Scheid,1:0,89',Hannover 96,Rot-Weiß Oberhausen,1:0 ,1971/1972,1
+6,Günter Netzer,Offensives Mittelfeld,Borussia Mönchengladbach,Burkhardt Öller,1:0,18',Borussia Mönchengladbach,Hannover 96,3:0 ,1971/1972,1
+1,Jürgen Neumann,Mittelfeld,1.FC Kaiserslautern,Egon Loy,0:1,38',Eintracht Frankfurt,1.FC Kaiserslautern,1:1 ,1963/1964,1
+1,Lothar Schämer,Rechter Verteidiger,Eintracht Frankfurt,Wolfgang Schnarr,1:1,40',Eintracht Frankfurt,1.FC Kaiserslautern,1:1 ,1963/1964,1
+1,Hans-Günter Schimmöller,Abwehr,Hertha BSC,Roland Wabra,1:1,62',Hertha BSC,1.FC Nürnberg,1:1 ,1963/1964,1
+3,Hans Auernhammer,Linksaußen,TSV 1860 München,Fritz Ewert,1:1,55',TSV 1860 München,1.FC Köln,1:3 ,1963/1964,1
+3,Hans Sturm,Linkes Mittelfeld,1.FC Köln,Petar Radenkovic,1:2,67',TSV 1860 München,1.FC Köln,1:3 ,1963/1964,1
+3,Helmut Tybussek,Abwehr,Preußen Münster,Manfred Manglitz,4:0,72',Preußen Münster,MSV Duisburg,4:2 ,1963/1964,1
+3,Jürgen Moll,Sturm,Eintracht Braunschweig,Volker Danner,2:2,72',1.FC Saarbrücken,Eintracht Braunschweig,2:2 ,1963/1964,1
+3,Wilhelm Huberts,Libero,Eintracht Frankfurt,Roland Wabra,2:3,82',Eintracht Frankfurt,1.FC Nürnberg,2:3 ,1963/1964,1
+4,Stefan Reisch,Linkes Mittelfeld,1.FC Nürnberg,Herbert Eiteljörge,1:0,2',1.FC Nürnberg,Preußen Münster,2:2 ,1963/1964,1
+5,Alfons Stemmer,Abwehr,TSV 1860 München,Horst-Dieter Strich,1:0,57',TSV 1860 München,1.FC Kaiserslautern,3:0 ,1963/1964,1
+6,Manfred Kaltz,Rechter Verteidiger,Hamburger SV,Ronnie Hellström,1:0,78',Hamburger SV,1.FC Kaiserslautern,1:0 ,1979/1980,1
+8,Harald Nickel,Mittelstürmer,Borussia Mönchengladbach,Klaus Funk,3:1,37',Borussia Mönchengladbach,Eintracht Frankfurt,4:1 ,1979/1980,1
+9,Harald Nickel,Mittelstürmer,Borussia Mönchengladbach,Toni Schumacher,3:2,55',1.FC Köln,Borussia Mönchengladbach,4:4 ,1979/1980,1
+13,Friedhelm Funkel,Offensives Mittelfeld,KFC Uerdingen 05,Wolfgang Kleff,1:1,14',KFC Uerdingen 05,Hertha BSC,3:1 ,1979/1980,1
+13,Dietmar Demuth,Abwehr,Bayer 04 Leverkusen,Bernd Franke,3:1,64',Eintracht Braunschweig,Bayer 04 Leverkusen,3:1 ,1979/1980,1
+13,Hans-Joachim Abel,Mittelstürmer,VfL Bochum,Klaus Funk,1:0,80',VfL Bochum,Eintracht Frankfurt,1:0 ,1979/1980,1
+14,Hans-Joachim Abel,Mittelstürmer,VfL Bochum,Fred-Werner Bockholt,1:1,30',Bayer 04 Leverkusen,VfL Bochum,3:1 ,1979/1980,1
+14,Lothar Huber,Rechter Verteidiger,Borussia Dortmund,Walter Junghans,3:1,38',FC Bayern München,Borussia Dortmund,4:2 ,1979/1980,1
+14,Dietmar Demuth,Abwehr,Bayer 04 Leverkusen,Reinhard Mager,2:1,43',Bayer 04 Leverkusen,VfL Bochum,3:1 ,1979/1980,1
+14,Paul Breitner,Zentrales Mittelfeld,FC Bayern München,Eike Immel,4:1,65',FC Bayern München,Borussia Dortmund,4:2 ,1979/1980,1
+9,Paul Breitner,Zentrales Mittelfeld,FC Bayern München,Rudi Kargus,1:0,33',FC Bayern München,1.FC Nürnberg,1:1 ,1981/1982,1
+10,Horst Weyerich,Libero,1.FC Nürnberg,Uwe Greiner,3:2,90',1.FC Nürnberg,Bayer 04 Leverkusen,3:2 ,1981/1982,1
+11,Rüdiger Wenzel,Mittelstürmer,Fortuna Düsseldorf,Armin Reichel,1:0,11',Fortuna Düsseldorf,1.FC Kaiserslautern,4:2 ,1981/1982,1
+11,Jürgen Glowacz,Mittelfeld,Bayer 04 Leverkusen,Toni Schumacher,1:0,17',Bayer 04 Leverkusen,1.FC Köln,1:1 ,1981/1982,1
+11,Hans-Peter Briegel,Offensives Mittelfeld,1.FC Kaiserslautern,Horst Dreher,3:2,50',Fortuna Düsseldorf,1.FC Kaiserslautern,4:2 ,1981/1982,1
+11,Hans-Joachim Abel,Mittelstürmer,VfL Bochum,Helmut Roleder,3:2,57',VfL Bochum,VfB Stuttgart,3:3 ,1981/1982,1
+12,Rainer Bonhof,Defensives Mittelfeld,1.FC Köln,Dieter Rudolf,1:0,13',1.FC Köln,SV Darmstadt 98,1:1 ,1981/1982,1
+12,Jürgen Glowacz,Mittelfeld,Bayer 04 Leverkusen,Jürgen Pahl,0:1,16',Eintracht Frankfurt,Bayer 04 Leverkusen,3:2 ,1981/1982,1
+12,Frank Mill,Mittelstürmer,Borussia Mönchengladbach,Helmut Roleder,0:2,22',VfB Stuttgart,Borussia Mönchengladbach,2:2 ,1981/1982,1
+12,Werner Lorant,Defensives Mittelfeld,Eintracht Frankfurt,Uwe Greiner,1:1,22',Eintracht Frankfurt,Bayer 04 Leverkusen,3:2 ,1981/1982,1
+6,Werner Lungwitz,Rechter Verteidiger,Fortuna Düsseldorf,Gerhard Heinze,1:0,27',Fortuna Düsseldorf,VfB Stuttgart,6:1 ,1972/1973,1
+7,Karl-Heinz Handschuh,Mittelstürmer,VfB Stuttgart,Werner Scholz,4:0,88',VfB Stuttgart,VfL Bochum,4:0 ,1972/1973,1
+10,Gerd Müller,Mittelstürmer,FC Bayern München,Dietmar Linders,1:0,23',FC Bayern München,MSV Duisburg,2:0 ,1972/1973,1
+10,Bernd Gersdorff,Mittelstürmer,Eintracht Braunschweig,Dr. Peter Kunter,1:0,28',Eintracht Braunschweig,Eintracht Frankfurt,2:1 ,1972/1973,1
+10,Werner Balte,Offensives Mittelfeld,VfL Bochum,Franz-Josef Pauly,2:0,68',VfL Bochum,Hannover 96,2:0 ,1972/1973,1
+11,Karl-Heinz Handschuh,Mittelstürmer,VfB Stuttgart,Günter Bernard,1:1,70',VfB Stuttgart,SV Werder Bremen,2:1 ,1972/1973,1
+11,Jupp Heynckes,Mittelstürmer,Borussia Mönchengladbach,Bernd Franke,4:0,81',Borussia Mönchengladbach,Eintracht Braunschweig,4:0 ,1972/1973,1
+11,Jürgen Kalb,Innenverteidiger,Eintracht Frankfurt,Horst Wolter,2:1,82',Eintracht Frankfurt,Hertha BSC,2:2 ,1972/1973,1
+11,Lorenz Horr,Sturm,Hertha BSC,Dr. Peter Kunter,2:2,85',Eintracht Frankfurt,Hertha BSC,2:2 ,1972/1973,1
+12,Gerd Müller,Mittelstürmer,FC Bayern München,Franz-Josef Pauly,1:0,4',FC Bayern München,Hannover 96,7:2 ,1972/1973,1
+5,Egon Milder,Libero,Borussia Mönchengladbach,Hans Tilkowski,1:1,42',Borussia Mönchengladbach,Borussia Dortmund,4:5 ,1965/1966,1
+5,Günter Netzer,Offensives Mittelfeld,Borussia Mönchengladbach,Hans Tilkowski,4:4,70',Borussia Mönchengladbach,Borussia Dortmund,4:5 ,1965/1966,1
+5,Lothar Emmerich,Mittelstürmer,Borussia Dortmund,Rudolf Krätschmer,4:5,73',Borussia Mönchengladbach,Borussia Dortmund,4:5 ,1965/1966,1
+5,Lothar Ulsaß,Mittelstürmer,Eintracht Braunschweig,Horst Podlasly,2:0,83',Eintracht Braunschweig,Hannover 96,2:1 ,1965/1966,1
+6,Peter Grosser,Zentrales Mittelfeld,TSV 1860 München,Manfred Manglitz,0:2,46',MSV Duisburg,TSV 1860 München,2:3 ,1965/1966,1
+6,Lothar Ulsaß,Mittelstürmer,Eintracht Braunschweig,Wolfgang Schnarr,0:1,69',1.FC Kaiserslautern,Eintracht Braunschweig,1:1 ,1965/1966,1
+7,Lothar Ulsaß,Mittelstürmer,Eintracht Braunschweig,Günter Sawitzki,1:0,55',Eintracht Braunschweig,VfB Stuttgart,1:1 ,1965/1966,1
+8,Fritz Pott,Innenverteidiger,1.FC Köln,Dr. Peter Kunter,1:0,29',1.FC Köln,Eintracht Frankfurt,1:0 ,1965/1966,1
+8,Peter Grosser,Zentrales Mittelfeld,TSV 1860 München,Günter Bernard,0:1,73',SV Werder Bremen,TSV 1860 München,0:2 ,1965/1966,1
+8,Otto Laszig,Rechter Verteidiger,Hannover 96,Manfred Paul,5:1,77',Hannover 96,Karlsruher SC,5:2 ,1965/1966,1
+9,Otto Rehhagel,Rechter Verteidiger,1.FC Kaiserslautern,Günter Sawitzki,3:0,43',1.FC Kaiserslautern,VfB Stuttgart,3:3 ,1966/1967,1
+9,Ludwig Nolden,Mittelstürmer,MSV Duisburg,Norbert Nigbur,2:1,89',FC Schalke 04,MSV Duisburg,2:1 ,1966/1967,1
+11,Horst Wild,Linksaußen,Karlsruher SC,Günter Bernard,1:1,27',Karlsruher SC,SV Werder Bremen,4:4 ,1966/1967,1
+12,Horst-Dieter Höttges,Libero,SV Werder Bremen,Volker Danner,1:2,61',SV Werder Bremen,Borussia Mönchengladbach,2:2 ,1966/1967,1
+12,Ludwig Nolden,Mittelstürmer,MSV Duisburg,Bernhard Wessel,1:5,68',MSV Duisburg,Borussia Dortmund,1:5 ,1966/1967,1
+13,Lothar Emmerich,Mittelstürmer,Borussia Dortmund,Norbert Nigbur,1:0,15',Borussia Dortmund,FC Schalke 04,6:2 ,1966/1967,1
+13,Günter Netzer,Offensives Mittelfeld,Borussia Mönchengladbach,Petar Radenkovic,1:0,31',Borussia Mönchengladbach,TSV 1860 München,2:3 ,1966/1967,1
+14,Hans-Josef Hellingrath,Rechter Verteidiger,Fortuna Düsseldorf,Manfred Manglitz,0:1,39',MSV Duisburg,Fortuna Düsseldorf,1:1 ,1966/1967,1
+14,Lothar Schämer,Rechter Verteidiger,Eintracht Frankfurt,Horst Schnoor,1:2,49',Eintracht Frankfurt,Hamburger SV,1:3 ,1966/1967,1
+14,Horst-Dieter Höttges,Libero,SV Werder Bremen,Roland Wabra,3:2,54',SV Werder Bremen,1.FC Nürnberg,4:4 ,1966/1967,1
+10,Rudi Bommer,Defensives Mittelfeld,KFC Uerdingen 05,Ralf Zumdick,0:2,74',VfL Bochum,KFC Uerdingen 05,1:4 ,1987/1988,1
+11,Ralf Falkenmayer,Defensives Mittelfeld,Bayer 04 Leverkusen,Gerry Ehrmann,2:0,74',Bayer 04 Leverkusen,1.FC Kaiserslautern,2:0 ,1987/1988,1
+14,Stefan Reuter,Rechtes Mittelfeld,1.FC Nürnberg,Ralf Raps,0:2,30',Hannover 96,1.FC Nürnberg,1:2 ,1987/1988,1
+14,Frank Pagelsdorf,Mittelfeld,Borussia Dortmund,Werner Vollack,1:1,51',KFC Uerdingen 05,Borussia Dortmund,2:1 ,1987/1988,1
+14,Siegfried Reich,Mittelstürmer,Hannover 96,Andreas Köpke,1:2,68',Hannover 96,1.FC Nürnberg,1:2 ,1987/1988,1
+14,Robert Prytz,Zentrales Mittelfeld,KFC Uerdingen 05,Wolfgang de Beer,2:1,71',KFC Uerdingen 05,Borussia Dortmund,2:1 ,1987/1988,1
+16,Christian Schreier,Offensives Mittelfeld,Bayer 04 Leverkusen,Wolfgang de Beer,1:0,2',Bayer 04 Leverkusen,Borussia Dortmund,2:2 ,1987/1988,1
+16,Lajos Détári,Offensives Mittelfeld,Eintracht Frankfurt,Ralf Raps,0:1,17',Hannover 96,Eintracht Frankfurt,1:2 ,1987/1988,1
+16,Gregor Grillemeier,Mittelstürmer,Hannover 96,Ulrich Stein,1:1,25',Hannover 96,Eintracht Frankfurt,1:2 ,1987/1988,1
+16,Stefan Jambo,Offensives Mittelfeld,FC 08 Homburg,Ralf Zumdick,1:2,40',VfL Bochum,FC 08 Homburg,4:4 ,1987/1988,1
+5,Horst-Dieter Höttges,Libero,SV Werder Bremen,Bernd Franke,1:1,62',Eintracht Braunschweig,SV Werder Bremen,3:2 ,1975/1976,1
+5,Bernd Gersdorff,Mittelstürmer,Eintracht Braunschweig,Dieter Burdenski,2:1,74',Eintracht Braunschweig,SV Werder Bremen,3:2 ,1975/1976,1
+5,Werner Balte,Offensives Mittelfeld,VfL Bochum,Bernd Helmschrot,0:0,85',VfL Bochum,Kickers Offenbach,5:1 ,1975/1976,1
+6,Dieter Brei,Defensives Mittelfeld,Fortuna Düsseldorf,Horst Wolter,1:0,28',Fortuna Düsseldorf,Hertha BSC,2:1 ,1975/1976,1
+6,Josef Hickersberger,Offensives Mittelfeld,Kickers Offenbach,Günther Wienhold,1:0,45',Kickers Offenbach,Eintracht Frankfurt,2:1 ,1975/1976,1
+7,Horst-Dieter Höttges,Libero,SV Werder Bremen,Toni Schumacher,1:2,40',SV Werder Bremen,1.FC Köln,3:2 ,1975/1976,1
+7,Gerd Müller,Mittelstürmer,FC Bayern München,Bernd Helmschrot,1:0,42',FC Bayern München,Kickers Offenbach,3:1 ,1975/1976,1
+7,Peter Gutzeit,Sturm,Karlsruher SC,Manfred Kroke,1:0,63',Karlsruher SC,KFC Uerdingen 05,1:0 ,1975/1976,1
+7,Manfred Burgsmüller,Mittelstürmer,Rot-Weiss Essen,Ronnie Hellström,5:1,90',Rot-Weiss Essen,1.FC Kaiserslautern,5:1 ,1975/1976,1
+8,Klaus Fischer,Mittelstürmer,FC Schalke 04,Bernd Franke,1:1,38',FC Schalke 04,Eintracht Braunschweig,5:1 ,1975/1976,1
+7,Werner Biskup,Abwehr,1.FC Köln,Bernd Franke,1:0,19',1.FC Köln,Eintracht Braunschweig,2:0 ,1971/1972,1
+7,Jürgen Kalb,Innenverteidiger,Eintracht Frankfurt,Volkmar Groß,1:0,29',Eintracht Frankfurt,Hertha BSC,1:1 ,1971/1972,1
+7,Otto Rehhagel,Rechter Verteidiger,1.FC Kaiserslautern,Franz-Josef Pauly,1:1,77',Hannover 96,1.FC Kaiserslautern,1:2 ,1971/1972,1
+8,Klaus Fichtel,Defensives Mittelfeld,FC Schalke 04,Wilfried Woyke,0:2,85',Fortuna Düsseldorf,FC Schalke 04,0:2 ,1971/1972,1
+9,Jürgen Kalb,Innenverteidiger,Eintracht Frankfurt,Wolfgang Scheid,3:0,64',Eintracht Frankfurt,Rot-Weiß Oberhausen,3:0 ,1971/1972,1
+9,Bernd Lehmann,Offensives Mittelfeld,MSV Duisburg,Dieter Burdenski,4:0,68',MSV Duisburg,Arminia Bielefeld,4:0 ,1971/1972,1
+10,Ludwig Müller,Libero,Borussia Mönchengladbach,Dr. Peter Kunter,1:1,22',Borussia Mönchengladbach,Eintracht Frankfurt,6:2 ,1971/1972,1
+10,Jupp Heynckes,Mittelstürmer,Borussia Mönchengladbach,Dr. Peter Kunter,5:2,80',Borussia Mönchengladbach,Eintracht Frankfurt,6:2 ,1971/1972,1
+10,Jupp Heynckes,Mittelstürmer,Borussia Mönchengladbach,Dr. Peter Kunter,6:2,89',Borussia Mönchengladbach,Eintracht Frankfurt,6:2 ,1971/1972,1
+12,Günter Netzer,Offensives Mittelfeld,Borussia Mönchengladbach,Norbert Nigbur,2:0,5',Borussia Mönchengladbach,FC Schalke 04,7:0 ,1971/1972,1
+8,Wilfried Hannes,Innenverteidiger,Borussia Mönchengladbach,Toni Schumacher,2:1,25',Borussia Mönchengladbach,1.FC Köln,4:2 ,1983/1984,1
+8,Jürgen Röber,Rechtes Mittelfeld,Bayer 04 Leverkusen,Helmut Roleder,1:0,49',Bayer 04 Leverkusen,VfB Stuttgart,1:1 ,1983/1984,1
+9,Karl-Heinz Körbel,Innenverteidiger,Eintracht Frankfurt,Uwe Zimmermann,1:2,82',Eintracht Frankfurt,SV Waldhof Mannheim,1:3 ,1983/1984,1
+9,Karl-Heinz Rummenigge,Mittelstürmer,FC Bayern München,Ulrich Sude,4:0,87',FC Bayern München,Borussia Mönchengladbach,4:0 ,1983/1984,1
+10,Uwe Reinders,Mittelstürmer,SV Werder Bremen,Eike Immel,2:1,65',SV Werder Bremen,Borussia Dortmund,2:1 ,1983/1984,1
+10,Peter Lux,Mittelfeld,Eintracht Braunschweig,Armin Reichel,4:0,77',Eintracht Braunschweig,1.FC Kaiserslautern,4:0 ,1983/1984,1
+11,Manfred Kaltz,Rechter Verteidiger,Hamburger SV,Ralf Zumdick,0:0,57',Hamburger SV,VfL Bochum,2:1 ,1983/1984,1
+11,Reiner Hollmann,Abwehr,Eintracht Braunschweig,Eike Immel,0:2,75',Borussia Dortmund,Eintracht Braunschweig,0:2 ,1983/1984,1
+12,Christian Schreier,Offensives Mittelfeld,VfL Bochum,Ronnie Hellström,3:1,45',VfL Bochum,1.FC Kaiserslautern,4:1 ,1983/1984,1
+12,Günter Sebert,Libero,SV Waldhof Mannheim,Eike Immel,4:0,62',SV Waldhof Mannheim,Borussia Dortmund,4:1 ,1983/1984,1
+8,Burghard Rylewicz,Sturm,Borussia Dortmund,Hans-Jürgen Krumnow,1:0,16',Borussia Dortmund,Hertha BSC,7:2 ,1963/1964,1
+8,Uwe Seeler,Mittelstürmer,Hamburger SV,Petar Radenkovic,1:0,19',Hamburger SV,TSV 1860 München,5:0 ,1963/1964,1
+10,Gustav Witlatschil,Linker Verteidiger,Karlsruher SC,Herbert Eiteljörge,4:1,44',Karlsruher SC,Preußen Münster,4:2 ,1963/1964,1
+10,Wilhelm Huberts,Libero,Eintracht Frankfurt,Horst Mühlmann,4:1,72',Eintracht Frankfurt,FC Schalke 04,4:2 ,1963/1964,1
+11,Arnold Schütz,Innenverteidiger,SV Werder Bremen,Egon Loy,3:1,48',SV Werder Bremen,Eintracht Frankfurt,4:1 ,1963/1964,1
+12,Ludwig Nolden,Mittelstürmer,MSV Duisburg,Hans Tilkowski,1:2,23',MSV Duisburg,Borussia Dortmund,3:3 ,1963/1964,1
+12,Alfons Stemmer,Abwehr,TSV 1860 München,Egon Loy,4:2,69',Eintracht Frankfurt,TSV 1860 München,5:2 ,1963/1964,1
+13,Theodor Hoffmann,Defensives Mittelfeld,VfB Stuttgart,Hans Jäcker,2:0,34',VfB Stuttgart,Eintracht Braunschweig,5:0 ,1963/1964,1
+14,Jürgen Moll,Sturm,Eintracht Braunschweig,Roland Wabra,2:0,79',Eintracht Braunschweig,1.FC Nürnberg,2:0 ,1963/1964,1
+15,Ludwig Nolden,Mittelstürmer,MSV Duisburg,Wolfgang Schnarr,1:1,75',1.FC Kaiserslautern,MSV Duisburg,1:1 ,1963/1964,1
+12,Hans-Josef Kapellmann,Defensives Mittelfeld,1.FC Köln,Norbert Nigbur,1:0,5',1.FC Köln,FC Schalke 04,3:0 ,1972/1973,1
+12,Georg Volkert,Linksaußen,Hamburger SV,Willi Janßen,1:1,16',Rot-Weiß Oberhausen,Hamburger SV,3:1 ,1972/1973,1
+13,Georg Volkert,Linksaußen,Hamburger SV,Günter Bernard,1:0,3',Hamburger SV,SV Werder Bremen,2:2 ,1972/1973,1
+13,Klaus Wunder,Linksaußen,MSV Duisburg,Bernd Franke,2:2,41',MSV Duisburg,Eintracht Braunschweig,3:2 ,1972/1973,1
+13,Jürgen Grabowski,Rechtsaußen,Eintracht Frankfurt,Norbert Nigbur,2:2,62',Eintracht Frankfurt,FC Schalke 04,4:2 ,1972/1973,1
+13,Jupp Heynckes,Mittelstürmer,Borussia Mönchengladbach,Ulrich Gelhard,2:0,67',Borussia Mönchengladbach,Wuppertaler SV,2:1 ,1972/1973,1
+13,Jürgen Kohle,Mittelfeld,Wuppertaler SV,Wolfgang Kleff,2:1,72',Borussia Mönchengladbach,Wuppertaler SV,2:1 ,1972/1973,1
+14,Hannes Löhr,Linksaußen,1.FC Köln,Dr. Peter Kunter,1:0,43',1.FC Köln,Eintracht Frankfurt,3:1 ,1972/1973,1
+14,Niko Semlitsch,Abwehr,Kickers Offenbach,Werner Scholz,3:0,64',Kickers Offenbach,VfL Bochum,4:0 ,1972/1973,1
+14,Hannes Löhr,Linksaußen,1.FC Köln,Dr. Peter Kunter,3:1,83',1.FC Köln,Eintracht Frankfurt,3:1 ,1972/1973,1
+9,Günter Netzer,Offensives Mittelfeld,Borussia Mönchengladbach,Horst Podlasly,1:0,51',Borussia Mönchengladbach,Hannover 96,2:0 ,1965/1966,1
+10,Klaus-Dieter Sieloff,Libero,VfB Stuttgart,Manfred Paul,1:0,53',VfB Stuttgart,Karlsruher SC,1:0 ,1965/1966,1
+10,Peter Grosser,Zentrales Mittelfeld,TSV 1860 München,Dr. Peter Kunter,2:1,63',TSV 1860 München,Eintracht Frankfurt,4:2 ,1965/1966,1
+10,Ludwig Nolden,Mittelstürmer,MSV Duisburg,Heinz Rohloff,1:0,63',MSV Duisburg,SV Tasmania Berlin,3:0 ,1965/1966,1
+10,Heinz Strehl,Mittelstürmer,1.FC Nürnberg,Horst Schnoor,4:0,77',1.FC Nürnberg,Hamburger SV,5:0 ,1965/1966,1
+11,Günter Netzer,Offensives Mittelfeld,Borussia Mönchengladbach,Günter Sawitzki,1:0,2',Borussia Mönchengladbach,VfB Stuttgart,1:0 ,1965/1966,1
+11,Lothar Ulsaß,Mittelstürmer,Eintracht Braunschweig,Petar Radenkovic,2:2,67',Eintracht Braunschweig,TSV 1860 München,2:2 ,1965/1966,1
+11,Günter Herrmann,Offensives Mittelfeld,FC Schalke 04,Egon Loy,3:1,72',Eintracht Frankfurt,FC Schalke 04,4:1 ,1965/1966,1
+11,Arnold Schütz,Innenverteidiger,SV Werder Bremen,Horst Kirsch,1:1,73',Borussia Neunkirchen,SV Werder Bremen,1:2 ,1965/1966,1
+12,Günter Netzer,Offensives Mittelfeld,Borussia Mönchengladbach,Manfred Manglitz,0:1,5',MSV Duisburg,Borussia Mönchengladbach,3:2 ,1965/1966,1
+15,Lothar Emmerich,Mittelstürmer,Borussia Dortmund,Horst Schnoor,0:1,12',Hamburger SV,Borussia Dortmund,1:1 ,1966/1967,1
+15,Gerd Müller,Mittelstürmer,FC Bayern München,Wolfgang Schnarr,5:0,90',FC Bayern München,1.FC Kaiserslautern,5:0 ,1966/1967,1
+16,Gert Dörfel,Linksaußen,Hamburger SV,Sepp Maier,2:0,6',Hamburger SV,FC Bayern München,3:1 ,1966/1967,1
+16,Günter Herrmann,Offensives Mittelfeld,FC Schalke 04,Horst Podlasly,1:0,19',FC Schalke 04,Hannover 96,2:1 ,1966/1967,1
+17,Wilhelm Huberts,Libero,Eintracht Frankfurt,Petar Radenkovic,1:3,72',Eintracht Frankfurt,TSV 1860 München,3:3 ,1966/1967,1
+19,Manfred Kreuz,Linkes Mittelfeld,FC Schalke 04,Fred-Werner Bockholt,1:0,28',FC Schalke 04,Rot-Weiss Essen,1:1 ,1966/1967,1
+20,Egon Milder,Libero,Borussia Mönchengladbach,Horst Schnoor,1:1,35',Borussia Mönchengladbach,Hamburger SV,4:2 ,1966/1967,1
+20,Horst Wild,Linksaußen,Karlsruher SC,Bernhard Wessel,2:0,89',Karlsruher SC,Borussia Dortmund,2:0 ,1966/1967,1
+21,Horst Wild,Linksaußen,Karlsruher SC,Sepp Maier,1:1,26',FC Bayern München,Karlsruher SC,2:2 ,1966/1967,1
+21,Wolfgang Overath,Offensives Mittelfeld,1.FC Köln,Günter Sawitzki,1:1,55',VfB Stuttgart,1.FC Köln,2:2 ,1966/1967,1
+3,Klaus Täuber,Mittelstürmer,FC Schalke 04,Rüdiger Vollborn,0:1,17',Bayer 04 Leverkusen,FC Schalke 04,2:2 ,1984/1985,1
+3,Uwe Reinders,Mittelstürmer,SV Werder Bremen,Toni Schumacher,2:1,47',SV Werder Bremen,1.FC Köln,6:2 ,1984/1985,1
+3,Siegfried Reich,Mittelstürmer,Arminia Bielefeld,Helmut Roleder,2:5,69',Arminia Bielefeld,VfB Stuttgart,2:7 ,1984/1985,1
+4,Nico Claesen,Mittelstürmer,VfB Stuttgart,Dieter Burdenski,1:0,5',VfB Stuttgart,SV Werder Bremen,1:3 ,1984/1985,1
+4,Wolfgang Sidka,Mittelfeld,SV Werder Bremen,Helmut Roleder,1:1,35',VfB Stuttgart,SV Werder Bremen,1:3 ,1984/1985,1
+4,Hans-Günter Bruns,Libero,Borussia Mönchengladbach,Ralf Zumdick,2:0,43',Borussia Mönchengladbach,VfL Bochum,4:3 ,1984/1985,1
+5,Marcel Raducanu,Offensives Mittelfeld,Borussia Dortmund,Ralf Zumdick,2:0,85',Borussia Dortmund,VfL Bochum,3:0 ,1984/1985,1
+6,Marcel Raducanu,Offensives Mittelfeld,Borussia Dortmund,Toni Schumacher,1:1,14',1.FC Köln,Borussia Dortmund,6:1 ,1984/1985,1
+6,Klaus Allofs,Mittelstürmer,1.FC Köln,Eike Immel,3:1,51',1.FC Köln,Borussia Dortmund,6:1 ,1984/1985,1
+6,Stephan Engels,Defensives Mittelfeld,1.FC Köln,Eike Immel,4:1,55',1.FC Köln,Borussia Dortmund,6:1 ,1984/1985,1
+15,Georg Volkert,Linksaußen,VfB Stuttgart,Wolfgang Kneib,2:0,24',VfB Stuttgart,Borussia Mönchengladbach,4:0 ,1979/1980,1
+15,Friedhelm Funkel,Offensives Mittelfeld,KFC Uerdingen 05,Ronnie Hellström,2:0,59',KFC Uerdingen 05,1.FC Kaiserslautern,3:2 ,1979/1980,1
+15,Georg Volkert,Linksaußen,VfB Stuttgart,Wolfgang Kneib,4:0,88',VfB Stuttgart,Borussia Mönchengladbach,4:0 ,1979/1980,1
+16,Bernd Schuster,Offensives Mittelfeld,1.FC Köln,Dieter Burdenski,2:0,21',1.FC Köln,SV Werder Bremen,4:1 ,1979/1980,1
+17,Rolf Rüssmann,Innenverteidiger,FC Schalke 04,Rudi Kargus,1:0,70',FC Schalke 04,Hamburger SV,1:0 ,1979/1980,1
+17,Lothar Huber,Rechter Verteidiger,Borussia Dortmund,Sepp Stabel,5:2,78',Borussia Dortmund,1.FC Kaiserslautern,6:2 ,1979/1980,1
+18,Horst Hrubesch,Mittelstürmer,Hamburger SV,Reinhard Mager,2:0,55',Hamburger SV,VfL Bochum,3:1 ,1979/1980,1
+18,Dietmar Demuth,Abwehr,Bayer 04 Leverkusen,Walter Junghans,1:0,60',Bayer 04 Leverkusen,FC Bayern München,1:0 ,1979/1980,1
+19,Hans-Günter Neues,Innenverteidiger,1.FC Kaiserslautern,Helmut Roleder,2:0,78',1.FC Kaiserslautern,VfB Stuttgart,2:1 ,1979/1980,1
+19,Horst Wohlers,Defensives Mittelfeld,TSV 1860 München,Dieter Burdenski,2:4,79',SV Werder Bremen,TSV 1860 München,4:6 ,1979/1980,1
+10,Allan Simonsen,Rechtsaußen,Borussia Mönchengladbach,Fred-Werner Bockholt,1:2,41',Kickers Offenbach,Borussia Mönchengladbach,4:3 ,1974/1975,1
+10,Rainer Geye,Mittelstürmer,Fortuna Düsseldorf,Hubert Birkenmeier,3:0,42',Fortuna Düsseldorf,Tennis Borussia Berlin,3:2 ,1974/1975,1
+10,Werner Balte,Offensives Mittelfeld,VfL Bochum,Ronnie Hellström,4:0,43',VfL Bochum,1.FC Kaiserslautern,4:0 ,1974/1975,1
+10,Manfred Ritschel,Rechtsaußen,Kickers Offenbach,Wolfgang Kleff,2:2,47',Kickers Offenbach,Borussia Mönchengladbach,4:3 ,1974/1975,1
+11,Johannes Riedl,Sturm,1.FC Kaiserslautern,Kurt Büns,1:0,7',1.FC Kaiserslautern,Fortuna Düsseldorf,1:0 ,1974/1975,1
+11,Horst-Dieter Höttges,Libero,SV Werder Bremen,Gerhard Heinze,3:1,72',SV Werder Bremen,VfB Stuttgart,5:2 ,1974/1975,1
+12,Harald Konopka,Libero,1.FC Köln,Dieter Burdenski,1:0,5',1.FC Köln,SV Werder Bremen,3:1 ,1974/1975,1
+12,Gerd Müller,Mittelstürmer,FC Bayern München,Ronnie Hellström,2:3,66',FC Bayern München,1.FC Kaiserslautern,2:5 ,1974/1975,1
+13,Karl-Heinz Handschuh,Mittelstürmer,Eintracht Braunschweig,Norbert Nigbur,1:0,44',Eintracht Braunschweig,FC Schalke 04,1:0 ,1974/1975,1
+15,Werner Balte,Offensives Mittelfeld,VfL Bochum,Sepp Maier,0:0,15',VfL Bochum,FC Bayern München,3:0 ,1974/1975,1
+10,Jürgen Neumann,Mittelfeld,1.FC Kaiserslautern,Fritz Ewert,1:2,58',1.FC Kaiserslautern,1.FC Köln,2:2 ,1964/1965,1
+11,Günter Herrmann,Offensives Mittelfeld,FC Schalke 04,Günter Bernard,1:1,43',SV Werder Bremen,FC Schalke 04,2:2 ,1964/1965,1
+11,Otto Rehhagel,Rechter Verteidiger,Hertha BSC,Horst-Dieter Strich,4:0,45',Hertha BSC,1.FC Kaiserslautern,5:3 ,1964/1965,1
+11,Helmut Kapitulski,Linksaußen,1.FC Kaiserslautern,Hans-Jürgen Krumnow,5:3,90',Hertha BSC,1.FC Kaiserslautern,5:3 ,1964/1965,1
+13,Lothar Ulsaß,Mittelstürmer,Eintracht Braunschweig,Horst-Dieter Strich,1:0,11',Eintracht Braunschweig,1.FC Kaiserslautern,2:0 ,1964/1965,1
+14,Horst-Dieter Höttges,Libero,SV Werder Bremen,Hans Tilkowski,1:1,37',Borussia Dortmund,SV Werder Bremen,1:2 ,1964/1965,1
+14,Ludwig Nolden,Mittelstürmer,MSV Duisburg,Gyula Tóth,1:1,58',MSV Duisburg,FC Schalke 04,2:1 ,1964/1965,1
+14,Ludwig Nolden,Mittelstürmer,MSV Duisburg,Gyula Tóth,2:1,67',MSV Duisburg,FC Schalke 04,2:1 ,1964/1965,1
+15,Dieter Höller,Rechtsaußen,VfB Stuttgart,Horst Kirsch,1:0,40',VfB Stuttgart,Borussia Neunkirchen,3:2 ,1964/1965,1
+15,Hans Sturm,Linkes Mittelfeld,1.FC Köln,Hans Tilkowski,2:0,55',1.FC Köln,Borussia Dortmund,3:3 ,1964/1965,1
+19,Rolf Rüssmann,Innenverteidiger,FC Schalke 04,Manfred Müller,2:1,80',FC Bayern München,FC Schalke 04,3:1 ,1979/1980,1
+20,Harald Nickel,Mittelstürmer,Borussia Mönchengladbach,Reinhard Mager,2:2,78',Borussia Mönchengladbach,VfL Bochum,3:2 ,1979/1980,1
+21,Friedhelm Funkel,Offensives Mittelfeld,KFC Uerdingen 05,Eike Immel,2:0,35',KFC Uerdingen 05,Borussia Dortmund,3:0 ,1979/1980,1
+21,Hans-Günter Neues,Innenverteidiger,1.FC Kaiserslautern,Fred-Werner Bockholt,3:0,83',1.FC Kaiserslautern,Bayer 04 Leverkusen,4:0 ,1979/1980,1
+22,Wilfried Hannes,Innenverteidiger,Borussia Mönchengladbach,Wolfgang Kleff,3:1,75',Borussia Mönchengladbach,Hertha BSC,4:1 ,1979/1980,1
+22,Georg Volkert,Linksaußen,VfB Stuttgart,Dieter Burdenski,3:1,76',VfB Stuttgart,SV Werder Bremen,5:1 ,1979/1980,1
+22,Georg Volkert,Linksaußen,VfB Stuttgart,Dieter Burdenski,4:1,79',VfB Stuttgart,SV Werder Bremen,5:1 ,1979/1980,1
+23,Friedhelm Funkel,Offensives Mittelfeld,KFC Uerdingen 05,Helmut Roleder,1:0,16',KFC Uerdingen 05,VfB Stuttgart,4:2 ,1979/1980,1
+23,Hans-Günter Neues,Innenverteidiger,1.FC Kaiserslautern,Rudi Kargus,2:2,73',1.FC Kaiserslautern,Hamburger SV,4:2 ,1979/1980,1
+26,Wilfried Hannes,Innenverteidiger,Borussia Mönchengladbach,Toni Schumacher,1:0,15',Borussia Mönchengladbach,1.FC Köln,2:2 ,1979/1980,1
+15,Wilhelm Huberts,Libero,Eintracht Frankfurt,Wolfgang Schnarr,0:1,84',1.FC Kaiserslautern,Eintracht Frankfurt,0:1 ,1964/1965,1
+16,Dieter Höller,Rechtsaußen,VfB Stuttgart,Horst Schnoor,2:4,90',VfB Stuttgart,Hamburger SV,2:4 ,1964/1965,1
+18,Rudolf Brunnenmeier,Mittelstürmer,TSV 1860 München,Erich Wolf,6:0,57',TSV 1860 München,Karlsruher SC,9:0 ,1964/1965,1
+18,Otto Rehhagel,Rechter Verteidiger,Hertha BSC,Roland Wabra,1:2,68',Hertha BSC,1.FC Nürnberg,1:2 ,1964/1965,1
+20,Stefan Reisch,Linkes Mittelfeld,1.FC Nürnberg,Gyula Tóth,1:1,37',FC Schalke 04,1.FC Nürnberg,1:3 ,1964/1965,1
+20,Stefan Reisch,Linkes Mittelfeld,1.FC Nürnberg,Gyula Tóth,1:2,63',FC Schalke 04,1.FC Nürnberg,1:3 ,1964/1965,1
+21,Hermann Straschitz,Mittelfeld,Borussia Dortmund,Gyula Tóth,2:0,27',Borussia Dortmund,FC Schalke 04,4:0 ,1964/1965,1
+22,Otto Rehhagel,Rechter Verteidiger,Hertha BSC,Wilfried Tepe,3:1,35',TSV 1860 München,Hertha BSC,6:4 ,1964/1965,1
+22,Helmut Benthaus,Defensives Mittelfeld,1.FC Köln,Hans Jäcker,1:1,37',Eintracht Braunschweig,1.FC Köln,1:1 ,1964/1965,1
+22,Theodor Hoffmann,Defensives Mittelfeld,VfB Stuttgart,Gyula Tóth,3:1,75',FC Schalke 04,VfB Stuttgart,3:1 ,1964/1965,1
+12,Ludwig Bründl,Mittelstürmer,Eintracht Braunschweig,Volkmar Groß,1:0,32',Eintracht Braunschweig,Hertha BSC,1:1 ,1971/1972,1
+12,Bernd Lehmann,Offensives Mittelfeld,MSV Duisburg,Sepp Maier,2:1,34',FC Bayern München,MSV Duisburg,5:1 ,1971/1972,1
+12,Franz Roth,Defensives Mittelfeld,FC Bayern München,Volker Danner,3:1,42',FC Bayern München,MSV Duisburg,5:1 ,1971/1972,1
+12,Reinhold Wosab,Rechter Verteidiger,VfL Bochum,Gerhard Welz,1:2,50',VfL Bochum,1.FC Köln,1:5 ,1971/1972,1
+12,Franz Roth,Defensives Mittelfeld,FC Bayern München,Volker Danner,5:1,59',FC Bayern München,MSV Duisburg,5:1 ,1971/1972,1
+12,Peter Nogly,Innenverteidiger,Hamburger SV,Zlatko Skoric,0:2,64',VfB Stuttgart,Hamburger SV,0:3 ,1971/1972,1
+12,Karl-Heinz Vogt,Sturm,1.FC Kaiserslautern,Horst Bertram,3:0,70',1.FC Kaiserslautern,Borussia Dortmund,6:0 ,1971/1972,1
+13,Arnold Schütz,Innenverteidiger,SV Werder Bremen,Bernd Franke,0:1,14',Eintracht Braunschweig,SV Werder Bremen,1:1 ,1971/1972,1
+13,Lorenz Horr,Sturm,Hertha BSC,Wolfgang Scheid,1:0,24',Hertha BSC,Rot-Weiß Oberhausen,2:0 ,1971/1972,1
+13,Klaus Scheer,Mittelstürmer,FC Schalke 04,Josef Elting,1:0,56',FC Schalke 04,1.FC Kaiserslautern,3:0 ,1971/1972,1
+8,Ernst Diehl,Libero,1.FC Kaiserslautern,Werner Scholz,2:0,75',1.FC Kaiserslautern,VfL Bochum,2:1 ,1975/1976,1
+9,Bernd Gersdorff,Mittelstürmer,Eintracht Braunschweig,Bernd Helmschrot,4:0,60',Eintracht Braunschweig,Kickers Offenbach,5:1 ,1975/1976,1
+9,Werner Weist,Mittelstürmer,SV Werder Bremen,Kurt Büns,3:0,67',SV Werder Bremen,Fortuna Düsseldorf,3:0 ,1975/1976,1
+10,Erich Beer,Offensives Mittelfeld,Hertha BSC,Franz-Josef Pauly,0:3,18',Hannover 96,Hertha BSC,2:6 ,1975/1976,1
+10,Georg Volkert,Linksaußen,Hamburger SV,Günther Wienhold,4:2,71',Hamburger SV,Eintracht Frankfurt,4:2 ,1975/1976,1
+11,Horst-Dieter Höttges,Libero,SV Werder Bremen,Bernd Helmschrot,1:0,31',SV Werder Bremen,Kickers Offenbach,3:1 ,1975/1976,1
+11,Lorenz-Günther Köstner,Mittelfeld,KFC Uerdingen 05,Dragan Mutibaric,3:1,66',KFC Uerdingen 05,FC Schalke 04,3:2 ,1975/1976,1
+12,Jupp Heynckes,Mittelstürmer,Borussia Mönchengladbach,Dieter Burdenski,3:0,83',Borussia Mönchengladbach,SV Werder Bremen,3:0 ,1975/1976,1
+13,Bernd Gersdorff,Mittelstürmer,Eintracht Braunschweig,Rudi Kargus,1:0,11',Eintracht Braunschweig,Hamburger SV,1:0 ,1975/1976,1
+13,Bernd Lorenz,Mittelstürmer,Eintracht Frankfurt,Werner Scholz,2:0,48',Eintracht Frankfurt,VfL Bochum,6:0 ,1975/1976,1
+16,Arnold Schütz,Innenverteidiger,SV Werder Bremen,Hans Tilkowski,4:3,84',Borussia Dortmund,SV Werder Bremen,4:3 ,1963/1964,1
+18,Hans Sturm,Linkes Mittelfeld,1.FC Köln,Petar Radenkovic,1:1,34',1.FC Köln,TSV 1860 München,2:2 ,1963/1964,1
+18,Jürgen Moll,Sturm,Eintracht Braunschweig,Volker Danner,3:1,72',Eintracht Braunschweig,1.FC Saarbrücken,3:1 ,1963/1964,1
+19,Gustav Witlatschil,Linker Verteidiger,Karlsruher SC,Hans Jäcker,3:0,65',Karlsruher SC,Eintracht Braunschweig,3:1 ,1963/1964,1
+20,Wilhelm Huberts,Libero,Eintracht Frankfurt,Hans Jäcker,0:1,28',Eintracht Braunschweig,Eintracht Frankfurt,0:3 ,1963/1964,1
+20,Heinz Strehl,Mittelstürmer,1.FC Nürnberg,Volker Danner,1:0,29',1.FC Nürnberg,1.FC Saarbrücken,2:0 ,1963/1964,1
+20,Rudolf Brunnenmeier,Mittelstürmer,TSV 1860 München,Horst-Dieter Strich,1:1,51',1.FC Kaiserslautern,TSV 1860 München,2:1 ,1963/1964,1
+20,Ludwig Nolden,Mittelstürmer,MSV Duisburg,Günter Bernard,1:0,70',MSV Duisburg,SV Werder Bremen,1:0 ,1963/1964,1
+21,Arnold Schütz,Innenverteidiger,SV Werder Bremen,Toni Schumacher,1:0,45',SV Werder Bremen,1.FC Köln,1:1 ,1963/1964,1
+21,Klaus Bockisch,Libero,Preußen Münster,Horst-Dieter Strich,1:0,48',Preußen Münster,1.FC Kaiserslautern,1:0 ,1963/1964,1
+10,Horst-Dieter Höttges,Libero,SV Werder Bremen,Wolfgang Schnarr,3:1,43',SV Werder Bremen,1.FC Kaiserslautern,3:2 ,1969/1970,1
+13,Gert Fröhlich,Mittelfeld,Rot-Weiß Oberhausen,Gert Girschkowski,1:2,35',Rot-Weiß Oberhausen,Hamburger SV,1:3 ,1969/1970,1
+13,Reinhold Wosab,Rechter Verteidiger,Borussia Dortmund,Petar Radenkovic,1:1,52',Borussia Dortmund,TSV 1860 München,3:1 ,1969/1970,1
+14,Ion Gheorghe Ionescu,Mittelstürmer,Alemannia Aachen,Jürgen Rynio,2:0,59',Alemannia Aachen,Borussia Dortmund,3:1 ,1969/1970,1
+14,Erwin Hoffmann,Offensives Mittelfeld,Alemannia Aachen,Jürgen Rynio,3:1,83',Alemannia Aachen,Borussia Dortmund,3:1 ,1969/1970,1
+16,Otto Geisert,Offensives Mittelfeld,1.FC Kaiserslautern,Manfred Manglitz,1:1,13',1.FC Köln,1.FC Kaiserslautern,6:1 ,1969/1970,1
+16,Dieter Brenninger,Mittelstürmer,FC Bayern München,Wolfgang Scheid,2:3,53',Rot-Weiß Oberhausen,FC Bayern München,3:3 ,1969/1970,1
+16,Heinz van Haaren,Offensives Mittelfeld,FC Schalke 04,Fred-Werner Bockholt,5:3,81',FC Schalke 04,Rot-Weiss Essen,5:3 ,1969/1970,1
+17,Lothar Ulsaß,Mittelstürmer,Eintracht Braunschweig,Dieter Feller,1:0,65',Eintracht Braunschweig,VfB Stuttgart,1:0 ,1969/1970,1
+20,Jupp Martinelli,Mittelfeld,Alemannia Aachen,Gernot Fraydl,1:0,10',Alemannia Aachen,Hertha BSC,2:4 ,1969/1970,1
+20,Arnold Schütz,Innenverteidiger,SV Werder Bremen,Horst Podlasly,1:0,26',SV Werder Bremen,Hannover 96,1:0 ,1969/1970,1
+20,Otto Rehhagel,Rechter Verteidiger,1.FC Kaiserslautern,Norbert Nigbur,1:1,65',1.FC Kaiserslautern,FC Schalke 04,1:1 ,1969/1970,1
+20,Lothar Kobluhn,Defensives Mittelfeld,Rot-Weiß Oberhausen,Jürgen Rynio,2:1,69',Borussia Dortmund,Rot-Weiß Oberhausen,3:2 ,1969/1970,1
+20,Alfred Heiß,Linksaußen,TSV 1860 München,Dieter Feller,4:1,78',TSV 1860 München,VfB Stuttgart,4:1 ,1969/1970,1
+21,Arnold Schütz,Innenverteidiger,SV Werder Bremen,Gert Girschkowski,1:1,82',Hamburger SV,SV Werder Bremen,2:2 ,1969/1970,1
+22,Horst Haug,Offensives Mittelfeld,VfB Stuttgart,Volkmar Groß,3:1,87',Hertha BSC,VfB Stuttgart,3:1 ,1969/1970,1
+23,Hans Siemensmeyer,Hängende Spitze,Hannover 96,Werner Scholz,4:0,49',Hannover 96,Alemannia Aachen,5:0 ,1969/1970,1
+23,Horst Haug,Offensives Mittelfeld,VfB Stuttgart,Fred-Werner Bockholt,3:0,61',VfB Stuttgart,Rot-Weiss Essen,4:1 ,1969/1970,1
+23,Wolfgang Gayer,Hängende Spitze,Hertha BSC,Manfred Manglitz,3:1,74',1.FC Köln,Hertha BSC,5:1 ,1969/1970,1
+23,Wolfgang Overath,Offensives Mittelfeld,1.FC Köln,Gernot Fraydl,5:1,86',1.FC Köln,Hertha BSC,5:1 ,1969/1970,1
+6,Wolfgang Overath,Offensives Mittelfeld,1.FC Köln,Günter Sawitzki,2:2,71',1.FC Köln,VfB Stuttgart,2:2 ,1967/1968,1
+7,Djordje Pavlic,Mittelstürmer,MSV Duisburg,Horst Wolter,1:0,17',MSV Duisburg,Eintracht Braunschweig,2:3 ,1967/1968,1
+7,Horst-Dieter Höttges,Libero,SV Werder Bremen,Günter Sawitzki,3:1,51',SV Werder Bremen,VfB Stuttgart,3:1 ,1967/1968,1
+8,Wolfgang Gayer,Hängende Spitze,Borussia Neunkirchen,Jürgen Rynio,3:1,58',Borussia Neunkirchen,Karlsruher SC,3:2 ,1967/1968,1
+9,Peter Grosser,Zentrales Mittelfeld,TSV 1860 München,Gerhard Prokop,1:2,52',Alemannia Aachen,TSV 1860 München,3:3 ,1967/1968,1
+9,Helmut Kapitulski,Linksaußen,1.FC Kaiserslautern,Günter Bernard,1:1,57',1.FC Kaiserslautern,SV Werder Bremen,2:2 ,1967/1968,1
+9,Hermann Straschitz,Mittelfeld,Hannover 96,Horst Wolter,1:1,59',Hannover 96,Eintracht Braunschweig,1:1 ,1967/1968,1
+9,Klaus-Dieter Sieloff,Libero,VfB Stuttgart,Roland Wabra,3:1,60',1.FC Nürnberg,VfB Stuttgart,5:1 ,1967/1968,1
+9,Günter Netzer,Offensives Mittelfeld,Borussia Mönchengladbach,Sepp Maier,3:1,69',FC Bayern München,Borussia Mönchengladbach,3:1 ,1967/1968,1
+10,Hermann Straschitz,Mittelfeld,Hannover 96,Petar Radenkovic,2:1,27',TSV 1860 München,Hannover 96,3:1 ,1967/1968,1
+10,Wolfgang Overath,Offensives Mittelfeld,1.FC Köln,Wolfgang Schnarr,5:0,65',1.FC Köln,1.FC Kaiserslautern,5:0 ,1967/1968,1
+11,Willi Kraus,Sturm,FC Schalke 04,Horst Podlasly,2:1,51',Hannover 96,FC Schalke 04,2:1 ,1967/1968,1
+12,Wolfgang Overath,Offensives Mittelfeld,1.FC Köln,Roland Wabra,3:2,72',1.FC Köln,1.FC Nürnberg,3:3 ,1967/1968,1
+13,Horst-Dieter Höttges,Libero,SV Werder Bremen,Horst Podlasly,1:1,37',Hannover 96,SV Werder Bremen,4:2 ,1967/1968,1
+13,Günter Netzer,Offensives Mittelfeld,Borussia Mönchengladbach,Özcan Arkoc,1:2,37',Hamburger SV,Borussia Mönchengladbach,2:3 ,1967/1968,1
+13,Hermann Straschitz,Mittelfeld,Hannover 96,Günter Bernard,2:1,43',Hannover 96,SV Werder Bremen,4:2 ,1967/1968,1
+13,Gerd Müller,Mittelstürmer,FC Bayern München,Günter Sawitzki,2:1,73',FC Bayern München,VfB Stuttgart,3:1 ,1967/1968,1
+13,Lothar Schämer,Rechter Verteidiger,Eintracht Frankfurt,Toni Schumacher,1:2,85',Eintracht Frankfurt,1.FC Köln,1:2 ,1967/1968,1
+14,Horst-Dieter Höttges,Libero,SV Werder Bremen,Sepp Maier,1:0,16',SV Werder Bremen,FC Bayern München,4:1 ,1967/1968,1
+14,Horst-Dieter Höttges,Libero,SV Werder Bremen,Sepp Maier,4:1,87',SV Werder Bremen,FC Bayern München,4:1 ,1967/1968,1
+8,Klaus Täuber,Mittelstürmer,FC Schalke 04,Dieter Burdenski,2:1,56',FC Schalke 04,SV Werder Bremen,2:2 ,1984/1985,1
+8,Christian Schreier,Offensives Mittelfeld,Bayer 04 Leverkusen,Bernd Fuhr,4:1,84',Bayer 04 Leverkusen,Karlsruher SC,4:1 ,1984/1985,1
+10,Nico Claesen,Mittelstürmer,VfB Stuttgart,Uwe Greiner,2:1,35',Fortuna Düsseldorf,VfB Stuttgart,2:2 ,1984/1985,1
+10,Stefan Kuntz,Mittelstürmer,VfL Bochum,Wolfgang Kneib,1:1,56',VfL Bochum,Arminia Bielefeld,1:1 ,1984/1985,1
+11,Günter Sebert,Libero,SV Waldhof Mannheim,Uwe Greiner,1:1,36',SV Waldhof Mannheim,Fortuna Düsseldorf,2:1 ,1984/1985,1
+11,Peter Lux,Mittelfeld,Eintracht Braunschweig,Bernd Fuhr,2:0,44',Eintracht Braunschweig,Karlsruher SC,3:1 ,1984/1985,1
+13,Michael Zorc,Defensives Mittelfeld,Borussia Dortmund,Waldemar Josef,1:0,6',Borussia Dortmund,Eintracht Braunschweig,3:1 ,1984/1985,1
+13,Stefan Kuntz,Mittelstürmer,VfL Bochum,Jean-Marie Pfaff,2:2,24',FC Bayern München,VfL Bochum,2:2 ,1984/1985,1
+13,Peter Lux,Mittelfeld,Eintracht Braunschweig,Eike Immel,1:1,24',Borussia Dortmund,Eintracht Braunschweig,3:1 ,1984/1985,1
+13,Jürgen Fleer,Libero,Fortuna Düsseldorf,Jürgen Pahl,3:1,71',Fortuna Düsseldorf,Eintracht Frankfurt,3:1 ,1984/1985,1
+16,Michael Polywka,Rechtes Mittelfeld,Eintracht Braunschweig,Wolfgang Schnarr,1:0,37',Eintracht Braunschweig,1.FC Kaiserslautern,3:0 ,1968/1969,1
+16,Erwin Hoffmann,Offensives Mittelfeld,Alemannia Aachen,Paul Heyeres,0:2,87',1.FC Köln,Alemannia Aachen,1:2 ,1968/1969,1
+17,Dieter Koulmann,Mittelfeld,Kickers Offenbach,Klaus Günther,3:2,56',Kickers Offenbach,Borussia Dortmund,4:3 ,1968/1969,1
+17,Dieter Koulmann,Mittelfeld,Kickers Offenbach,Klaus Günther,4:2,73',Kickers Offenbach,Borussia Dortmund,4:3 ,1968/1969,1
+18,Heinz-Dieter Hasebrink,Zentrales Mittelfeld,1.FC Kaiserslautern,Sepp Maier,3:1,80',1.FC Kaiserslautern,FC Bayern München,3:1 ,1968/1969,1
+19,Günter Netzer,Offensives Mittelfeld,Borussia Mönchengladbach,Paul Heyeres,0:3,64',1.FC Köln,Borussia Mönchengladbach,1:4 ,1968/1969,1
+20,Günter Netzer,Offensives Mittelfeld,Borussia Mönchengladbach,Roland Wabra,1:1,46',Borussia Mönchengladbach,1.FC Nürnberg,1:1 ,1968/1969,1
+21,Ludwig Müller,Libero,1.FC Nürnberg,Horst Podlasly,1:0,38',1.FC Nürnberg,Hannover 96,1:2 ,1968/1969,1
+21,Wolfgang Paul,Innenverteidiger,Borussia Dortmund,Petar Radenkovic,2:0,43',Borussia Dortmund,TSV 1860 München,2:0 ,1968/1969,1
+22,Horst-Dieter Höttges,Libero,SV Werder Bremen,Norbert Nigbur,1:1,74',FC Schalke 04,SV Werder Bremen,2:1 ,1968/1969,1
